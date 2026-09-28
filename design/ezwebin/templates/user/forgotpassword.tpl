@@ -6,17 +6,17 @@
 
 {if $link}
 <p>
-{"An email has been sent to the following address: %1. It contains a link you need to click so that we can confirm that the correct user has received the new password."|i18n('design/ezwebin/user/forgotpassword',,array($email))}
+{"If an account is registered with the email address %1, a mail has been sent to it. This email contains a link you need to click so that we can confirm that the correct user is getting the new password."|i18n('design/standard/user/forgotpassword',,array($email|wash))}
 </p>
 {else}
    {if $wrong_email}
    <div class="warning">
-   <h2>{"There is no registered user with that email address."|i18n('design/ezwebin/user/forgotpassword')}</h2>
+   <h2>{"Please enter a valid email address."|i18n('design/standard/user/forgotpassword')}</h2>
    </div>
    {/if}
    {if $generated}
    <p>
-   {"Password was successfully generated and sent to: %1"|i18n('design/ezwebin/user/forgotpassword',,array($email))}
+   {"Password was successfully generated and sent to: %1"|i18n('design/ezwebin/user/forgotpassword',,array($email|wash))}
    </p>
    {else}
       {if $wrong_key}
