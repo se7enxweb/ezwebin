@@ -1062,7 +1062,7 @@
 <context>
     <name>design/ezwebin/ezinfo/about</name>
     <message>
-        <source>eZ Publish information: %version</source>
+        <source>Exponential information: %version</source>
         <translation>eZ-Publish-Information: %version</translation>
     </message>
     <message>
@@ -1086,8 +1086,8 @@
         <translation>Erweiterungen</translation>
     </message>
     <message>
-        <source>What is eZ Publish?</source>
-        <translation>Was ist eZ Publish?</translation>
+        <source>What is Exponential?</source>
+        <translation>Was ist Exponential?</translation>
     </message>
 </context>
 <context>
@@ -1116,16 +1116,16 @@
         <translation>Export von OpenOffice.org</translation>
     </message>
     <message>
-        <source>Export eZ publish content to OpenOffice.org</source>
-        <translation>Inhalte von eZ Publish nach OpenOffice.org exportieren</translation>
+        <source>Export Exponential content to OpenOffice.org</source>
+        <translation>Inhalte von Exponential nach OpenOffice.org exportieren</translation>
     </message>
     <message>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <source>Here you can export any eZ publish content object to an OpenOffice.org Writer document format.</source>
-        <translation>Hier können Sie beliebige Inhaltsobjekte von eZ Publish in ein Dokumentformat von OpenOffice.org Writer exportieren.</translation>
+        <source>Here you can export any Exponential content object to an OpenOffice.org Writer document format.</source>
+        <translation>Hier können Sie beliebige Inhaltsobjekte von Exponential in ein Dokumentformat von OpenOffice.org Writer exportieren.</translation>
     </message>
     <message>
         <source>Export Object</source>
@@ -1175,8 +1175,8 @@
         <translation>Importieren nach</translation>
     </message>
     <message>
-        <source>You can import OpenOffice.org Writer documents directly into eZ publish from this page. You are
-asked where to place the document and eZ publish does the rest. The document is converted into
+        <source>You can import OpenOffice.org Writer documents directly into Exponential from this page. You are
+asked where to place the document and Exponential does the rest. The document is converted into
 the appropriate class during the import, you get a notice about this after the import is done.
 Images are placed in the media library so you can re-use them in other articles.</source>
         <translation type="unfinished"></translation>
@@ -1832,7 +1832,7 @@ Images are placed in the media library so you can re-use them in other articles.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and eZ Publish configuration.</source>
+        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and Exponential configuration.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2848,8 +2848,8 @@ Images are placed in the media library so you can re-use them in other articles.
         <translation>Passwort vergessen?</translation>
     </message>
     <message>
-        <source>Log in to the eZ Publish Administration Interface</source>
-        <translation>Am Administrationsinterface von eZ Publish anmelden</translation>
+        <source>Log in to the Exponential Administration Interface</source>
+        <translation>Am Administrationsinterface von Exponential anmelden</translation>
     </message>
     <message>
         <source>Sign up</source>

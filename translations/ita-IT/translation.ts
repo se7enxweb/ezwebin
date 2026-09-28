@@ -1066,12 +1066,12 @@
 <context>
     <name>design/ezwebin/ezinfo/about</name>
     <message>
-        <source>eZ Publish information: %version</source>
-        <translation>Informazioni su eZ Publish: %version</translation>
+        <source>Exponential information: %version</source>
+        <translation>Informazioni su Exponential: %version</translation>
     </message>
     <message>
-        <source>What is eZ Publish?</source>
-        <translation>Che cos&apos;è eZ Publish?</translation>
+        <source>What is Exponential?</source>
+        <translation>Che cos&apos;è Exponential?</translation>
     </message>
     <message>
         <source>Licence</source>
@@ -1124,16 +1124,16 @@
         <translation>Esportazione OpenOffice.org</translation>
     </message>
     <message>
-        <source>Export eZ publish content to OpenOffice.org</source>
-        <translation>Esporta il contenuto eZ publish in OpenOffice.org</translation>
+        <source>Export Exponential content to OpenOffice.org</source>
+        <translation>Esporta il contenuto Exponential in OpenOffice.org</translation>
     </message>
     <message>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <source>Here you can export any eZ publish content object to an OpenOffice.org Writer document format.</source>
-        <translation>Qui puoi esportare qualsiasi contenuto eZ publish in un documento in formato OpenOffice.org Writer.</translation>
+        <source>Here you can export any Exponential content object to an OpenOffice.org Writer document format.</source>
+        <translation>Qui puoi esportare qualsiasi contenuto Exponential in un documento in formato OpenOffice.org Writer.</translation>
     </message>
     <message>
         <source>Export Object</source>
@@ -1183,12 +1183,12 @@
         <translation>Importa a</translation>
     </message>
     <message>
-        <source>You can import OpenOffice.org Writer documents directly into eZ publish from this page. You are
-asked where to place the document and eZ publish does the rest. The document is converted into
+        <source>You can import OpenOffice.org Writer documents directly into Exponential from this page. You are
+asked where to place the document and Exponential does the rest. The document is converted into
 the appropriate class during the import, you get a notice about this after the import is done.
 Images are placed in the media library so you can re-use them in other articles.</source>
-        <translation>Puoi importare documenti OpenOffice.org Writer direttamente in eZ Publish da questa pagina. Ti verrà chiesto
-dove posizionare i documenti e eZ Publish farà il resto. Il documento viene convertito nella classe
+        <translation>Puoi importare documenti OpenOffice.org Writer direttamente in Exponential da questa pagina. Ti verrà chiesto
+dove posizionare i documenti e Exponential farà il resto. Il documento viene convertito nella classe
 appropriata durante l&apos;importazione, ne riceverai notifica al completamento dell&apos;importazione.
 Le immagini vengono collocate nella libreria media in modo da poter essere riutilizzate.</translation>
     </message>
@@ -1843,8 +1843,8 @@ Le immagini vengono collocate nella libreria media in modo da poter essere riuti
         <translation>URL sito</translation>
     </message>
     <message>
-        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and eZ Publish configuration.</source>
-        <translation>Usa questo campo per inserire la URL base del tuo sito web. Viene usata per produrre le URLs nell&apos;esportazione, composte dalla URL del sito web (e.g. &quot;http://www.example.com/index.php&quot;) ed il percorso dell&apos;oggetto (e.g. &quot;/articles/my_article&quot;). L&apos; URL del sito web depende dal tuo web server e dalla configurazione di eZ Publish.</translation>
+        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and Exponential configuration.</source>
+        <translation>Usa questo campo per inserire la URL base del tuo sito web. Viene usata per produrre le URLs nell&apos;esportazione, composte dalla URL del sito web (e.g. &quot;http://www.example.com/index.php&quot;) ed il percorso dell&apos;oggetto (e.g. &quot;/articles/my_article&quot;). L&apos; URL del sito web depende dal tuo web server e dalla configurazione di Exponential.</translation>
     </message>
     <message>
         <source>Leave this field emty if you want system automaticaly detect the URL of your site from the URL you access feed with</source>
@@ -2841,8 +2841,8 @@ Le immagini vengono collocate nella libreria media in modo da poter essere riuti
         <translation>Password</translation>
     </message>
     <message>
-        <source>Log in to the eZ Publish Administration Interface</source>
-        <translation>Accedi all&apos; Interfaccia di Amministrazione di eZ Publish</translation>
+        <source>Log in to the Exponential Administration Interface</source>
+        <translation>Accedi all&apos; Interfaccia di Amministrazione di Exponential</translation>
     </message>
     <message>
         <source>Remember me</source>

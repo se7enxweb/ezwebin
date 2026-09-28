@@ -1085,12 +1085,12 @@
 <context>
     <name>design/ezwebin/ezinfo/about</name>
     <message>
-        <source>eZ Publish information: %version</source>
-        <translation>eZ Publish informatie: %version</translation>
+        <source>Exponential information: %version</source>
+        <translation>Exponential informatie: %version</translation>
     </message>
     <message>
-        <source>What is eZ Publish?</source>
-        <translation>Wat is eZ Publish?</translation>
+        <source>What is Exponential?</source>
+        <translation>Wat is Exponential?</translation>
     </message>
     <message>
         <source>Licence</source>
@@ -1143,16 +1143,16 @@
         <translation>OpenOffice.org-export</translation>
     </message>
     <message>
-        <source>Export eZ publish content to OpenOffice.org</source>
-        <translation>Exporteer eZ publish inhoud naar OpenOffice.org</translation>
+        <source>Export Exponential content to OpenOffice.org</source>
+        <translation>Exporteer Exponential inhoud naar OpenOffice.org</translation>
     </message>
     <message>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <source>Here you can export any eZ publish content object to an OpenOffice.org Writer document format.</source>
-        <translation>Hier kunt u elk eZ publish inhoudsobject exporteren naar een OpenOffice.org schrijfdocumentformaat.</translation>
+        <source>Here you can export any Exponential content object to an OpenOffice.org Writer document format.</source>
+        <translation>Hier kunt u elk Exponential inhoudsobject exporteren naar een OpenOffice.org schrijfdocumentformaat.</translation>
     </message>
     <message>
         <source>Export Object</source>
@@ -1202,12 +1202,12 @@
         <translation>Importeer naar</translation>
     </message>
     <message>
-        <source>You can import OpenOffice.org Writer documents directly into eZ publish from this page. You are
-asked where to place the document and eZ publish does the rest. The document is converted into
+        <source>You can import OpenOffice.org Writer documents directly into Exponential from this page. You are
+asked where to place the document and Exponential does the rest. The document is converted into
 the appropriate class during the import, you get a notice about this after the import is done.
 Images are placed in the media library so you can re-use them in other articles.</source>
         <translation>Vanaf deze pagina kunt u OpenOffice documenten rechtstreeks importeren. U geeft aan
-waar het document geplaatst moet worden en eZ publish doet de rest.Het document wordt tijdens het importeren
+waar het document geplaatst moet worden en Exponential doet de rest.Het document wordt tijdens het importeren
 omgezet in de passende klasse, u krijgt hiervan een bericht als de import is voltooid.
 Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt gebruiken in andere artikelen.</translation>
     </message>
@@ -1863,8 +1863,8 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
         <translation>Site URL</translation>
     </message>
     <message>
-        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and eZ Publish configuration.</source>
-        <translation>Gebruik dit veld om de basis-URL van uw site in te voeren. Dit wordt gebruikt om de URLs in de export te vormen, samengesteld uit de site URL (bijv. &quot;http://www.example.com/index.php&quot;) en het pad naar het object (bijv. &quot;/articles/my_article&quot;). De site URL hangt af van uw web server en de eZ Publish configuratie.</translation>
+        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and Exponential configuration.</source>
+        <translation>Gebruik dit veld om de basis-URL van uw site in te voeren. Dit wordt gebruikt om de URLs in de export te vormen, samengesteld uit de site URL (bijv. &quot;http://www.example.com/index.php&quot;) en het pad naar het object (bijv. &quot;/articles/my_article&quot;). De site URL hangt af van uw web server en de Exponential configuratie.</translation>
     </message>
     <message>
         <source>Leave this field emty if you want system automaticaly detect the URL of your site from the URL you access feed with</source>
@@ -2866,8 +2866,8 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
         <translation>Wachtwoord</translation>
     </message>
     <message>
-        <source>Log in to the eZ Publish Administration Interface</source>
-        <translation>Meld u aan bij de eZ Publish Beheerinterface</translation>
+        <source>Log in to the Exponential Administration Interface</source>
+        <translation>Meld u aan bij de Exponential Beheerinterface</translation>
     </message>
     <message>
         <source>Remember me</source>
