@@ -1,6 +1,6 @@
 {
     "name": "se7enxweb/ezwebin",
-    "description": "eZ Publish Legacy website interface extension",
+    "description": "Exponential Legacy website interface extension",
     "type": "ezpublish-legacy-extension",
     "license": "GPL-2.0-or-later",
     "authors": [
