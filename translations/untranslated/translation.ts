@@ -353,6 +353,14 @@
         <source>Show calendar to select a date.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hour</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minute</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/content/draft</name>
@@ -1097,6 +1105,10 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
     <message>
         <source>File:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document imported as</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2706,6 +2718,18 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>OK</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Your account is now activated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sorry, the key submitted was not a valid key. Account was not activated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account is already active.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/user/edit</name>
@@ -3071,6 +3095,85 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
     <message>
         <source>The imported document is waiting for an approbation to be published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>design/ezwebin/content/diff</name>
+    <message>
+        <source>Versions for &lt;%object_name&gt; [%version_count]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Published</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archived</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rejected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Untouched draft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This object does not have any versions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show differences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Differences between versions %oldVersion and %newVersion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Old version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inline changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Block changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

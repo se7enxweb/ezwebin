@@ -782,6 +782,14 @@
         <source>Show calendar to select a date.</source>
         <translation>Show calendar to select a date.</translation>
     </message>
+    <message>
+        <source>Hour</source>
+        <translation>Hour</translation>
+    </message>
+    <message>
+        <source>Minute</source>
+        <translation>Minute</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/content/datatype</name>
@@ -917,6 +925,12 @@
     <message>
         <source>You have no drafts</source>
         <translation>You have no drafts</translation>
+    </message>
+    <message>
+        <source>These are the current objects you are working on. The drafts are owned by you and can only be seen by you.
+      You can either edit the drafts or remove them if you don't need them any more.</source>
+        <translation>These are the current objects you are working on. The drafts are owned by you and can only be seen by you.
+      You can either edit the drafts or remove them if you don't need them any more.</translation>
     </message>
 </context>
 <context>
@@ -1549,6 +1563,10 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Upload file</source>
         <translation>Upload file</translation>
+    </message>
+    <message>
+        <source>Document imported as</source>
+        <translation>Document imported as</translation>
     </message>
 </context>
 <context>
@@ -2824,6 +2842,18 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>OK</source>
         <translation>OK</translation>
     </message>
+    <message>
+        <source>Your account is now activated.</source>
+        <translation>Your account is now activated.</translation>
+    </message>
+    <message>
+        <source>Sorry, the key submitted was not a valid key. Account was not activated.</source>
+        <translation>Sorry, the key submitted was not a valid key. Account was not activated.</translation>
+    </message>
+    <message>
+        <source>Your account is already active.</source>
+        <translation>Your account is already active.</translation>
+    </message>
 </context>
 <context>
     <name>design/standard/user</name>
@@ -2927,6 +2957,14 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Generate new password</source>
         <translation>Generate new password</translation>
+    </message>
+    <message>
+        <source>An email has been sent to the following address: %1. It contains a link you need to click so that we can confirm that the correct user has received the new password.</source>
+        <translation>An email has been sent to the following address: %1. It contains a link you need to click so that we can confirm that the correct user has received the new password.</translation>
+    </message>
+    <message>
+        <source>There is no registered user with that email address.</source>
+        <translation>There is no registered user with that email address.</translation>
     </message>
 </context>
 <context>
@@ -3070,6 +3108,85 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Your account was successfully created.</source>
         <translation>Your account was successfully created.</translation>
+    </message>
+</context>
+<context>
+    <name>design/ezwebin/content/diff</name>
+    <message>
+        <source>Versions for &lt;%object_name&gt; [%version_count]</source>
+        <translation>Versions for &lt;%object_name&gt; [%version_count]</translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation>Version</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation>Status</translation>
+    </message>
+    <message>
+        <source>Translations</source>
+        <translation>Translations</translation>
+    </message>
+    <message>
+        <source>Creator</source>
+        <translation>Creator</translation>
+    </message>
+    <message>
+        <source>Modified</source>
+        <translation>Modified</translation>
+    </message>
+    <message>
+        <source>Draft</source>
+        <translation>Draft</translation>
+    </message>
+    <message>
+        <source>Published</source>
+        <translation>Published</translation>
+    </message>
+    <message>
+        <source>Pending</source>
+        <translation>Pending</translation>
+    </message>
+    <message>
+        <source>Archived</source>
+        <translation>Archived</translation>
+    </message>
+    <message>
+        <source>Rejected</source>
+        <translation>Rejected</translation>
+    </message>
+    <message>
+        <source>Untouched draft</source>
+        <translation>Untouched draft</translation>
+    </message>
+    <message>
+        <source>This object does not have any versions.</source>
+        <translation>This object does not have any versions.</translation>
+    </message>
+    <message>
+        <source>Show differences</source>
+        <translation>Show differences</translation>
+    </message>
+    <message>
+        <source>Differences between versions %oldVersion and %newVersion</source>
+        <translation>Differences between versions %oldVersion and %newVersion</translation>
+    </message>
+    <message>
+        <source>Old version</source>
+        <translation>Old version</translation>
+    </message>
+    <message>
+        <source>Inline changes</source>
+        <translation>Inline changes</translation>
+    </message>
+    <message>
+        <source>Block changes</source>
+        <translation>Block changes</translation>
+    </message>
+    <message>
+        <source>New version</source>
+        <translation>New version</translation>
     </message>
 </context>
 </TS>

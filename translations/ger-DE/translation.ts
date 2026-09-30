@@ -1579,7 +1579,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Tags:</source>
-        <translation type="unfinished">Tags:</translation>
+        <translation>Tags:</translation>
     </message>
 </context>
 <context>
@@ -1886,7 +1886,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Name of the RSS export. This name is used in the Administration Interface only, to distinguish the different exports from each other.</source>
@@ -1894,7 +1894,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Beschreibung</translation>
+        <translation>Beschreibung</translation>
     </message>
     <message>
         <source>Use the description field to write a text explaining what users can expect from the RSS export.</source>
@@ -1918,7 +1918,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Durchsuchen</translation>
+        <translation>Durchsuchen</translation>
     </message>
     <message>
         <source>Click this button to select an image for the RSS export. Note that images only work with RSS version 2.0</source>
@@ -1994,7 +1994,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Class</source>
-        <translation type="unfinished">Klasse</translation>
+        <translation>Klasse</translation>
     </message>
     <message>
         <source>Use this drop-down to select the type of object that triggers the export. Click the &quot;Set&quot; button to load the correct attribute types for the remaining fields.</source>
@@ -2030,7 +2030,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished">Kategorie</translation>
+        <translation>Kategorie</translation>
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the category of the RSS export entry.</source>
@@ -2054,7 +2054,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Apply the changes and return to the RSS overview.</source>
@@ -2062,7 +2062,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Cancel the changes and return to the RSS overview.</source>
@@ -2077,7 +2077,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Name of the RSS import. This name is used in the Administration Interface only, to distinguish the different imports from each other.</source>
@@ -2093,7 +2093,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Aktualisieren</translation>
+        <translation>Aktualisieren</translation>
     </message>
     <message>
         <source>Click this button to proceed and analyze the import feed.</source>
@@ -2101,7 +2101,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>RSS Version</source>
-        <translation>RSS Version</translation>
+        <translation>RSS-Version</translation>
     </message>
     <message>
         <source>Destination path</source>
@@ -2109,7 +2109,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Durchsuchen</translation>
+        <translation>Durchsuchen</translation>
     </message>
     <message>
         <source>Click this button to select the destination node where objects created by the import are located.</source>
@@ -2129,7 +2129,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Class</source>
-        <translation type="unfinished">Klasse</translation>
+        <translation>Klasse</translation>
     </message>
     <message>
         <source>Use this drop-down to select the type of object the import should create. Click the &quot;Set&quot; button to load the attribute types for the remaining fields.</source>
@@ -2169,7 +2169,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Apply the changes and return to the RSS overview.</source>
@@ -2177,7 +2177,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Cancel the changes and return to the RSS overview.</source>
@@ -2192,23 +2192,23 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Invert selection</source>
-        <translation type="unfinished">Auswahl umkehren</translation>
+        <translation>Auswahl umkehren</translation>
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation type="unfinished">Auswahl umkehren.</translation>
+        <translation>Auswahl umkehren.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Modifier</source>
@@ -2216,7 +2216,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished">Geändert</translation>
+        <translation>Geändert</translation>
     </message>
     <message>
         <source>Select RSS export for removal.</source>
@@ -2232,7 +2232,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Bearbeiten</translation>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <source>Edit the &lt;%name&gt; RSS export.</source>
@@ -2244,7 +2244,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Remove selected</source>
-        <translation type="unfinished">Ausgewähltes entfernen</translation>
+        <translation>Ausgewählte entfernen</translation>
     </message>
     <message>
         <source>Remove selected RSS exports.</source>
@@ -2466,15 +2466,15 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Summary</source>
-        <translation type="unfinished">Zusammenfassung</translation>
+        <translation>Zusammenfassung</translation>
     </message>
     <message>
         <source>Total ex. VAT</source>
-        <translation type="unfinished">Gesamt exkl. USt</translation>
+        <translation>Gesamt exkl. USt</translation>
     </message>
     <message>
         <source>Total inc. VAT</source>
-        <translation type="unfinished">Gesamt inkl. USt</translation>
+        <translation>Gesamt inkl. USt</translation>
     </message>
 </context>
 <context>
@@ -3181,7 +3181,7 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     <name>extension/ezodf</name>
     <message>
         <source>Document imported as</source>
-        <translation type="unfinished">Das Dokument ist importiert als</translation>
+        <translation>Das Dokument wurde importiert als</translation>
     </message>
     <message>
         <source>The imported document is waiting for an approbation to be published.</source>
