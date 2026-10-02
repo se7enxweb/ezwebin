@@ -51,7 +51,7 @@
 </div>
 
 <p>
-    Copyright &copy; 1999-2014 <a href="http://ez.no/">eZ Systems AS</a>, with portions copyright by other parties. A complete list of all contributors and third-party
+    Copyright &copy; 1998 - 2026 <a href="https://se7enx.com">7x</a> &amp; Exponential Foundation. Copyright &copy; 1999-2014 <a href="http://ez.no/">eZ Systems AS</a>. Portions are copyright by other parties. A complete list of all contributors and third-party
     software follows.
 </p>
 
