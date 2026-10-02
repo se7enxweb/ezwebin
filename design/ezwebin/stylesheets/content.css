@@ -2987,8 +2987,3 @@ fieldset.ezcca-collapsible.ezcca-collapsed legend a
     background: url("../images/plus.png") no-repeat left center;
 }
 
-/* YUI2 Calendar */
-#page .yui-calcontainer .title
-{
-    position:absolute;
-}
