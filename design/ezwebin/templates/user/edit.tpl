@@ -10,6 +10,8 @@
   <h1 class="long">{"User profile"|i18n("design/ezwebin/user/edit")}</h1>
 </div>
 
+{include uri='design:mailpreferences/parts/account_link.tpl' context='profile'}
+
 <div class="block">
   <label>{"Username"|i18n("design/ezwebin/user/edit")}</label><div class="labelbreak"></div>
   <p class="box">{$userAccount.login|wash}</p>

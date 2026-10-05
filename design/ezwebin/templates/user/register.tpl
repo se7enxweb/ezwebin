@@ -44,6 +44,8 @@
  </div>
  {/foreach}
 
+ {include uri='design:mailpreferences/parts/signup.tpl' categories=first_set( $mail_categories, array() )}
+
  <div class="buttonblock">
  <input class="button" type="hidden" name="UserID" value="{$content_attributes[0].contentobject_id}">
  {if and( is_set( $checkErrNodeId ), $checkErrNodeId )|not()}
