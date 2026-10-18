@@ -428,6 +428,11 @@
         <translation>Dette er de aktuelle objekter, du arbejder på. Udkastene ejes af dig og kan kun ses af dig.
  Du kan enten redigere udkastene eller fjerne dem, hvis du ikke længere har brug for dem.</translation>
     </message>
+    <message>
+        <source>These are the current objects you are working on. The drafts are owned by you and can only be seen by you.
+      You can either edit the drafts or remove them if you don&apos;t need them any more.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/content/edit</name>
@@ -914,6 +919,10 @@
     <message>
         <source>Cancel</source>
         <translation>Annuller</translation>
+    </message>
+    <message>
+        <source>Recipient&apos;s email address</source>
+        <translation>Modtagerens email adresse</translation>
     </message>
 </context>
 <context>
@@ -2920,6 +2929,10 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     <message>
         <source>The new password must be at least %1 characters long, please retype your new password.</source>
         <translation>Den nye adgangskode skal være på mindst %1 tegn. Indtast din nye adgangskode igen.</translation>
+    </message>
+    <message>
+        <source>Password didn&apos;t match, please retype your new password.</source>
+        <translation>Adgangskode er forkert, vær venlig at indtaste din nye adgangskode.</translation>
     </message>
 </context>
 <context>
