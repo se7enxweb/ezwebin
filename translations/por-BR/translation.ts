@@ -43,19 +43,19 @@
     <name>design/ezodf/import</name>
     <message>
         <source>Create or update the translation in:</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar ou atualizar a tradução em:</translation>
     </message>
     <message>
         <source>Existing translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduções existentes</translation>
     </message>
     <message>
         <source>New translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Novas traduções</translation>
     </message>
     <message>
         <source>Import in:</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar em:</translation>
     </message>
 </context>
 <context>
@@ -351,11 +351,11 @@
     </message>
     <message>
         <source>Hour</source>
-        <translation type="obsolete">Hora</translation>
+        <translation>Hora</translation>
     </message>
     <message>
         <source>Minute</source>
-        <translation type="obsolete">Minuto</translation>
+        <translation>Minuto</translation>
     </message>
     <message>
         <source>Show calendar to select a date.</source>
@@ -366,79 +366,79 @@
     <name>design/ezwebin/content/diff</name>
     <message>
         <source>Versions for &lt;%object_name&gt; [%version_count]</source>
-        <translation type="obsolete">Versões para &lt;%object_name&gt; [%version_count]</translation>
+        <translation>Versões para &lt;%object_name&gt; [%version_count]</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="obsolete">Versão</translation>
+        <translation>Versão</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="obsolete">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="obsolete">Traduções</translation>
+        <translation>Traduções</translation>
     </message>
     <message>
         <source>Creator</source>
-        <translation type="obsolete">Criado por</translation>
+        <translation>Criado por</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="obsolete">Modificado</translation>
+        <translation>Modificado</translation>
     </message>
     <message>
         <source>Draft</source>
-        <translation type="obsolete">Rascunho</translation>
+        <translation>Rascunho</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation type="obsolete">Publicado</translation>
+        <translation>Publicado</translation>
     </message>
     <message>
         <source>Pending</source>
-        <translation type="obsolete">Pendente</translation>
+        <translation>Pendente</translation>
     </message>
     <message>
         <source>Archived</source>
-        <translation type="obsolete">Arquivado</translation>
+        <translation>Arquivado</translation>
     </message>
     <message>
         <source>Rejected</source>
-        <translation type="obsolete">Rejeitado</translation>
+        <translation>Rejeitado</translation>
     </message>
     <message>
         <source>Untouched draft</source>
-        <translation type="obsolete">Rascunho não tocado</translation>
+        <translation>Rascunho não tocado</translation>
     </message>
     <message>
         <source>This object does not have any versions.</source>
-        <translation type="obsolete">Este objeto não tem nenhuma versão.</translation>
+        <translation>Este objeto não tem nenhuma versão.</translation>
     </message>
     <message>
         <source>Show differences</source>
-        <translation type="obsolete">Mostrar diferenças</translation>
+        <translation>Mostrar diferenças</translation>
     </message>
     <message>
         <source>Differences between versions %oldVersion and %newVersion</source>
-        <translation type="obsolete">Diferenças entre as versões %oldVersion e %newVersion</translation>
+        <translation>Diferenças entre as versões %oldVersion e %newVersion</translation>
     </message>
     <message>
         <source>Old version</source>
-        <translation type="obsolete">Versão antiga</translation>
+        <translation>Versão antiga</translation>
     </message>
     <message>
         <source>Inline changes</source>
-        <translation type="obsolete">Modificações em linha</translation>
+        <translation>Modificações em linha</translation>
     </message>
     <message>
         <source>Block changes</source>
-        <translation type="obsolete">Modificações em parágrafo</translation>
+        <translation>Modificações em parágrafo</translation>
     </message>
     <message>
         <source>New version</source>
-        <translation type="obsolete">Nova versão</translation>
+        <translation>Nova versão</translation>
     </message>
 </context>
 <context>
@@ -460,6 +460,12 @@
       You can either edit the drafts or remove them if you don&apos;t need them any more.</source>
         <translation>Estes são os objetos que você está trabalhando no momento. Estes rascunhos pertencem à você e só podem ser vistos por você.
 	  Você pode editar os rascunhos ou removê-los se não precisar mais deles.</translation>
+    </message>
+    <message>
+        <source>These are the current objects you are working on. The drafts are owned by you and can only be seen by you.
+ You can either edit the drafts or remove them if you don&apos;t need them any more.</source>
+        <translation>Estes são os objetos em que você está trabalhando no momento. Os rascunhos pertencem a você e só podem ser vistos por você.
+ Você pode editar os rascunhos ou removê-los se não precisar mais deles.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -583,7 +589,7 @@
     </message>
     <message>
         <source>Owner</source>
-        <translation>Dono</translation>
+        <translation>Proprietário</translation>
     </message>
     <message>
         <source>Created</source>
@@ -604,16 +610,14 @@
     <message>
         <source>This object is already being edited by yourself and others.
     You can either continue editing one of your drafts or you can create a new draft.</source>
-        <translation>Este objeto já está sendo editado por você ou por outros.
-    Você pode continuar editando um de seus rascunhos ou pode criar um novo rascunho.  
-        </translation>
+        <translation>Este objeto já está sendo editado por você e por outras pessoas.
+    Você pode continuar editando um de seus rascunhos ou criar um novo rascunho.</translation>
     </message>
     <message>
         <source>This object is already being edited by someone else.
         You should either contact the person about their draft or create a new draft for your own use.</source>
         <translation>Este objeto já está sendo editado por outra pessoa.
-        Você pode contactar a pessoa sobre o rascunho ou criar um novo rascunho para o seu próprio uso.
-        </translation>
+        Entre em contato com a pessoa sobre o rascunho dela ou crie um novo rascunho para seu próprio uso.</translation>
     </message>
 </context>
 <context>
@@ -739,7 +743,7 @@
     </message>
     <message>
         <source>Create a copy of version #%version_number.</source>
-        <translation>Criar uma cópia da versão #%version_number. </translation>
+        <translation>Criar uma cópia da versão #%version_number.</translation>
     </message>
     <message>
         <source>Edit the contents of version #%version_number.</source>
@@ -929,7 +933,7 @@
     </message>
     <message>
         <source>Try changing some keywords (eg, &quot;car&quot; instead of &quot;cars&quot;).</source>
-        <translation>Tente alterar algumas palavras-chave ex: &amp;quot;automóveis&amp;quot; em vez de  &amp;quot;carros&amp;quot;.</translation>
+        <translation>Tente alterar algumas palavras-chave (por exemplo, &quot;carro&quot; em vez de &quot;carros&quot;).</translation>
     </message>
     <message>
         <source>Try searching with less specific keywords.</source>
@@ -972,11 +976,11 @@
     </message>
     <message>
         <source>Your email address</source>
-        <translation>Email</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Recipient&apos;s email address</source>
-        <translation>Quem recebe (email)</translation>
+        <translation>Quem recebe (e-mail)</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -1081,7 +1085,7 @@
     </message>
     <message>
         <source>Copyright Notice</source>
-        <translation>Copyright Notice</translation>
+        <translation>Aviso de direitos autorais</translation>
     </message>
     <message>
         <source>Third-Party Software</source>
@@ -1158,7 +1162,7 @@
     </message>
     <message>
         <source>Document imported as</source>
-        <translation type="obsolete">Documento importado como</translation>
+        <translation>Documento importado como</translation>
     </message>
     <message>
         <source>The images are placed in the media and can be re-used.</source>
@@ -1196,7 +1200,7 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     </message>
     <message>
         <source>File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo:</translation>
     </message>
 </context>
 <context>
@@ -1315,6 +1319,22 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
         <source>Show All Events..</source>
         <translation>Mostrar Todos Eventos..</translation>
     </message>
+    <message>
+        <source>Event Calendar</source>
+        <translation>Calendário de eventos</translation>
+    </message>
+    <message>
+        <source>Previous month</source>
+        <translation>Mês anterior</translation>
+    </message>
+    <message>
+        <source>Next Month</source>
+        <translation>Próximo mês</translation>
+    </message>
+    <message>
+        <source>Preview of event</source>
+        <translation>Pré-visualização do evento</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>
@@ -1325,6 +1345,10 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     <message>
         <source>Future events</source>
         <translation>Eventos futuros</translation>
+    </message>
+    <message>
+        <source>Preview of event</source>
+        <translation>Pré-visualização do evento</translation>
     </message>
 </context>
 <context>
@@ -1367,6 +1391,10 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     <message>
         <source>Pages</source>
         <translation>Páginas</translation>
+    </message>
+    <message>
+        <source>Last reply by:</source>
+        <translation>Última resposta de:</translation>
     </message>
 </context>
 <context>
@@ -1534,6 +1562,13 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     </message>
 </context>
 <context>
+    <name>design/ezwebin/full/silverlight</name>
+    <message>
+        <source>Get Microsoft Silverlight</source>
+        <translation>Obter o Microsoft Silverlight</translation>
+    </message>
+</context>
+<context>
     <name>design/ezwebin/line/blog_post</name>
     <message>
         <source>View comments</source>
@@ -1580,6 +1615,10 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
         <translation>Entrar no fórum</translation>
     </message>
     <message>
+        <source>Forum</source>
+        <translation>Fórum</translation>
+    </message>
+    <message>
         <source>Number of topics</source>
         <translation>Número de tópicos</translation>
     </message>
@@ -1596,6 +1635,17 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     </message>
 </context>
 <context>
+    <name>design/ezwebin/line/link</name>
+    <message>
+        <source>Edit</source>
+        <translation>Editar</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Remover</translation>
+    </message>
+</context>
+<context>
     <name>design/ezwebin/line/poll</name>
     <message>
         <source>%count votes</source>
@@ -1604,6 +1654,13 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     <message>
         <source>Vote</source>
         <translation>Votar</translation>
+    </message>
+</context>
+<context>
+    <name>design/ezwebin/line/product</name>
+    <message>
+        <source>(price ex. vat %ex_vat_price)</source>
+        <translation>(preço sem IVA %ex_vat_price)</translation>
     </message>
 </context>
 <context>
@@ -1687,6 +1744,10 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
         <source>The items contain more than the maximum possible nodes for subtree removal and will not be deleted. You can remove this subtree using the ezsubtreeremove.php script.</source>
         <translation>Os itens possuem mais que o máximo possível de nós para remoção de subárvore e não serão removidos. Você pode remover esta subárvore utilizando o script ezsubtreeremove.php.</translation>
     </message>
+    <message>
+        <source>Warning:</source>
+        <translation>Aviso:</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/notification/addingresult</name>
@@ -1723,7 +1784,7 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     </message>
     <message>
         <source>Once per week, on </source>
-        <translation>Uma vez por semana, no(a)</translation>
+        <translation>Uma vez por semana, em </translation>
     </message>
     <message>
         <source>Once per month, on day number</source>
@@ -1910,7 +1971,7 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     </message>
     <message>
         <source>Use this field to set the URL where the RSS export should be available. Note that &quot;rss/feed/&quot; will be appended to the real URL. </source>
-        <translation>Utilize este campo para definir a URL onde a exportação RSS deve ficar disponível. Note que &quot;rss/feed/&quot; será inserido na URL real.</translation>
+        <translation>Use este campo para definir a URL em que a exportação RSS deve estar disponível. Observe que &quot;rss/feed/&quot; será acrescentado à URL real. </translation>
     </message>
     <message>
         <source>Source</source>
@@ -2452,6 +2513,10 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
         <translation>Quantidade</translation>
     </message>
     <message>
+        <source>view</source>
+        <translation>visualizar</translation>
+    </message>
+    <message>
         <source>Customer information</source>
         <translation>Informações do cliente</translation>
     </message>
@@ -2525,6 +2590,10 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     <message>
         <source>Archive</source>
         <translation>Arquivo</translation>
+    </message>
+    <message>
+        <source>[ view ]</source>
+        <translation>[ visualizar ]</translation>
     </message>
 </context>
 <context>
@@ -2710,6 +2779,25 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
         <source>Node ID: %node_id Visibility: %visibility</source>
         <translation>ID do nó %node_id Visibilidade %visibility</translation>
     </message>
+    <message>
+        <source>Visible</source>
+        <translation>Visível</translation>
+    </message>
+    <message>
+        <source>Hidden by superior</source>
+        <translation>Oculto por um superior</translation>
+    </message>
+    <message>
+        <source>Hidden</source>
+        <translation>Oculto</translation>
+    </message>
+</context>
+<context>
+    <name>design/ezwebin/tagcloud/tagcloud</name>
+    <message>
+        <source>%count objects tagged with &apos;%tag&apos;</source>
+        <translation>%count objetos marcados com a tag &apos;%tag&apos;</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/user/activate</name>
@@ -2719,15 +2807,15 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     </message>
     <message>
         <source>Your account is now activated.</source>
-        <translation type="obsolete">Sua conta está ativa agora.</translation>
+        <translation>Sua conta está ativa agora.</translation>
     </message>
     <message>
         <source>Sorry, the key submitted was not a valid key. Account was not activated.</source>
-        <translation type="obsolete">Desculpa, a chave submetida não é válida. A conta não foi ativada.</translation>
+        <translation>Desculpa, a chave submetida não é válida. A conta não foi ativada.</translation>
     </message>
     <message>
         <source>Your account is already active.</source>
-        <translation type="obsolete">Sua conta já está ativa.</translation>
+        <translation>Sua conta já está ativa.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2774,7 +2862,7 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     </message>
     <message>
         <source>Email</source>
-        <translation>Email</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>My pending items</source>
@@ -2789,7 +2877,7 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     </message>
     <message>
         <source>The key is invalid or has been used. </source>
-        <translation>A chave é inválida ou está em uso.</translation>
+        <translation>A chave é inválida ou já foi usada. </translation>
     </message>
     <message>
         <source>Have you forgotten your password?</source>
@@ -2801,7 +2889,7 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     </message>
     <message>
         <source>An email has been sent to the following address: %1. It contains a link you need to click so that we can confirm that the correct user has received the new password.</source>
-        <translation>Um email foi enviado para o endereço de e-mail %1. O e-mail contém um link no qual você deve clicar para confirmar que o usuário correto está recebendo a nova senha.</translation>
+        <translation>Um e-mail foi enviado para o endereço de e-mail %1. O e-mail contém um link no qual você deve clicar para confirmar que o usuário correto está recebendo a nova senha.</translation>
     </message>
     <message>
         <source>There is no registered user with that email address.</source>
@@ -2956,7 +3044,7 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     </message>
     <message>
         <source>Your account was successfully created. An email will be sent to the specified address. Follow the instructions in that email to activate your account.</source>
-        <translation>Sua conta foi criada com sucesso. Um email será enviado para o endereço de email especificado. Siga as instruções contidas nesse email para ativar sua conta.</translation>
+        <translation>Sua conta foi criada com sucesso. Um e-mail será enviado para o endereço de e-mail especificado. Siga as instruções contidas nesse e-mail para ativar sua conta.</translation>
     </message>
 </context>
 <context>
@@ -2984,6 +3072,10 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
         <source>Your browser does not support html5 audio.</source>
         <translation>Seu navegador não suporta áudio html5.</translation>
     </message>
+    <message>
+        <source>Get Microsoft Silverlight</source>
+        <translation>Obter o Microsoft Silverlight</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/view/ezprice</name>
@@ -2998,6 +3090,17 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     <message>
         <source>You save</source>
         <translation>Você economiza</translation>
+    </message>
+</context>
+<context>
+    <name>design/ezwebin/view/infobox</name>
+    <message>
+        <source>Edit</source>
+        <translation>Editar</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Remover</translation>
     </message>
 </context>
 <context>
@@ -3049,7 +3152,7 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     <name>design/standard/user</name>
     <message>
         <source>Your email address has been confirmed. An administrator needs to approve your sign up request, before your login becomes valid.</source>
-        <translation>Seu endereço de email foi confirmado. Um administrador precisa aprovar sua requisição de cadastro para seu nome de usuário se tornar válido.</translation>
+        <translation>Seu endereço de e-mail foi confirmado. Um administrador precisa aprovar sua requisição de cadastro para seu nome de usuário se tornar válido.</translation>
     </message>
     <message>
         <source>Your account is now activated.</source>
@@ -3062,6 +3165,17 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     <message>
         <source>Sorry, the key submitted was not a valid key. Account was not activated.</source>
         <translation>Desculpa, a chave submetida não é válida. A conta não foi ativada.</translation>
+    </message>
+</context>
+<context>
+    <name>design/standard/user/forgotpassword</name>
+    <message>
+        <source>If an account is registered with the email address %1, a mail has been sent to it. This email contains a link you need to click so that we can confirm that the correct user is getting the new password.</source>
+        <translation>Se houver uma conta registrada com o endereço de e-mail %1, uma mensagem foi enviada para ele. Esse e-mail contém um link em que você precisa clicar para que possamos confirmar que o usuário correto está recebendo a nova senha.</translation>
+    </message>
+    <message>
+        <source>Please enter a valid email address.</source>
+        <translation>Digite um endereço de e-mail válido.</translation>
     </message>
 </context>
 <context>
