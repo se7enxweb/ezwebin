@@ -5,57 +5,57 @@
     <name>design/admin/content/datatype</name>
     <message>
         <source>Year</source>
-        <translation type="unfinished">Rok</translation>
+        <translation>Rok</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished">Měsíc</translation>
+        <translation>Měsíc</translation>
     </message>
     <message>
         <source>Day</source>
-        <translation type="unfinished">Den</translation>
+        <translation>Den</translation>
     </message>
     <message>
         <source>Hour</source>
-        <translation type="unfinished">Hodina</translation>
+        <translation>Hodina</translation>
     </message>
     <message>
         <source>Minute</source>
-        <translation type="unfinished">Minuta</translation>
+        <translation>Minuta</translation>
     </message>
 </context>
 <context>
     <name>design/admin/content/edit_attribute</name>
     <message>
         <source>not translatable</source>
-        <translation type="unfinished"></translation>
+        <translation>nepřekládá se</translation>
     </message>
     <message>
         <source>required</source>
-        <translation type="unfinished"></translation>
+        <translation>povinné</translation>
     </message>
     <message>
         <source>information collector</source>
-        <translation type="unfinished"></translation>
+        <translation>sběr informací</translation>
     </message>
 </context>
 <context>
     <name>design/ezodf/import</name>
     <message>
         <source>Create or update the translation in:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit nebo aktualizovat překlad v jazyce:</translation>
     </message>
     <message>
         <source>Existing translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Existující překlady</translation>
     </message>
     <message>
         <source>New translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Nové překlady</translation>
     </message>
     <message>
         <source>Import in:</source>
-        <translation type="unfinished"></translation>
+        <translation>Importovat do:</translation>
     </message>
 </context>
 <context>
@@ -68,10 +68,6 @@
 <context>
     <name>design/ezwebin/article/comments</name>
     <message>
-        <source>%login_link_startLog in%login_link_end to comment.</source>
-        <translation>%login_link_startLog v %login_link_end do komentáře.</translation>
-    </message>
-    <message>
         <source>Comments</source>
         <translation>Komentáře</translation>
     </message>
@@ -82,6 +78,10 @@
     <message>
         <source>%login_link_startLog in%login_link_end or %create_link_startcreate a user account%create_link_end to comment.</source>
         <translation>%login_link_startLog v %login_link_end nebo %create_link_startcreate účtu uživatele %create_link_end do komentáře.</translation>
+    </message>
+    <message>
+        <source>%login_link_startLog in%login_link_end to comment.</source>
+        <translation>%login_link_startLog v %login_link_end do komentáře.</translation>
     </message>
 </context>
 <context>
@@ -112,7 +112,7 @@
     </message>
     <message>
         <source>Thu</source>
-        <translation></translation>
+        <translation>Čt</translation>
     </message>
     <message>
         <source>Fri</source>
@@ -241,10 +241,6 @@
         <translation>Poslední týden</translation>
     </message>
     <message>
-        <source>Last month</source>
-        <translation>Poslední měsíc</translation>
-    </message>
-    <message>
         <source>Last three months</source>
         <translation>Poslední čtvrtletí</translation>
     </message>
@@ -287,6 +283,10 @@
     <message>
         <source>Search for &quot;%1&quot; returned %2 matches</source>
         <translation>Hledání &quot;%1&quot; nalezlo %2 shody</translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translation>Poslední měsíc</translation>
     </message>
 </context>
 <context>
@@ -350,95 +350,16 @@
         <translation>Den</translation>
     </message>
     <message>
+        <source>Show calendar to select a date.</source>
+        <translation>Zobrazit kalendář pro výběr data.</translation>
+    </message>
+    <message>
         <source>Hour</source>
-        <translation type="obsolete">Hodina</translation>
+        <translation>Hodina</translation>
     </message>
     <message>
         <source>Minute</source>
-        <translation type="obsolete">Minuta</translation>
-    </message>
-    <message>
-        <source>Show calendar to select a date.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>design/ezwebin/content/diff</name>
-    <message>
-        <source>Versions for &lt;%object_name&gt; [%version_count]</source>
-        <translation type="obsolete">Verze pro &lt;%object_name&gt; [%version_count]</translation>
-    </message>
-    <message>
-        <source>Version</source>
-        <translation type="obsolete">Verze</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="obsolete">Status</translation>
-    </message>
-    <message>
-        <source>Translations</source>
-        <translation type="obsolete">Překlady</translation>
-    </message>
-    <message>
-        <source>Creator</source>
-        <translation type="obsolete">Tvůrce</translation>
-    </message>
-    <message>
-        <source>Modified</source>
-        <translation type="obsolete">Změněno</translation>
-    </message>
-    <message>
-        <source>Draft</source>
-        <translation type="obsolete">Koncept</translation>
-    </message>
-    <message>
-        <source>Published</source>
-        <translation type="obsolete">Publikováno</translation>
-    </message>
-    <message>
-        <source>Pending</source>
-        <translation type="obsolete">Čeká na vyřízení</translation>
-    </message>
-    <message>
-        <source>Archived</source>
-        <translation type="obsolete">Archivován</translation>
-    </message>
-    <message>
-        <source>Rejected</source>
-        <translation type="obsolete">Zamítnut</translation>
-    </message>
-    <message>
-        <source>Untouched draft</source>
-        <translation type="obsolete">Nedotčený koncept</translation>
-    </message>
-    <message>
-        <source>This object does not have any versions.</source>
-        <translation type="obsolete">Tento objekt nemá žádné verze.</translation>
-    </message>
-    <message>
-        <source>Show differences</source>
-        <translation type="obsolete">Ukázat rozdíly</translation>
-    </message>
-    <message>
-        <source>Differences between versions %oldVersion and %newVersion</source>
-        <translation type="obsolete">Rozdíly mezi verzemi %oldVersion a %newVersion</translation>
-    </message>
-    <message>
-        <source>Old version</source>
-        <translation type="obsolete">Stará verze</translation>
-    </message>
-    <message>
-        <source>Inline changes</source>
-        <translation type="obsolete">souběžné změny</translation>
-    </message>
-    <message>
-        <source>Block changes</source>
-        <translation type="obsolete">Blokovat změny</translation>
-    </message>
-    <message>
-        <source>New version</source>
-        <translation type="obsolete">Nová verze</translation>
+        <translation>Minuta</translation>
     </message>
 </context>
 <context>
@@ -498,19 +419,18 @@
     <message>
         <source>These are the current objects you are working on. The drafts are owned by you and can only be seen by you.
       You can either edit the drafts or remove them if you don&apos;t need them any more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toto jsou aktuální objekty, na kterých pracujete. Koncepty vlastníte vy a vidíte je pouze vy.
+      Koncepty můžete upravit, nebo je odstranit, pokud je už nepotřebujete.</translation>
+    </message>
+    <message>
+        <source>These are the current objects you are working on. The drafts are owned by you and can only be seen by you.
+ You can either edit the drafts or remove them if you don&apos;t need them any more.</source>
+        <translation>Toto jsou aktuální objekty, na kterých pracujete. Koncepty vlastníte vy a vidíte je pouze vy.
+ Koncepty můžete upravit, nebo je odstranit, pokud je už nepotřebujete.</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/content/edit</name>
-    <message>
-        <source>Translating content from %from_lang to %to_lang</source>
-        <translation>Překládání obsahu od %from_lang do %to_lang</translation>
-    </message>
-    <message>
-        <source>Content in %language</source>
-        <translation>Obsah v %language</translation>
-    </message>
     <message>
         <source>Send for publishing</source>
         <translation>Oeslat pro publikování</translation>
@@ -524,28 +444,36 @@
         <translation>Zrušit koncept</translation>
     </message>
     <message>
+        <source>Translating content from %from_lang to %to_lang</source>
+        <translation>Překládání obsahu od %from_lang do %to_lang</translation>
+    </message>
+    <message>
+        <source>Content in %language</source>
+        <translation>Obsah v %language</translation>
+    </message>
+    <message>
         <source>Edit &lt;%object_name&gt; (%class_name)</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit &lt;%object_name&gt; (%class_name)</translation>
     </message>
     <message>
         <source>Publish the contents of the draft that is being edited. The draft will become the published version of the object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Publikovat obsah upravovaného konceptu. Koncept se stane publikovanou verzí objektu.</translation>
     </message>
     <message>
         <source>Store the contents of the draft that is being edited and continue editing. Use this button to periodically save your work while editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložit obsah upravovaného konceptu a pokračovat v úpravách. Pomocí tohoto tlačítka můžete během úprav průběžně ukládat svou práci.</translation>
     </message>
     <message>
         <source>Store draft and exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložit koncept a ukončit</translation>
     </message>
     <message>
         <source>Store the draft that is being edited and exit from edit mode. Use when you need to exit your work and return later to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložit upravovaný koncept a ukončit úpravy. Použijte, když potřebujete práci přerušit a později v ní pokračovat.</translation>
     </message>
     <message>
         <source>Discard the draft that is being edited. This will also remove the translations that belong to the draft (if any).</source>
-        <translation type="unfinished"></translation>
+        <translation>Zahodit upravovaný koncept. Odstraní se tím také překlady, které ke konceptu patří (pokud existují).</translation>
     </message>
 </context>
 <context>
@@ -597,17 +525,20 @@
     <message>
         <source>This object is already being edited by yourself and others.
     You can either continue editing one of your drafts or you can create a new draft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento objekt již upravujete vy i další uživatelé.
+    Můžete pokračovat v úpravách jednoho ze svých konceptů, nebo vytvořit nový koncept.</translation>
     </message>
     <message>
         <source>This object is already being edited by you.
         You can either continue editing one of your drafts or you can create a new draft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento objekt již upravujete.
+        Můžete pokračovat v úpravách jednoho ze svých konceptů, nebo vytvořit nový koncept.</translation>
     </message>
     <message>
         <source>This object is already being edited by someone else.
         You should either contact the person about their draft or create a new draft for your own use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento objekt již upravuje někdo jiný.
+        Kontaktujte tuto osobu ohledně jejího konceptu, nebo si vytvořte nový koncept pro vlastní potřebu.</translation>
     </message>
 </context>
 <context>
@@ -705,11 +636,7 @@
     </message>
     <message>
         <source>Status</source>
-        <translation>Status</translation>
-    </message>
-    <message>
-        <source>Modified translation</source>
-        <translation>Modifikovaný překlad</translation>
+        <translation>Stav</translation>
     </message>
     <message>
         <source>Creator</source>
@@ -839,6 +766,10 @@
         <source>Back to history</source>
         <translation>Zpět do historie</translation>
     </message>
+    <message>
+        <source>Modified translation</source>
+        <translation>Modifikovaný překlad</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/content/keyword</name>
@@ -848,7 +779,7 @@
     </message>
     <message>
         <source>Link</source>
-        <translation>Link</translation>
+        <translation>Odkaz</translation>
     </message>
     <message>
         <source>Type</source>
@@ -1106,7 +1037,11 @@
     Select the placements and click the %buttonname button.
     Using the recent and bookmark items for quick placement is also possible.
     Click on placement names to change the browse listing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte umístění pro objekt OpenOffice.org.
+
+    Vyberte umístění a klikněte na tlačítko %buttonname.
+    Pro rychlé umístění lze použít také nedávné položky a záložky.
+    Kliknutím na název umístění změníte zobrazený seznam.</translation>
     </message>
 </context>
 <context>
@@ -1147,10 +1082,6 @@
         <translation>Objekt byl importován jako: %class_name</translation>
     </message>
     <message>
-        <source>Document imported as</source>
-        <translation type="obsolete">Dokument importován jako</translation>
-    </message>
-    <message>
         <source>The images are placed in the media and can be re-used.</source>
         <translation>Obrázky jsou umístěny v médiích a mohou být znovu použity.</translation>
     </message>
@@ -1179,11 +1110,18 @@
 asked where to place the document and Exponential does the rest. The document is converted into
 the appropriate class during the import, you get a notice about this after the import is done.
 Images are placed in the media library so you can re-use them in other articles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Z této stránky můžete importovat dokumenty OpenOffice.org Writer přímo do Exponential. Budete
+dotázáni, kam dokument umístit, a Exponential se postará o zbytek. Dokument se během importu převede do
+odpovídající třídy, po dokončení importu o tom obdržíte upozornění.
+Obrázky se umístí do knihovny médií, takže je můžete znovu použít v dalších článcích.</translation>
     </message>
     <message>
         <source>File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubor:</translation>
+    </message>
+    <message>
+        <source>Document imported as</source>
+        <translation>Dokument importován jako</translation>
     </message>
 </context>
 <context>
@@ -1206,7 +1144,7 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
     <message>
         <source>Related content</source>
-        <translation type="unfinished"></translation>
+        <translation>Související obsah</translation>
     </message>
 </context>
 <context>
@@ -1235,7 +1173,7 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
     <message>
         <source>%login_link_startLog in%login_link_end or %create_link_startcreate a user account%create_link_end to comment.</source>
-        <translation>%login_link_startLog v %login_link_startLog nebo %create_link_startcreate uživatelský účet %create_link_end do komentáře.</translation>
+        <translation>%login_link_startPřihlaste se%login_link_end nebo si %create_link_startvytvořte uživatelský účet%create_link_end, abyste mohli komentovat.</translation>
     </message>
 </context>
 <context>
@@ -1300,7 +1238,23 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
     <message>
         <source>Show All Events..</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit všechny události..</translation>
+    </message>
+    <message>
+        <source>Event Calendar</source>
+        <translation>Kalendář událostí</translation>
+    </message>
+    <message>
+        <source>Previous month</source>
+        <translation>Předchozí měsíc</translation>
+    </message>
+    <message>
+        <source>Next Month</source>
+        <translation>Další měsíc</translation>
+    </message>
+    <message>
+        <source>Preview of event</source>
+        <translation>Náhled události</translation>
     </message>
 </context>
 <context>
@@ -1312,6 +1266,10 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Future events</source>
         <translation>Budoucí události</translation>
+    </message>
+    <message>
+        <source>Preview of event</source>
+        <translation>Náhled události</translation>
     </message>
 </context>
 <context>
@@ -1354,6 +1312,10 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Pages</source>
         <translation>Stránky</translation>
+    </message>
+    <message>
+        <source>Last reply by:</source>
+        <translation>Poslední odpověď od:</translation>
     </message>
 </context>
 <context>
@@ -1450,7 +1412,7 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
     <message>
         <source>Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Fórum</translation>
     </message>
 </context>
 <context>
@@ -1472,7 +1434,7 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
     <message>
         <source>Related content</source>
-        <translation type="unfinished"></translation>
+        <translation>Související obsah</translation>
     </message>
 </context>
 <context>
@@ -1521,6 +1483,13 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
 </context>
 <context>
+    <name>design/ezwebin/full/silverlight</name>
+    <message>
+        <source>Get Microsoft Silverlight</source>
+        <translation>Získat Microsoft Silverlight</translation>
+    </message>
+</context>
+<context>
     <name>design/ezwebin/line/blog_post</name>
     <message>
         <source>View comments</source>
@@ -1532,7 +1501,7 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
     <message>
         <source>Tags:</source>
-        <translation type="unfinished">Tagy:</translation>
+        <translation>Štítky:</translation>
     </message>
 </context>
 <context>
@@ -1574,12 +1543,27 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>Enter forum</source>
         <translation>Vstoupit do fóra</translation>
     </message>
+    <message>
+        <source>Forum</source>
+        <translation>Fórum</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/line/forum_reply</name>
     <message>
         <source>Reply to:</source>
         <translation>Odpovědět:</translation>
+    </message>
+</context>
+<context>
+    <name>design/ezwebin/line/link</name>
+    <message>
+        <source>Edit</source>
+        <translation>Upravit</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Odstranit</translation>
     </message>
 </context>
 <context>
@@ -1591,6 +1575,13 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Vote</source>
         <translation>Volit (hlasovat)</translation>
+    </message>
+</context>
+<context>
+    <name>design/ezwebin/line/product</name>
+    <message>
+        <source>(price ex. vat %ex_vat_price)</source>
+        <translation>(cena bez DPH %ex_vat_price)</translation>
     </message>
 </context>
 <context>
@@ -1672,7 +1663,11 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
     <message>
         <source>The items contain more than the maximum possible nodes for subtree removal and will not be deleted. You can remove this subtree using the ezsubtreeremove.php script.</source>
-        <translation type="unfinished"></translation>
+        <translation>Položky obsahují více uzlů, než je maximum pro odstranění podstromu, a nebudou odstraněny. Tento podstrom můžete odstranit skriptem ezsubtreeremove.php.</translation>
+    </message>
+    <message>
+        <source>Warning:</source>
+        <translation>Upozornění:</translation>
     </message>
 </context>
 <context>
@@ -1710,7 +1705,7 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
     <message>
         <source>Once per week, on </source>
-        <translation>Jednou týdně, v</translation>
+        <translation>Jednou týdně, v </translation>
     </message>
     <message>
         <source>Once per month, on day number</source>
@@ -1779,439 +1774,439 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
     <message>
         <source>Skip to main content</source>
-        <translation type="unfinished"></translation>
+        <translation>Přeskočit na hlavní obsah</translation>
     </message>
     <message>
         <source>Search text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledaný text:</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/parts/website_toolbar</name>
     <message>
         <source>Remove node RSS/ATOM feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit kanál RSS/ATOM uzlu</translation>
     </message>
     <message>
         <source>Create node RSS/ATOM feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit kanál RSS/ATOM uzlu</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/rss/edit_export</name>
     <message>
         <source>Edit &lt;%rss_export_name&gt; [RSS Export]</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit &lt;%rss_export_name&gt; [Export RSS]</translation>
     </message>
     <message>
         <source>Invalid input</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatný vstup</translation>
     </message>
     <message>
         <source>If RSS Export is Active then a valid Access URL is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je-li export RSS aktivní, je vyžadována platná přístupová URL.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Jméno</translation>
+        <translation>Název</translation>
     </message>
     <message>
         <source>Name of the RSS export. This name is used in the Administration Interface only, to distinguish the different exports from each other.</source>
-        <translation type="unfinished"></translation>
+        <translation>Název exportu RSS. Tento název se používá pouze v administračním rozhraní k rozlišení jednotlivých exportů.</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Popis</translation>
+        <translation>Popis</translation>
     </message>
     <message>
         <source>Use the description field to write a text explaining what users can expect from the RSS export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Do pole popisu napište text, který vysvětlí, co mohou uživatelé od exportu RSS očekávat.</translation>
     </message>
     <message>
         <source>Site URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL webu</translation>
     </message>
     <message>
         <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and Exponential configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Do tohoto pole zadejte základní URL vašeho webu. Používá se k sestavení URL v exportu, složených z URL webu (např. &quot;http://www.example.com/index.php&quot;) a cesty k objektu (např. &quot;/articles/my_article&quot;). URL webu závisí na konfiguraci vašeho webového serveru a systému Exponential.</translation>
     </message>
     <message>
         <source>Leave this field emty if you want system automaticaly detect the URL of your site from the URL you access feed with</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponechte toto pole prázdné, pokud má systém automaticky zjistit URL vašeho webu z URL, přes kterou ke kanálu přistupujete</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrázek</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Procházet</translation>
+        <translation>Procházet</translation>
     </message>
     <message>
         <source>Click this button to select an image for the RSS export. Note that images only work with RSS version 2.0</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím na toto tlačítko vyberete obrázek pro export RSS. Obrázky fungují pouze s RSS verze 2.0</translation>
     </message>
     <message>
         <source>Remove image</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit obrázek</translation>
     </message>
     <message>
         <source>Click to remove image from RSS export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím odstraníte obrázek z exportu RSS.</translation>
     </message>
     <message>
         <source>RSS version</source>
-        <translation type="unfinished"></translation>
+        <translation>Verze RSS</translation>
     </message>
     <message>
         <source>Use this drop-down menu to select the RSS version to use for the export. You must select RSS 2.0 in order to export the image selected above.</source>
-        <translation type="unfinished"></translation>
+        <translation>V této rozevírací nabídce vyberte verzi RSS pro export. Chcete-li exportovat výše vybraný obrázek, musíte vybrat RSS 2.0.</translation>
     </message>
     <message>
         <source>Number of objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet objektů</translation>
     </message>
     <message>
         <source>Use this drop-down to select the maximum number of objects included in the RSS feed.</source>
-        <translation type="unfinished"></translation>
+        <translation>V této rozevírací nabídce vyberte maximální počet objektů v kanálu RSS.</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivní</translation>
     </message>
     <message>
         <source>Use this checkbox to control if the RSS export is active or not. An inactive export will not be automatically updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tímto zaškrtávacím políčkem určíte, zda je export RSS aktivní. Neaktivní export se nebude automaticky aktualizovat.</translation>
     </message>
     <message>
         <source>Main node only</source>
-        <translation type="unfinished"></translation>
+        <translation>Pouze hlavní uzel</translation>
     </message>
     <message>
         <source>Check if you want to only feed the object from the main node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaškrtněte, chcete-li do kanálu zahrnout objekt pouze z hlavního uzlu.</translation>
     </message>
     <message>
         <source>Access URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Přístupová URL</translation>
     </message>
     <message>
         <source>Use this field to set the URL where the RSS export should be available. Note that &quot;rss/feed/&quot; will be appended to the real URL. </source>
-        <translation type="unfinished"></translation>
+        <translation>Do tohoto pole zadejte URL, na které má být export RSS dostupný. Ke skutečné URL se připojí &quot;rss/feed/&quot;. </translation>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdroj</translation>
     </message>
     <message>
         <source>Source path</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdrojová cesta</translation>
     </message>
     <message>
         <source>Click this button to select the source node for the RSS export source. Objects of the type selected in the drop-down below published as sub items of the selected node will be included in the RSS export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím na toto tlačítko vyberete zdrojový uzel pro zdroj exportu RSS. Do exportu RSS se zahrnou objekty typu vybraného v rozevírací nabídce níže publikované jako podřízené položky vybraného uzlu.</translation>
     </message>
     <message>
         <source>Subnodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Podřízené uzly</translation>
     </message>
     <message>
         <source>Activate this checkbox if objects from the subnodes of the source should also be fed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaškrtněte toto políčko, pokud se mají do kanálu zahrnout i objekty z podřízených uzlů zdroje.</translation>
     </message>
     <message>
         <source>Class</source>
-        <translation type="unfinished">Třída</translation>
+        <translation>Třída</translation>
     </message>
     <message>
         <source>Use this drop-down to select the type of object that triggers the export. Click the &quot;Set&quot; button to load the correct attribute types for the remaining fields.</source>
-        <translation type="unfinished"></translation>
+        <translation>V této rozevírací nabídce vyberte typ objektu, který spouští export. Kliknutím na tlačítko &quot;Nastavit&quot; načtete správné typy atributů pro zbývající pole.</translation>
     </message>
     <message>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavit</translation>
     </message>
     <message>
         <source>Click this button to load the correct values into the drop-down fields below. Use the drop-down menu on the left to select the class.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím na toto tlačítko načtete správné hodnoty do rozevíracích polí níže. Třídu vyberte v rozevírací nabídce vlevo.</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Název</translation>
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the title of the RSS export entry.</source>
-        <translation type="unfinished"></translation>
+        <translation>V této rozevírací nabídce vyberte atribut, který se má exportovat jako název položky exportu RSS.</translation>
     </message>
     <message>
         <source>optional</source>
-        <translation type="unfinished"></translation>
+        <translation>volitelné</translation>
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the description of the RSS export entry.</source>
-        <translation type="unfinished"></translation>
+        <translation>V této rozevírací nabídce vyberte atribut, který se má exportovat jako popis položky exportu RSS.</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Přeskočit</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished">Kategorie</translation>
+        <translation>Kategorie</translation>
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the category of the RSS export entry.</source>
-        <translation type="unfinished"></translation>
+        <translation>V této rozevírací nabídce vyberte atribut, který se má exportovat jako kategorie položky exportu RSS.</translation>
     </message>
     <message>
         <source>Remove this source</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit tento zdroj</translation>
     </message>
     <message>
         <source>Click to remove this source from the RSS export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím odstraníte tento zdroj z exportu RSS.</translation>
     </message>
     <message>
         <source>Add source</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat zdroj</translation>
     </message>
     <message>
         <source>Click to add a new source to the RSS export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím přidáte do exportu RSS nový zdroj.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Apply the changes and return to the RSS overview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít změny a vrátit se na přehled RSS.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <source>Cancel the changes and return to the RSS overview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrušit změny a vrátit se na přehled RSS.</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/rss/edit_import</name>
     <message>
         <source>Edit &lt;%rss_import_name&gt; [RSS Import]</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit &lt;%rss_import_name&gt; [Import RSS]</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Jméno</translation>
+        <translation>Název</translation>
     </message>
     <message>
         <source>Name of the RSS import. This name is used in the Administration Interface only, to distinguish the different imports from each other.</source>
-        <translation type="unfinished"></translation>
+        <translation>Název importu RSS. Tento název se používá pouze v administračním rozhraní k rozlišení jednotlivých importů.</translation>
     </message>
     <message>
         <source>Source URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdrojová URL</translation>
     </message>
     <message>
         <source>Use this field to enter the source URL of the RSS feed to import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Do tohoto pole zadejte zdrojovou URL kanálu RSS, který chcete importovat.</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Aktualizace</translation>
+        <translation>Aktualizovat</translation>
     </message>
     <message>
         <source>Click this button to proceed and analyze the import feed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím na toto tlačítko pokračujete a analyzujete kanál importu.</translation>
     </message>
     <message>
         <source>RSS Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Verze RSS</translation>
     </message>
     <message>
         <source>Destination path</source>
-        <translation type="unfinished"></translation>
+        <translation>Cílová cesta</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Procházet</translation>
+        <translation>Procházet</translation>
     </message>
     <message>
         <source>Click this button to select the destination node where objects created by the import are located.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím na toto tlačítko vyberete cílový uzel, do kterého se umístí objekty vytvořené importem.</translation>
     </message>
     <message>
         <source>Imported objects will be owned by</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastník importovaných objektů</translation>
     </message>
     <message>
         <source>Change user</source>
-        <translation type="unfinished"></translation>
+        <translation>Změnit uživatele</translation>
     </message>
     <message>
         <source>Click this button to select the user who should own the objects created by the import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím na toto tlačítko vyberete uživatele, který má vlastnit objekty vytvořené importem.</translation>
     </message>
     <message>
         <source>Class</source>
-        <translation type="unfinished">Třída</translation>
+        <translation>Třída</translation>
     </message>
     <message>
         <source>Use this drop-down to select the type of object the import should create. Click the &quot;Set&quot; button to load the attribute types for the remaining fields.</source>
-        <translation type="unfinished"></translation>
+        <translation>V této rozevírací nabídce vyberte typ objektu, který má import vytvářet. Kliknutím na tlačítko &quot;Nastavit&quot; načtete typy atributů pro zbývající pole.</translation>
     </message>
     <message>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavit</translation>
     </message>
     <message>
         <source>Click this button to load the correct values into the drop-down fields below. Use the drop-down menu on the left to select the class.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím na toto tlačítko načtete správné hodnoty do rozevíracích polí níže. Třídu vyberte v rozevírací nabídce vlevo.</translation>
     </message>
     <message>
         <source>Class attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Atributy třídy</translation>
     </message>
     <message>
         <source>Use this drop-down menu to select the attribute that should bet set as information from the RSS stream.</source>
-        <translation type="unfinished"></translation>
+        <translation>V této rozevírací nabídce vyberte atribut, který se má nastavit jako informace z toku RSS.</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorovat</translation>
     </message>
     <message>
         <source>Object attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Atributy objektu</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivní</translation>
     </message>
     <message>
         <source>Use this checkbox to control if the RSS feed is active or not. An inactive feed will not be automatically updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tímto zaškrtávacím políčkem určíte, zda je kanál RSS aktivní. Neaktivní kanál se nebude automaticky aktualizovat.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Apply the changes and return to the RSS overview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít změny a vrátit se na přehled RSS.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <source>Cancel the changes and return to the RSS overview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrušit změny a vrátit se na přehled RSS.</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/rss/list</name>
     <message>
         <source>RSS exports [%exports_count]</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporty RSS [%exports_count]</translation>
     </message>
     <message>
         <source>Invert selection</source>
-        <translation type="unfinished">Invertovat výběr</translation>
+        <translation>Obrátit výběr</translation>
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation type="unfinished">Invertovat výběr.</translation>
+        <translation>Obrátit výběr.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Jméno</translation>
+        <translation>Název</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verze</translation>
+        <translation>Verze</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Stav</translation>
     </message>
     <message>
         <source>Modifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Autor změny</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Změněno</translation>
     </message>
     <message>
         <source>Select RSS export for removal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte export RSS k odstranění.</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivní</translation>
     </message>
     <message>
         <source>Inactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Neaktivní</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Editovat</translation>
+        <translation>Upravit</translation>
     </message>
     <message>
         <source>Edit the &lt;%name&gt; RSS export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit export RSS &lt;%name&gt;.</translation>
     </message>
     <message>
         <source>The RSS export list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam exportů RSS je prázdný.</translation>
     </message>
     <message>
         <source>Remove selected</source>
-        <translation type="unfinished">Odstranit vybrané</translation>
+        <translation>Odstranit vybrané</translation>
     </message>
     <message>
         <source>Remove selected RSS exports.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit vybrané exporty RSS.</translation>
     </message>
     <message>
         <source>New export</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový export</translation>
     </message>
     <message>
         <source>Create a new RSS export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit nový export RSS.</translation>
     </message>
     <message>
         <source>RSS imports [%imports_count]</source>
-        <translation type="unfinished"></translation>
+        <translation>Importy RSS [%imports_count]</translation>
     </message>
     <message>
         <source>Select RSS import for removal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte import RSS k odstranění.</translation>
     </message>
     <message>
         <source>Edit the &lt;%name&gt; RSS import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit import RSS &lt;%name&gt;.</translation>
     </message>
     <message>
         <source>The RSS import list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam importů RSS je prázdný.</translation>
     </message>
     <message>
         <source>Remove selected RSS imports.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit vybrané importy RSS.</translation>
     </message>
     <message>
         <source>New import</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový import</translation>
     </message>
     <message>
         <source>Create a new RSS import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit nový import RSS.</translation>
     </message>
 </context>
 <context>
@@ -2393,15 +2388,15 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
     <message>
         <source>Summary</source>
-        <translation type="unfinished">Sumarizace</translation>
+        <translation>Shrnutí</translation>
     </message>
     <message>
         <source>Total ex. VAT</source>
-        <translation type="unfinished">Celkem bez DPH</translation>
+        <translation>Celkem bez DPH</translation>
     </message>
     <message>
         <source>Total inc. VAT</source>
-        <translation type="unfinished">Celkem vč. DPH</translation>
+        <translation>Celkem vč. DPH</translation>
     </message>
 </context>
 <context>
@@ -2441,6 +2436,10 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Amount</source>
         <translation>Částka</translation>
+    </message>
+    <message>
+        <source>view</source>
+        <translation>zobrazit</translation>
     </message>
 </context>
 <context>
@@ -2512,6 +2511,10 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Archive</source>
         <translation>Archivovat</translation>
+    </message>
+    <message>
+        <source>[ view ]</source>
+        <translation>[ zobrazit ]</translation>
     </message>
 </context>
 <context>
@@ -2613,7 +2616,7 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
     <message>
         <source>Email</source>
-        <translation>Email</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Company</source>
@@ -2697,6 +2700,25 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>Node ID: %node_id Visibility: %visibility</source>
         <translation>Uzel ID: %node_id Visibility: %visibility</translation>
     </message>
+    <message>
+        <source>Visible</source>
+        <translation>Viditelné</translation>
+    </message>
+    <message>
+        <source>Hidden by superior</source>
+        <translation>Skryto nadřazenou položkou</translation>
+    </message>
+    <message>
+        <source>Hidden</source>
+        <translation>Skryto</translation>
+    </message>
+</context>
+<context>
+    <name>design/ezwebin/tagcloud/tagcloud</name>
+    <message>
+        <source>%count objects tagged with &apos;%tag&apos;</source>
+        <translation>Objekty se štítkem &apos;%tag&apos;: %count</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/user/activate</name>
@@ -2705,20 +2727,20 @@ Images are placed in the media library so you can re-use them in other articles.
         <translation>Aktivovat účet</translation>
     </message>
     <message>
-        <source>Your account is now activated.</source>
-        <translation type="obsolete">Váš účet je nyní aktivován.</translation>
+        <source>OK</source>
+        <translation>OK</translation>
     </message>
     <message>
-        <source>Your account is already active.</source>
-        <translation type="obsolete">Váš účet je již aktivní.</translation>
+        <source>Your account is now activated.</source>
+        <translation>Váš účet je nyní aktivován.</translation>
     </message>
     <message>
         <source>Sorry, the key submitted was not a valid key. Account was not activated.</source>
-        <translation type="obsolete">Lituji, ale klíč není platný. Uživatelský účet nebude aktivován.</translation>
+        <translation>Je nám líto, odeslaný klíč není platný. Účet nebyl aktivován.</translation>
     </message>
     <message>
-        <source>OK</source>
-        <translation>OK</translation>
+        <source>Your account is already active.</source>
+        <translation>Váš účet je již aktivní.</translation>
     </message>
 </context>
 <context>
@@ -2733,7 +2755,7 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
     <message>
         <source>Email</source>
-        <translation>Email</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Name</source>
@@ -2746,10 +2768,6 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>My orders</source>
         <translation>Moje objednávky</translation>
-    </message>
-    <message>
-        <source>My pending items</source>
-        <translation>Moje položky čekající na vyřízení</translation>
     </message>
     <message>
         <source>My notification settings</source>
@@ -2766,6 +2784,10 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Change password</source>
         <translation>Změnit heslo</translation>
+    </message>
+    <message>
+        <source>My pending items</source>
+        <translation>Moje položky čekající na vyřízení</translation>
     </message>
 </context>
 <context>
@@ -2784,7 +2806,7 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
     <message>
         <source>The key is invalid or has been used. </source>
-        <translation>Klíč je neplatný nebo byl používán.</translation>
+        <translation>Klíč je neplatný nebo již byl použit. </translation>
     </message>
     <message>
         <source>Have you forgotten your password?</source>
@@ -2796,7 +2818,7 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
     <message>
         <source>Email</source>
-        <translation>Email</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Generate new password</source>
@@ -2872,10 +2894,6 @@ Images are placed in the media library so you can re-use them in other articles.
         <translation>Heslo nesouhlasí, prosím napište znovu Vaše nové heslo.</translation>
     </message>
     <message>
-        <source>The new password must be at least %1 characters long, please retype your new password.</source>
-        <translation>Nové heslo musí být nejméně %1 znaků dlouhé. Prosím napište znovu nové heslo.</translation>
-    </message>
-    <message>
         <source>Password successfully updated.</source>
         <translation>Heslo úspěšně aktualizováno.</translation>
     </message>
@@ -2898,6 +2916,78 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Cancel</source>
         <translation>Zrušit</translation>
+    </message>
+    <message>
+        <source>The new password must be at least %1 characters long, please retype your new password.</source>
+        <translation>Nové heslo musí být nejméně %1 znaků dlouhé. Prosím napište znovu nové heslo.</translation>
+    </message>
+    <message>
+        <source>Change your password</source>
+        <translation>Změna hesla</translation>
+    </message>
+    <message>
+        <source>Your password has been changed</source>
+        <translation>Vaše heslo bylo změněno</translation>
+    </message>
+    <message>
+        <source>You are still signed in here. Use the new password the next time you sign in.</source>
+        <translation>Zde zůstáváte přihlášeni. Při příštím přihlášení použijte nové heslo.</translation>
+    </message>
+    <message>
+        <source>We sent a confirmation to your e-mail address.</source>
+        <translation>Na vaši e-mailovou adresu jsme odeslali potvrzení.</translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation>Pokračovat</translation>
+    </message>
+    <message>
+        <source>Your password was not changed</source>
+        <translation>Vaše heslo nebylo změněno</translation>
+    </message>
+    <message>
+        <source>Signed in as %1.</source>
+        <translation>Přihlášen jako %1.</translation>
+    </message>
+    <message>
+        <source>Current password</source>
+        <translation>Aktuální heslo</translation>
+    </message>
+    <message>
+        <source>current password</source>
+        <translation>aktuální heslo</translation>
+    </message>
+    <message>
+        <source>new password</source>
+        <translation>nové heslo</translation>
+    </message>
+    <message>
+        <source>Your new password needs:</source>
+        <translation>Vaše nové heslo musí obsahovat:</translation>
+    </message>
+    <message>
+        <source>Generate a strong password</source>
+        <translation>Vygenerovat silné heslo</translation>
+    </message>
+    <message>
+        <source>new password again</source>
+        <translation>nové heslo znovu</translation>
+    </message>
+    <message>
+        <source>Change password</source>
+        <translation>Změnit heslo</translation>
+    </message>
+    <message>
+        <source>Confirm new password</source>
+        <translation>Potvrdit nové heslo</translation>
+    </message>
+    <message>
+        <source>At least %1 characters</source>
+        <translation>Alespoň %1 znaků</translation>
+    </message>
+    <message>
+        <source>You were signed out on your other devices.</source>
+        <translation>Na ostatních zařízeních jste byli odhlášeni.</translation>
     </message>
 </context>
 <context>
@@ -2945,6 +3035,150 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>Your account was successfully created.</source>
         <translation>Váš účet byl úspěšně vytvořen.</translation>
     </message>
+    <message>
+        <source>Check your e-mail</source>
+        <translation>Zkontrolujte svůj e-mail</translation>
+    </message>
+    <message>
+        <source>Your account has been created. One step is left: confirm your e-mail address.</source>
+        <translation>Váš účet byl vytvořen. Zbývá jeden krok: potvrdit e-mailovou adresu.</translation>
+    </message>
+    <message>
+        <source>We sent a message to %email. Open the link in it to activate your account; then you can sign in.</source>
+        <translation>Poslali jsme zprávu na adresu %email. Otevřete v ní odkaz pro aktivaci účtu; potom se můžete přihlásit.</translation>
+    </message>
+    <message>
+        <source>We sent a message to the e-mail address you entered. Open the link in it to activate your account; then you can sign in.</source>
+        <translation>Poslali jsme zprávu na e-mailovou adresu, kterou jste zadali. Otevřete v ní odkaz pro aktivaci účtu; potom se můžete přihlásit.</translation>
+    </message>
+    <message>
+        <source>No message after a few minutes? Look in your spam folder.</source>
+        <translation>Žádná zpráva ani po několika minutách? Podívejte se do složky se spamem.</translation>
+    </message>
+    <message>
+        <source>Your account is waiting for approval</source>
+        <translation>Váš účet čeká na schválení</translation>
+    </message>
+    <message>
+        <source>Your account has been created. An administrator checks new accounts before they can be used.</source>
+        <translation>Váš účet byl vytvořen. Administrátor nové účty před použitím kontroluje.</translation>
+    </message>
+    <message>
+        <source>You will get an e-mail as soon as your account is approved; then you can sign in.</source>
+        <translation>Jakmile bude váš účet schválen, dostanete e-mail; potom se můžete přihlásit.</translation>
+    </message>
+    <message>
+        <source>Welcome, %name</source>
+        <translation>Vítejte, %name</translation>
+    </message>
+    <message>
+        <source>Welcome</source>
+        <translation>Vítejte</translation>
+    </message>
+    <message>
+        <source>Your account is ready and you are signed in.</source>
+        <translation>Váš účet je připraven a jste přihlášeni.</translation>
+    </message>
+    <message>
+        <source>Your e-mail address is confirmed</source>
+        <translation>Vaše e-mailová adresa je potvrzena</translation>
+    </message>
+    <message>
+        <source>Your account is active and you are signed in.</source>
+        <translation>Váš účet je aktivní a jste přihlášeni.</translation>
+    </message>
+    <message>
+        <source>Your account is active. You can sign in now.</source>
+        <translation>Váš účet je aktivní. Nyní se můžete přihlásit.</translation>
+    </message>
+    <message>
+        <source>An administrator checks new accounts before they can be used.</source>
+        <translation>Administrátor nové účty před použitím kontroluje.</translation>
+    </message>
+    <message>
+        <source>Your account is already active</source>
+        <translation>Váš účet je již aktivní</translation>
+    </message>
+    <message>
+        <source>You are signed in.</source>
+        <translation>Jste přihlášeni.</translation>
+    </message>
+    <message>
+        <source>The account was activated before. You can sign in.</source>
+        <translation>Účet byl aktivován již dříve. Můžete se přihlásit.</translation>
+    </message>
+    <message>
+        <source>This activation link does not work</source>
+        <translation>Tento aktivační odkaz nefunguje</translation>
+    </message>
+    <message>
+        <source>The link is not valid, or it has been used already. Your account was not activated.</source>
+        <translation>Odkaz není platný nebo již byl použit. Váš účet nebyl aktivován.</translation>
+    </message>
+    <message>
+        <source>Copy the whole link from the e-mail into the address bar of your browser. If you activated the account before, sign in.</source>
+        <translation>Zkopírujte celý odkaz z e-mailu do adresního řádku prohlížeče. Pokud jste účet aktivovali již dříve, přihlaste se.</translation>
+    </message>
+    <message>
+        <source>We could not find your account</source>
+        <translation>Váš účet se nepodařilo najít</translation>
+    </message>
+    <message>
+        <source>The account of this registration does not exist (any more).</source>
+        <translation>Účet této registrace neexistuje (již neexistuje).</translation>
+    </message>
+    <message>
+        <source>Please register again, or contact us if the problem stays.</source>
+        <translation>Zaregistrujte se prosím znovu, nebo nás kontaktujte, pokud problém přetrvává.</translation>
+    </message>
+    <message>
+        <source>Your account is ready</source>
+        <translation>Váš účet je připraven</translation>
+    </message>
+    <message>
+        <source>Your account has been created and you are signed in.</source>
+        <translation>Váš účet byl vytvořen a jste přihlášeni.</translation>
+    </message>
+    <message>
+        <source>Your account has been created. You can sign in now.</source>
+        <translation>Váš účet byl vytvořen. Nyní se můžete přihlásit.</translation>
+    </message>
+    <message>
+        <source>Next steps</source>
+        <translation>Další kroky</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Přihlásit se</translation>
+    </message>
+    <message>
+        <source>My profile</source>
+        <translation>Můj profil</translation>
+    </message>
+    <message>
+        <source>Edit profile</source>
+        <translation>Upravit profil</translation>
+    </message>
+    <message>
+        <source>Register</source>
+        <translation>Zaregistrovat se</translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation>Domů</translation>
+    </message>
+    <message>
+        <source>Sitemap</source>
+        <translation>Mapa webu</translation>
+    </message>
+    <message>
+        <source>Tag cloud</source>
+        <translation>Oblak štítků</translation>
+    </message>
+    <message>
+        <source>Administration</source>
+        <translation>Administrace</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/view/ezbinaryfile</name>
@@ -2965,11 +3199,15 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
     <message>
         <source>Your browser does not support html5 video.</source>
-        <translation type="unfinished"></translation>
+        <translation>Váš prohlížeč nepodporuje video HTML5.</translation>
     </message>
     <message>
         <source>Your browser does not support html5 audio.</source>
-        <translation type="unfinished"></translation>
+        <translation>Váš prohlížeč nepodporuje zvuk HTML5.</translation>
+    </message>
+    <message>
+        <source>Get Microsoft Silverlight</source>
+        <translation>Získat Microsoft Silverlight</translation>
     </message>
 </context>
 <context>
@@ -2988,6 +3226,17 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
 </context>
 <context>
+    <name>design/ezwebin/view/infobox</name>
+    <message>
+        <source>Edit</source>
+        <translation>Upravit</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Odstranit</translation>
+    </message>
+</context>
+<context>
     <name>design/ezwebin/view/sitemap</name>
     <message>
         <source>Site map</source>
@@ -2998,68 +3247,158 @@ Images are placed in the media library so you can re-use them in other articles.
     <name>design/ezwebin/websitetoolbar/objectstates</name>
     <message>
         <source>Object states for object</source>
-        <translation type="unfinished"></translation>
+        <translation>Stavy objektu</translation>
     </message>
     <message>
         <source>Content object state group</source>
-        <translation type="unfinished"></translation>
+        <translation>Skupina stavů objektů obsahu</translation>
     </message>
     <message>
         <source>Available states</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostupné stavy</translation>
     </message>
     <message>
         <source>No content object state is configured. This can be done %urlstart here %urlend.</source>
-        <translation type="unfinished"></translation>
+        <translation>Není nakonfigurován žádný stav objektu obsahu. Můžete to udělat %urlstart zde %urlend.</translation>
     </message>
     <message>
         <source>Set states</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavit stavy</translation>
     </message>
     <message>
         <source>Apply states from the list above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít stavy z výše uvedeného seznamu.</translation>
     </message>
     <message>
         <source>No state to be applied to this content object. You might need to be assigned a more permissive access policy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na tento objekt obsahu nelze použít žádný stav. Možná potřebujete přiřadit volnější zásadu přístupu.</translation>
     </message>
 </context>
 <context>
     <name>design/standard/content/datatype</name>
     <message>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekunda</translation>
     </message>
 </context>
 <context>
     <name>design/standard/user</name>
     <message>
         <source>Your email address has been confirmed. An administrator needs to approve your sign up request, before your login becomes valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaše e-mailová adresa byla potvrzena. Než bude vaše přihlášení platné, musí vaši žádost o registraci schválit správce.</translation>
     </message>
     <message>
         <source>Your account is now activated.</source>
-        <translation type="unfinished">Váš účet je nyní aktivován.</translation>
+        <translation>Váš účet je nyní aktivován.</translation>
     </message>
     <message>
         <source>Your account is already active.</source>
-        <translation type="unfinished">Váš účet je již aktivní.</translation>
+        <translation>Váš účet je již aktivní.</translation>
     </message>
     <message>
         <source>Sorry, the key submitted was not a valid key. Account was not activated.</source>
-        <translation type="unfinished">Lituji, ale klíč není platný. Uživatelský účet nebude aktivován.</translation>
+        <translation>Je nám líto, odeslaný klíč není platný. Účet nebyl aktivován.</translation>
+    </message>
+</context>
+<context>
+    <name>design/standard/user/forgotpassword</name>
+    <message>
+        <source>If an account is registered with the email address %1, a mail has been sent to it. This email contains a link you need to click so that we can confirm that the correct user is getting the new password.</source>
+        <translation>Pokud je s e-mailovou adresou %1 zaregistrován účet, byl na ni odeslán e-mail. Obsahuje odkaz, na který musíte kliknout, abychom mohli ověřit, že nové heslo dostává správný uživatel.</translation>
+    </message>
+    <message>
+        <source>Please enter a valid email address.</source>
+        <translation>Zadejte platnou e-mailovou adresu.</translation>
     </message>
 </context>
 <context>
     <name>extension/ezodf</name>
     <message>
         <source>Document imported as</source>
-        <translation type="unfinished">Dokument importován jako</translation>
+        <translation>Dokument importován jako</translation>
     </message>
     <message>
         <source>The imported document is waiting for an approbation to be published.</source>
-        <translation type="unfinished"></translation>
+        <translation>Importovaný dokument čeká na schválení k publikování.</translation>
+    </message>
+</context>
+<context>
+    <name>design/ezwebin/content/diff</name>
+    <message>
+        <source>Versions for &lt;%object_name&gt; [%version_count]</source>
+        <translation>Verze objektu &lt;%object_name&gt; [%version_count]</translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation>Verze</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation>Stav</translation>
+    </message>
+    <message>
+        <source>Translations</source>
+        <translation>Překlady</translation>
+    </message>
+    <message>
+        <source>Creator</source>
+        <translation>Autor</translation>
+    </message>
+    <message>
+        <source>Modified</source>
+        <translation>Změněno</translation>
+    </message>
+    <message>
+        <source>Draft</source>
+        <translation>Koncept</translation>
+    </message>
+    <message>
+        <source>Published</source>
+        <translation>Publikováno</translation>
+    </message>
+    <message>
+        <source>Pending</source>
+        <translation>Čeká na vyřízení</translation>
+    </message>
+    <message>
+        <source>Archived</source>
+        <translation>Archivováno</translation>
+    </message>
+    <message>
+        <source>Rejected</source>
+        <translation>Zamítnuto</translation>
+    </message>
+    <message>
+        <source>Untouched draft</source>
+        <translation>Nedotčený koncept</translation>
+    </message>
+    <message>
+        <source>This object does not have any versions.</source>
+        <translation>Tento objekt nemá žádné verze.</translation>
+    </message>
+    <message>
+        <source>Show differences</source>
+        <translation>Zobrazit rozdíly</translation>
+    </message>
+    <message>
+        <source>Differences between versions %oldVersion and %newVersion</source>
+        <translation>Rozdíly mezi verzemi %oldVersion a %newVersion</translation>
+    </message>
+    <message>
+        <source>Old version</source>
+        <translation>Stará verze</translation>
+    </message>
+    <message>
+        <source>Inline changes</source>
+        <translation>Změny v textu</translation>
+    </message>
+    <message>
+        <source>Block changes</source>
+        <translation>Změny po blocích</translation>
+    </message>
+    <message>
+        <source>New version</source>
+        <translation>Nová verze</translation>
     </message>
 </context>
 </TS>

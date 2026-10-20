@@ -43,19 +43,19 @@
     <name>design/ezodf/import</name>
     <message>
         <source>Create or update the translation in:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertaling aanmaken of bijwerken in:</translation>
     </message>
     <message>
         <source>Existing translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestaande vertalingen</translation>
     </message>
     <message>
         <source>New translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe vertalingen</translation>
     </message>
     <message>
         <source>Import in:</source>
-        <translation type="unfinished"></translation>
+        <translation>Importeren in:</translation>
     </message>
 </context>
 <context>
@@ -68,10 +68,6 @@
 <context>
     <name>design/ezwebin/article/comments</name>
     <message>
-        <source>%login_link_startLog in%login_link_end to comment.</source>
-        <translation>%login_link_startMeld u aan%login_link_end om commentaar te geven.</translation>
-    </message>
-    <message>
         <source>Comments</source>
         <translation>Commentaren</translation>
     </message>
@@ -82,6 +78,10 @@
     <message>
         <source>%login_link_startLog in%login_link_end or %create_link_startcreate a user account%create_link_end to comment.</source>
         <translation>%login_link_startMeld u aan%login_link_end of %create_link_startmaak een gebruikersaccount aan%create_link_end om commentaar te geven.</translation>
+    </message>
+    <message>
+        <source>%login_link_startLog in%login_link_end to comment.</source>
+        <translation>%login_link_startMeld u aan%login_link_end om commentaar te geven.</translation>
     </message>
 </context>
 <context>
@@ -161,7 +161,7 @@
     <name>design/ezwebin/collectedinfo/poll</name>
     <message>
         <source>Poll %pollname</source>
-        <translation>Poll %pollname</translation>
+        <translation>Peiling %pollname</translation>
     </message>
     <message>
         <source>Results</source>
@@ -241,10 +241,6 @@
         <translation>Vorige week</translation>
     </message>
     <message>
-        <source>Last month</source>
-        <translation>Vorige maand</translation>
-    </message>
-    <message>
         <source>Last three months</source>
         <translation>Laatste drie maanden</translation>
     </message>
@@ -287,6 +283,10 @@
     <message>
         <source>Search for &quot;%1&quot; returned %2 matches</source>
         <translation>Zoek naar &quot;%1&quot; leverde %2 resultaten op</translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translation>Vorige maand</translation>
     </message>
 </context>
 <context>
@@ -350,95 +350,16 @@
         <translation>Dag</translation>
     </message>
     <message>
-        <source>Hour</source>
-        <translation type="obsolete">Uur</translation>
-    </message>
-    <message>
-        <source>Minute</source>
-        <translation type="obsolete">Minuut</translation>
-    </message>
-    <message>
         <source>Show calendar to select a date.</source>
         <translation>Toon kalendar om een datum te selecteren.</translation>
     </message>
-</context>
-<context>
-    <name>design/ezwebin/content/diff</name>
     <message>
-        <source>Versions for &lt;%object_name&gt; [%version_count]</source>
-        <translation type="obsolete">Versies voor &lt;%object_name&gt; (%version_count)</translation>
+        <source>Hour</source>
+        <translation>Uur</translation>
     </message>
     <message>
-        <source>Version</source>
-        <translation type="obsolete">Versie</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="obsolete">Status</translation>
-    </message>
-    <message>
-        <source>Translations</source>
-        <translation type="obsolete">Vertalingen</translation>
-    </message>
-    <message>
-        <source>Creator</source>
-        <translation type="obsolete">Creator</translation>
-    </message>
-    <message>
-        <source>Modified</source>
-        <translation type="obsolete">Gewijzigd</translation>
-    </message>
-    <message>
-        <source>Draft</source>
-        <translation type="obsolete">Concept</translation>
-    </message>
-    <message>
-        <source>Published</source>
-        <translation type="obsolete">Gepubliceerd</translation>
-    </message>
-    <message>
-        <source>Pending</source>
-        <translation type="obsolete">In behandeling</translation>
-    </message>
-    <message>
-        <source>Archived</source>
-        <translation type="obsolete">Gearchiveerd</translation>
-    </message>
-    <message>
-        <source>Rejected</source>
-        <translation type="obsolete">Verworpen</translation>
-    </message>
-    <message>
-        <source>Untouched draft</source>
-        <translation type="obsolete">Onaangeroerd concept</translation>
-    </message>
-    <message>
-        <source>This object does not have any versions.</source>
-        <translation type="obsolete">Dit object heeft geen versies.</translation>
-    </message>
-    <message>
-        <source>Show differences</source>
-        <translation type="obsolete">Verschillen weergeven</translation>
-    </message>
-    <message>
-        <source>Differences between versions %oldVersion and %newVersion</source>
-        <translation type="obsolete">Verschillen tussen versies %oldVersion en %newVersion</translation>
-    </message>
-    <message>
-        <source>Old version</source>
-        <translation type="obsolete">Oude versie</translation>
-    </message>
-    <message>
-        <source>Inline changes</source>
-        <translation type="obsolete">Inline wijzigingen</translation>
-    </message>
-    <message>
-        <source>Block changes</source>
-        <translation type="obsolete">Wijzigingen blokkeren</translation>
-    </message>
-    <message>
-        <source>New version</source>
-        <translation type="obsolete">Nieuwe versie</translation>
+        <source>Minute</source>
+        <translation>Minuut</translation>
     </message>
 </context>
 <context>
@@ -501,21 +422,15 @@
         <translation>Dit zijn de objecten waar u nu mee werkt. De concepten zijn van u en kunnen alleen door u bekeken worden.
      U kunt de concepten bewerken of verwijderen, als u ze niet meer nodig hebt.</translation>
     </message>
+    <message>
+        <source>These are the current objects you are working on. The drafts are owned by you and can only be seen by you.
+ You can either edit the drafts or remove them if you don&apos;t need them any more.</source>
+        <translation>Dit zijn de huidige objecten waaraan je werkt. De concepten zijn van jou en alleen voor jou zichtbaar.
+ Je kunt de concepten bewerken of verwijderen als je ze niet meer nodig hebt.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/content/edit</name>
-    <message>
-        <source>Edit %1 - %2</source>
-        <translation type="obsolete">Bewerk %1 - %2</translation>
-    </message>
-    <message>
-        <source>Translating content from %from_lang to %to_lang</source>
-        <translation>Vertaal inhoud van %from_lang naar %to_lang</translation>
-    </message>
-    <message>
-        <source>Content in %language</source>
-        <translation>Inhoud in %language</translation>
-    </message>
     <message>
         <source>Send for publishing</source>
         <translation>Verzend voor publicatie</translation>
@@ -527,6 +442,14 @@
     <message>
         <source>Discard draft</source>
         <translation>Concept verwerpen</translation>
+    </message>
+    <message>
+        <source>Translating content from %from_lang to %to_lang</source>
+        <translation>Vertaal inhoud van %from_lang naar %to_lang</translation>
+    </message>
+    <message>
+        <source>Content in %language</source>
+        <translation>Inhoud in %language</translation>
     </message>
     <message>
         <source>Edit &lt;%object_name&gt; (%class_name)</source>
@@ -552,20 +475,9 @@
         <source>Discard the draft that is being edited. This will also remove the translations that belong to the draft (if any).</source>
         <translation>Het concept dat u nu bewerkt verwerpen. Hiermee verwijdert u ook eventuele vertalingen bij dit concept.</translation>
     </message>
-</context>
-<context>
-    <name>design/ezwebin/content/edit_attribute</name>
     <message>
-        <source>Not translatable</source>
-        <translation type="obsolete">Niet te vertalen</translation>
-    </message>
-    <message>
-        <source>Required</source>
-        <translation type="obsolete">Vereist</translation>
-    </message>
-    <message>
-        <source>Information collector</source>
-        <translation type="obsolete">Informatieverzamelaar</translation>
+        <source>Edit %1 - %2</source>
+        <translation type="obsolete">Bewerk %1 - %2</translation>
     </message>
 </context>
 <context>
@@ -731,12 +643,8 @@
         <translation>Status</translation>
     </message>
     <message>
-        <source>Modified translation</source>
-        <translation>Gewijzigde vertaling</translation>
-    </message>
-    <message>
         <source>Creator</source>
-        <translation>Creator</translation>
+        <translation>Maker</translation>
     </message>
     <message>
         <source>Created</source>
@@ -861,6 +769,10 @@
     <message>
         <source>Back to history</source>
         <translation>Terug naar geschiedenis</translation>
+    </message>
+    <message>
+        <source>Modified translation</source>
+        <translation>Gewijzigde vertaling</translation>
     </message>
 </context>
 <context>
@@ -1106,7 +1018,7 @@
     </message>
     <message>
         <source>Third-Party Software</source>
-        <translation>Third-Party Software</translation>
+        <translation>Software van derden</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -1174,10 +1086,6 @@
         <translation>Het object werd geïmporteerd als: %class_name</translation>
     </message>
     <message>
-        <source>Document imported as</source>
-        <translation type="obsolete">Document geïmporteerd als</translation>
-    </message>
-    <message>
         <source>The images are placed in the media and can be re-used.</source>
         <translation>De afbeeldingen werden in de media geplaatst en kunnen opnieuw gebruikt worden.</translation>
     </message>
@@ -1213,7 +1121,11 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     </message>
     <message>
         <source>File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand:</translation>
+    </message>
+    <message>
+        <source>Document imported as</source>
+        <translation>Document geïmporteerd als</translation>
     </message>
 </context>
 <context>
@@ -1332,6 +1244,22 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
         <source>Show All Events..</source>
         <translation>Toon alle gebeurtenissen..</translation>
     </message>
+    <message>
+        <source>Event Calendar</source>
+        <translation>Evenementenkalender</translation>
+    </message>
+    <message>
+        <source>Previous month</source>
+        <translation>Vorige maand</translation>
+    </message>
+    <message>
+        <source>Next Month</source>
+        <translation>Volgende maand</translation>
+    </message>
+    <message>
+        <source>Preview of event</source>
+        <translation>Voorbeeld van evenement</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>
@@ -1342,6 +1270,10 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     <message>
         <source>Future events</source>
         <translation>Toekomstige gebeurtenissen</translation>
+    </message>
+    <message>
+        <source>Preview of event</source>
+        <translation>Voorbeeld van evenement</translation>
     </message>
 </context>
 <context>
@@ -1367,7 +1299,7 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     </message>
     <message>
         <source>Topic</source>
-        <translation>Topic</translation>
+        <translation>Onderwerp</translation>
     </message>
     <message>
         <source>Replies</source>
@@ -1385,6 +1317,10 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
         <source>Pages</source>
         <translation>Pagina&apos;s</translation>
     </message>
+    <message>
+        <source>Last reply by:</source>
+        <translation>Laatste reactie van:</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/forum_reply</name>
@@ -1398,7 +1334,7 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     </message>
     <message>
         <source>Topic</source>
-        <translation>Topic</translation>
+        <translation>Onderwerp</translation>
     </message>
     <message>
         <source>Location</source>
@@ -1468,7 +1404,7 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     <name>design/ezwebin/full/forums</name>
     <message>
         <source>Topics</source>
-        <translation>Topics</translation>
+        <translation>Onderwerpen</translation>
     </message>
     <message>
         <source>Posts</source>
@@ -1551,6 +1487,13 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     </message>
 </context>
 <context>
+    <name>design/ezwebin/full/silverlight</name>
+    <message>
+        <source>Get Microsoft Silverlight</source>
+        <translation>Microsoft Silverlight downloaden</translation>
+    </message>
+</context>
+<context>
     <name>design/ezwebin/line/blog_post</name>
     <message>
         <source>View comments</source>
@@ -1604,12 +1547,27 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
         <source>Enter forum</source>
         <translation>Forum binnengaan</translation>
     </message>
+    <message>
+        <source>Forum</source>
+        <translation>Forum</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/line/forum_reply</name>
     <message>
         <source>Reply to:</source>
         <translation>Antwoord aan:</translation>
+    </message>
+</context>
+<context>
+    <name>design/ezwebin/line/link</name>
+    <message>
+        <source>Edit</source>
+        <translation>Bewerken</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Verwijderen</translation>
     </message>
 </context>
 <context>
@@ -1621,6 +1579,13 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     <message>
         <source>Vote</source>
         <translation>Stemmen</translation>
+    </message>
+</context>
+<context>
+    <name>design/ezwebin/line/product</name>
+    <message>
+        <source>(price ex. vat %ex_vat_price)</source>
+        <translation>(prijs excl. btw %ex_vat_price)</translation>
     </message>
 </context>
 <context>
@@ -1702,8 +1667,11 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     </message>
     <message>
         <source>The items contain more than the maximum possible nodes for subtree removal and will not be deleted. You can remove this subtree using the ezsubtreeremove.php script.</source>
-        <translation>De items bevatten teveel knooppunten in een subtree en worden daarom niet verwijderd. U kunt de subtree verwijderen met het script ezsubtreeremove.php.
-</translation>
+        <translation>De items bevatten meer nodes dan maximaal mogelijk is voor het verwijderen van een substructuur en worden niet verwijderd. Je kunt deze substructuur verwijderen met het script ezsubtreeremove.php.</translation>
+    </message>
+    <message>
+        <source>Warning:</source>
+        <translation>Waarschuwing:</translation>
     </message>
 </context>
 <context>
@@ -1741,7 +1709,7 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     </message>
     <message>
         <source>Once per week, on </source>
-        <translation>Eenmaal per week, op</translation>
+        <translation>Eén keer per week, op </translation>
     </message>
     <message>
         <source>Once per month, on day number</source>
@@ -1860,7 +1828,7 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     </message>
     <message>
         <source>Site URL</source>
-        <translation>Site URL</translation>
+        <translation>Site-URL</translation>
     </message>
     <message>
         <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and Exponential configuration.</source>
@@ -1928,7 +1896,7 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     </message>
     <message>
         <source>Use this field to set the URL where the RSS export should be available. Note that &quot;rss/feed/&quot; will be appended to the real URL. </source>
-        <translation>Gebruik dit veld om de URL in te stellen waar de RSS export beschikbaar is. In de uiteindelijke URL gaat hier &quot;rss/feed/&quot; aan vooraf.</translation>
+        <translation>Gebruik dit veld om de URL in te stellen waarop de RSS-export beschikbaar moet zijn. Let op: &quot;rss/feed/&quot; wordt aan de echte URL toegevoegd. </translation>
     </message>
     <message>
         <source>Source</source>
@@ -2146,7 +2114,7 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     <name>design/ezwebin/rss/list</name>
     <message>
         <source>RSS exports [%exports_count]</source>
-        <translation></translation>
+        <translation>RSS-exports [%exports_count]</translation>
     </message>
     <message>
         <source>Invert selection</source>
@@ -2170,7 +2138,7 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     </message>
     <message>
         <source>Modifier</source>
-        <translation></translation>
+        <translation>Gewijzigd door</translation>
     </message>
     <message>
         <source>Modified</source>
@@ -2178,15 +2146,15 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     </message>
     <message>
         <source>Select RSS export for removal.</source>
-        <translation></translation>
+        <translation>RSS-export selecteren om te verwijderen.</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation></translation>
+        <translation>Actief</translation>
     </message>
     <message>
         <source>Inactive</source>
-        <translation></translation>
+        <translation>Inactief</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -2194,11 +2162,11 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     </message>
     <message>
         <source>Edit the &lt;%name&gt; RSS export.</source>
-        <translation></translation>
+        <translation>De RSS-export &lt;%name&gt; bewerken.</translation>
     </message>
     <message>
         <source>The RSS export list is empty.</source>
-        <translation></translation>
+        <translation>De lijst met RSS-exports is leeg.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -2206,43 +2174,43 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     </message>
     <message>
         <source>Remove selected RSS exports.</source>
-        <translation></translation>
+        <translation>Geselecteerde RSS-exports verwijderen.</translation>
     </message>
     <message>
         <source>New export</source>
-        <translation></translation>
+        <translation>Nieuwe export</translation>
     </message>
     <message>
         <source>Create a new RSS export.</source>
-        <translation></translation>
+        <translation>Een nieuwe RSS-export aanmaken.</translation>
     </message>
     <message>
         <source>RSS imports [%imports_count]</source>
-        <translation></translation>
+        <translation>RSS-imports [%imports_count]</translation>
     </message>
     <message>
         <source>Select RSS import for removal.</source>
-        <translation></translation>
+        <translation>RSS-import selecteren om te verwijderen.</translation>
     </message>
     <message>
         <source>Edit the &lt;%name&gt; RSS import.</source>
-        <translation></translation>
+        <translation>De RSS-import &lt;%name&gt; bewerken.</translation>
     </message>
     <message>
         <source>The RSS import list is empty.</source>
-        <translation></translation>
+        <translation>De lijst met RSS-imports is leeg.</translation>
     </message>
     <message>
         <source>Remove selected RSS imports.</source>
-        <translation></translation>
+        <translation>Geselecteerde RSS-imports verwijderen.</translation>
     </message>
     <message>
         <source>New import</source>
-        <translation></translation>
+        <translation>Nieuwe import</translation>
     </message>
     <message>
         <source>Create a new RSS import.</source>
-        <translation></translation>
+        <translation>Een nieuwe RSS-import aanmaken.</translation>
     </message>
 </context>
 <context>
@@ -2337,7 +2305,7 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     </message>
     <message>
         <source>Shipping</source>
-        <translation>Shipping</translation>
+        <translation>Verzending</translation>
     </message>
     <message>
         <source>Order total</source>
@@ -2473,6 +2441,10 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
         <source>Amount</source>
         <translation>Bedrag</translation>
     </message>
+    <message>
+        <source>view</source>
+        <translation>bekijken</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/shop/orderlist</name>
@@ -2543,6 +2515,10 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     <message>
         <source>Archive</source>
         <translation>Archiveren</translation>
+    </message>
+    <message>
+        <source>[ view ]</source>
+        <translation>[ bekijken ]</translation>
     </message>
 </context>
 <context>
@@ -2728,6 +2704,25 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
         <source>Node ID: %node_id Visibility: %visibility</source>
         <translation>Knooppunt-ID: %node_id Zichtbaarheid: %visibility</translation>
     </message>
+    <message>
+        <source>Visible</source>
+        <translation>Zichtbaar</translation>
+    </message>
+    <message>
+        <source>Hidden by superior</source>
+        <translation>Verborgen door bovenliggend item</translation>
+    </message>
+    <message>
+        <source>Hidden</source>
+        <translation>Verborgen</translation>
+    </message>
+</context>
+<context>
+    <name>design/ezwebin/tagcloud/tagcloud</name>
+    <message>
+        <source>%count objects tagged with &apos;%tag&apos;</source>
+        <translation>%count objecten getagd met &apos;%tag&apos;</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/user/activate</name>
@@ -2736,20 +2731,20 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
         <translation>Account activeren</translation>
     </message>
     <message>
-        <source>Your account is now activated.</source>
-        <translation type="obsolete">Uw account is nu geactiveerd.</translation>
+        <source>OK</source>
+        <translation>OK</translation>
     </message>
     <message>
-        <source>Your account is already active.</source>
-        <translation type="obsolete">Uw account is reeds actief.</translation>
+        <source>Your account is now activated.</source>
+        <translation>Je account is nu geactiveerd.</translation>
     </message>
     <message>
         <source>Sorry, the key submitted was not a valid key. Account was not activated.</source>
-        <translation type="obsolete">Soory, de ingegeven sleutel was geen geldige sleutel. De account werd niet geactiveerd.</translation>
+        <translation>Sorry, de opgegeven sleutel is ongeldig. Het account is niet geactiveerd.</translation>
     </message>
     <message>
-        <source>OK</source>
-        <translation>OK</translation>
+        <source>Your account is already active.</source>
+        <translation>Je account is al actief.</translation>
     </message>
 </context>
 <context>
@@ -2779,10 +2774,6 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
         <translation>Mijn orders</translation>
     </message>
     <message>
-        <source>My pending items</source>
-        <translation>Mijn items in behandeling</translation>
-    </message>
-    <message>
         <source>My notification settings</source>
         <translation>Mijn notificatieinstellingen</translation>
     </message>
@@ -2797,6 +2788,10 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     <message>
         <source>Change password</source>
         <translation>Wachtwoord wijzigen</translation>
+    </message>
+    <message>
+        <source>My pending items</source>
+        <translation>Mijn items in behandeling</translation>
     </message>
 </context>
 <context>
@@ -2815,7 +2810,7 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     </message>
     <message>
         <source>The key is invalid or has been used. </source>
-        <translation>De sleutel is ongeldig of werd gebruikt.</translation>
+        <translation>De sleutel is ongeldig of al gebruikt. </translation>
     </message>
     <message>
         <source>Have you forgotten your password?</source>
@@ -2903,10 +2898,6 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
         <translation>Wachtwoord kwam niet overeen, gelieve uw nieuw wachtwoord opnieuw in te geven.</translation>
     </message>
     <message>
-        <source>The new password must be at least %1 characters long, please retype your new password.</source>
-        <translation>Het nieuw wachtwoord moet tenminste %1 tekens lang zijn, gelieve uw nieuw wachtwoord opnieuw in te voeren.</translation>
-    </message>
-    <message>
         <source>Password successfully updated.</source>
         <translation>Wachtwoord succesvol geüpdated.</translation>
     </message>
@@ -2930,6 +2921,78 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
         <source>Cancel</source>
         <translation>Annuleren</translation>
     </message>
+    <message>
+        <source>The new password must be at least %1 characters long, please retype your new password.</source>
+        <translation>Het nieuw wachtwoord moet tenminste %1 tekens lang zijn, gelieve uw nieuw wachtwoord opnieuw in te voeren.</translation>
+    </message>
+    <message>
+        <source>Change your password</source>
+        <translation>Je wachtwoord wijzigen</translation>
+    </message>
+    <message>
+        <source>Your password has been changed</source>
+        <translation>Je wachtwoord is gewijzigd</translation>
+    </message>
+    <message>
+        <source>You are still signed in here. Use the new password the next time you sign in.</source>
+        <translation>Je bent hier nog ingelogd. Gebruik het nieuwe wachtwoord de volgende keer dat je inlogt.</translation>
+    </message>
+    <message>
+        <source>We sent a confirmation to your e-mail address.</source>
+        <translation>We hebben een bevestiging naar je e-mailadres gestuurd.</translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation>Doorgaan</translation>
+    </message>
+    <message>
+        <source>Your password was not changed</source>
+        <translation>Je wachtwoord is niet gewijzigd</translation>
+    </message>
+    <message>
+        <source>Signed in as %1.</source>
+        <translation>Ingelogd als %1.</translation>
+    </message>
+    <message>
+        <source>Current password</source>
+        <translation>Huidig wachtwoord</translation>
+    </message>
+    <message>
+        <source>current password</source>
+        <translation>huidig wachtwoord</translation>
+    </message>
+    <message>
+        <source>new password</source>
+        <translation>nieuw wachtwoord</translation>
+    </message>
+    <message>
+        <source>Your new password needs:</source>
+        <translation>Je nieuwe wachtwoord heeft nodig:</translation>
+    </message>
+    <message>
+        <source>Generate a strong password</source>
+        <translation>Een sterk wachtwoord genereren</translation>
+    </message>
+    <message>
+        <source>new password again</source>
+        <translation>nieuw wachtwoord nogmaals</translation>
+    </message>
+    <message>
+        <source>Change password</source>
+        <translation>Wachtwoord wijzigen</translation>
+    </message>
+    <message>
+        <source>Confirm new password</source>
+        <translation>Nieuw wachtwoord bevestigen</translation>
+    </message>
+    <message>
+        <source>At least %1 characters</source>
+        <translation>Minstens %1 tekens</translation>
+    </message>
+    <message>
+        <source>You were signed out on your other devices.</source>
+        <translation>Je bent op je andere apparaten uitgelogd.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/user/register</name>
@@ -2947,7 +3010,7 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     </message>
     <message>
         <source>Register</source>
-        <translation>Register</translation>
+        <translation>Registreren</translation>
     </message>
     <message>
         <source>Discard</source>
@@ -2976,6 +3039,150 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
         <source>Your account was successfully created.</source>
         <translation>Uw account werd succesvol aangemaakt.</translation>
     </message>
+    <message>
+        <source>Check your e-mail</source>
+        <translation>Controleer je e-mail</translation>
+    </message>
+    <message>
+        <source>Your account has been created. One step is left: confirm your e-mail address.</source>
+        <translation>Je account is aangemaakt. Er is nog één stap: bevestig je e-mailadres.</translation>
+    </message>
+    <message>
+        <source>We sent a message to %email. Open the link in it to activate your account; then you can sign in.</source>
+        <translation>We hebben een bericht gestuurd naar %email. Open de link erin om je account te activeren; daarna kun je inloggen.</translation>
+    </message>
+    <message>
+        <source>We sent a message to the e-mail address you entered. Open the link in it to activate your account; then you can sign in.</source>
+        <translation>We hebben een bericht gestuurd naar het e-mailadres dat je hebt ingevoerd. Open de link erin om je account te activeren; daarna kun je inloggen.</translation>
+    </message>
+    <message>
+        <source>No message after a few minutes? Look in your spam folder.</source>
+        <translation>Na een paar minuten nog geen bericht? Kijk in je map met spam.</translation>
+    </message>
+    <message>
+        <source>Your account is waiting for approval</source>
+        <translation>Je account wacht op goedkeuring</translation>
+    </message>
+    <message>
+        <source>Your account has been created. An administrator checks new accounts before they can be used.</source>
+        <translation>Je account is aangemaakt. Een beheerder controleert nieuwe accounts voordat ze kunnen worden gebruikt.</translation>
+    </message>
+    <message>
+        <source>You will get an e-mail as soon as your account is approved; then you can sign in.</source>
+        <translation>Je krijgt een e-mail zodra je account is goedgekeurd; daarna kun je inloggen.</translation>
+    </message>
+    <message>
+        <source>Welcome, %name</source>
+        <translation>Welkom, %name</translation>
+    </message>
+    <message>
+        <source>Welcome</source>
+        <translation>Welkom</translation>
+    </message>
+    <message>
+        <source>Your account is ready and you are signed in.</source>
+        <translation>Je account is klaar en je bent ingelogd.</translation>
+    </message>
+    <message>
+        <source>Your e-mail address is confirmed</source>
+        <translation>Je e-mailadres is bevestigd</translation>
+    </message>
+    <message>
+        <source>Your account is active and you are signed in.</source>
+        <translation>Je account is actief en je bent ingelogd.</translation>
+    </message>
+    <message>
+        <source>Your account is active. You can sign in now.</source>
+        <translation>Je account is actief. Je kunt nu inloggen.</translation>
+    </message>
+    <message>
+        <source>An administrator checks new accounts before they can be used.</source>
+        <translation>Een beheerder controleert nieuwe accounts voordat ze kunnen worden gebruikt.</translation>
+    </message>
+    <message>
+        <source>Your account is already active</source>
+        <translation>Je account is al actief</translation>
+    </message>
+    <message>
+        <source>You are signed in.</source>
+        <translation>Je bent ingelogd.</translation>
+    </message>
+    <message>
+        <source>The account was activated before. You can sign in.</source>
+        <translation>Het account was al eerder geactiveerd. Je kunt inloggen.</translation>
+    </message>
+    <message>
+        <source>This activation link does not work</source>
+        <translation>Deze activeringslink werkt niet</translation>
+    </message>
+    <message>
+        <source>The link is not valid, or it has been used already. Your account was not activated.</source>
+        <translation>De link is ongeldig, of al gebruikt. Je account is niet geactiveerd.</translation>
+    </message>
+    <message>
+        <source>Copy the whole link from the e-mail into the address bar of your browser. If you activated the account before, sign in.</source>
+        <translation>Kopieer de hele link uit de e-mail naar de adresbalk van je browser. Als je het account al eerder hebt geactiveerd, log dan in.</translation>
+    </message>
+    <message>
+        <source>We could not find your account</source>
+        <translation>We konden je account niet vinden</translation>
+    </message>
+    <message>
+        <source>The account of this registration does not exist (any more).</source>
+        <translation>Het account van deze registratie bestaat niet (meer).</translation>
+    </message>
+    <message>
+        <source>Please register again, or contact us if the problem stays.</source>
+        <translation>Registreer je opnieuw, of neem contact met ons op als het probleem blijft.</translation>
+    </message>
+    <message>
+        <source>Your account is ready</source>
+        <translation>Je account is klaar</translation>
+    </message>
+    <message>
+        <source>Your account has been created and you are signed in.</source>
+        <translation>Je account is aangemaakt en je bent ingelogd.</translation>
+    </message>
+    <message>
+        <source>Your account has been created. You can sign in now.</source>
+        <translation>Je account is aangemaakt. Je kunt nu inloggen.</translation>
+    </message>
+    <message>
+        <source>Next steps</source>
+        <translation>Volgende stappen</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Inloggen</translation>
+    </message>
+    <message>
+        <source>My profile</source>
+        <translation>Mijn profiel</translation>
+    </message>
+    <message>
+        <source>Edit profile</source>
+        <translation>Profiel bewerken</translation>
+    </message>
+    <message>
+        <source>Register</source>
+        <translation>Registreren</translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation>Home</translation>
+    </message>
+    <message>
+        <source>Sitemap</source>
+        <translation>Sitemap</translation>
+    </message>
+    <message>
+        <source>Tag cloud</source>
+        <translation>Tagwolk</translation>
+    </message>
+    <message>
+        <source>Administration</source>
+        <translation>Beheer</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/view/ezbinaryfile</name>
@@ -2988,7 +3195,7 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     <name>design/ezwebin/view/ezmedia</name>
     <message>
         <source>No %link_startFlash player%link_end avaliable!</source>
-        <translation>Geen %link_startFlash player%ling_end beschikbaar!</translation>
+        <translation>Geen %link_startFlash player%link_end beschikbaar!</translation>
     </message>
     <message>
         <source>No media file is available.</source>
@@ -3001,6 +3208,10 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     <message>
         <source>Your browser does not support html5 audio.</source>
         <translation>Uw browser ondersteunt geen html5 audio.</translation>
+    </message>
+    <message>
+        <source>Get Microsoft Silverlight</source>
+        <translation>Microsoft Silverlight downloaden</translation>
     </message>
 </context>
 <context>
@@ -3019,6 +3230,17 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     </message>
 </context>
 <context>
+    <name>design/ezwebin/view/infobox</name>
+    <message>
+        <source>Edit</source>
+        <translation>Bewerken</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Verwijderen</translation>
+    </message>
+</context>
+<context>
     <name>design/ezwebin/view/sitemap</name>
     <message>
         <source>Site map</source>
@@ -3029,38 +3251,38 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     <name>design/ezwebin/websitetoolbar/objectstates</name>
     <message>
         <source>Object states for object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objectstatussen voor object</translation>
     </message>
     <message>
         <source>Content object state group</source>
-        <translation type="unfinished"></translation>
+        <translation>Statusgroep van inhoudsobject</translation>
     </message>
     <message>
         <source>Available states</source>
-        <translation type="unfinished"></translation>
+        <translation>Beschikbare statussen</translation>
     </message>
     <message>
         <source>No content object state is configured. This can be done %urlstart here %urlend.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er is geen status voor inhoudsobjecten geconfigureerd. Dat kan %urlstart hier %urlend.</translation>
     </message>
     <message>
         <source>Set states</source>
-        <translation type="unfinished"></translation>
+        <translation>Statussen instellen</translation>
     </message>
     <message>
         <source>Apply states from the list above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Statussen uit de lijst hierboven toepassen.</translation>
     </message>
     <message>
         <source>No state to be applied to this content object. You might need to be assigned a more permissive access policy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er is geen status die op dit inhoudsobject kan worden toegepast. Mogelijk heb je een ruimere toegangsregel nodig.</translation>
     </message>
 </context>
 <context>
     <name>design/standard/content/datatype</name>
     <message>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Seconde</translation>
     </message>
 </context>
 <context>
@@ -3083,14 +3305,119 @@ Afbeeldingen worden in de media bibliotheek geplaatst, zodat u deze opnieuw kunt
     </message>
 </context>
 <context>
+    <name>design/standard/user/forgotpassword</name>
+    <message>
+        <source>If an account is registered with the email address %1, a mail has been sent to it. This email contains a link you need to click so that we can confirm that the correct user is getting the new password.</source>
+        <translation>Als er een account is geregistreerd met het e-mailadres %1, is daar een e-mail naartoe gestuurd. Deze bevat een link waarop je moet klikken, zodat we kunnen bevestigen dat de juiste gebruiker het nieuwe wachtwoord krijgt.</translation>
+    </message>
+    <message>
+        <source>Please enter a valid email address.</source>
+        <translation>Voer een geldig e-mailadres in.</translation>
+    </message>
+</context>
+<context>
     <name>extension/ezodf</name>
     <message>
         <source>Document imported as</source>
-        <translation type="unfinished">Document geïmporteerd als</translation>
+        <translation>Document geïmporteerd als</translation>
     </message>
     <message>
         <source>The imported document is waiting for an approbation to be published.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het geïmporteerde document wacht op goedkeuring voordat het wordt gepubliceerd.</translation>
+    </message>
+</context>
+<context>
+    <name>design/ezwebin/content/diff</name>
+    <message>
+        <source>Versions for &lt;%object_name&gt; [%version_count]</source>
+        <translation>Versies van &lt;%object_name&gt; [%version_count]</translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation>Versie</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation>Status</translation>
+    </message>
+    <message>
+        <source>Translations</source>
+        <translation>Vertalingen</translation>
+    </message>
+    <message>
+        <source>Creator</source>
+        <translation>Maker</translation>
+    </message>
+    <message>
+        <source>Modified</source>
+        <translation>Gewijzigd</translation>
+    </message>
+    <message>
+        <source>Draft</source>
+        <translation>Concept</translation>
+    </message>
+    <message>
+        <source>Published</source>
+        <translation>Gepubliceerd</translation>
+    </message>
+    <message>
+        <source>Pending</source>
+        <translation>In afwachting</translation>
+    </message>
+    <message>
+        <source>Archived</source>
+        <translation>Gearchiveerd</translation>
+    </message>
+    <message>
+        <source>Rejected</source>
+        <translation>Afgewezen</translation>
+    </message>
+    <message>
+        <source>Untouched draft</source>
+        <translation>Onaangeroerd concept</translation>
+    </message>
+    <message>
+        <source>This object does not have any versions.</source>
+        <translation>Dit object heeft geen versies.</translation>
+    </message>
+    <message>
+        <source>Show differences</source>
+        <translation>Verschillen tonen</translation>
+    </message>
+    <message>
+        <source>Differences between versions %oldVersion and %newVersion</source>
+        <translation>Verschillen tussen versie %oldVersion en %newVersion</translation>
+    </message>
+    <message>
+        <source>Old version</source>
+        <translation>Oude versie</translation>
+    </message>
+    <message>
+        <source>Inline changes</source>
+        <translation>Wijzigingen inline</translation>
+    </message>
+    <message>
+        <source>Block changes</source>
+        <translation>Wijzigingen per blok</translation>
+    </message>
+    <message>
+        <source>New version</source>
+        <translation>Nieuwe versie</translation>
+    </message>
+</context>
+<context>
+    <name>design/ezwebin/content/edit_attribute</name>
+    <message>
+        <source>Not translatable</source>
+        <translation type="obsolete">Niet te vertalen</translation>
+    </message>
+    <message>
+        <source>Required</source>
+        <translation type="obsolete">Vereist</translation>
+    </message>
+    <message>
+        <source>Information collector</source>
+        <translation type="obsolete">Informatieverzamelaar</translation>
     </message>
 </context>
 </TS>
