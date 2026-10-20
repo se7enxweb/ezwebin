@@ -64,6 +64,9 @@
         <h2>{'Your password was not changed'|i18n( 'design/ezwebin/user/password' )}</h2>
         <ul>{foreach $error_summary as $pw_error}<li>{$pw_error.text|wash}</li>{/foreach}</ul>
     </div>
+{elseif first_set( $demo_mode_locked, false() )}
+    {* demo mode (EXP_DEMO_MODE=1): an administrator's password cannot be changed; the text comes from the kernel *}
+    <div class="exp-pw-notice exp-pw-summary" role="status"><p>{$demo_mode_text|wash}</p></div>
 {/if}
     <p class="exp-pw-who">{'Signed in as %1.'|i18n( 'design/ezwebin/user/password', '', array( $userAccount.login|wash ) )}</p>
 
