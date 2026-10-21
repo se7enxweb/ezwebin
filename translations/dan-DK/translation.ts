@@ -55,14 +55,14 @@
     </message>
     <message>
         <source>Import in:</source>
-        <translation>Importer på:</translation>
+        <translation>Importer i:</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/article/article_index</name>
     <message>
         <source>Article index</source>
-        <translation>Artikel index</translation>
+        <translation>Artikelindeks</translation>
     </message>
 </context>
 <context>
@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>%login_link_startLog in%login_link_end or %create_link_startcreate a user account%create_link_end to comment.</source>
-        <translation>%login_link_startLog in%login_link_end eller %create_link_startcreate en bruger konto%create_link_end for at kommenterer.</translation>
+        <translation>%login_link_startLog ind%login_link_end, eller %create_link_startopret en brugerkonto%create_link_end for at kommentere.</translation>
     </message>
     <message>
         <source>%login_link_startLog in%login_link_end to comment.</source>
@@ -88,7 +88,7 @@
     <name>design/ezwebin/blog/calendar</name>
     <message>
         <source>Previous month</source>
-        <translation>Sidste måned</translation>
+        <translation>Forrige måned</translation>
     </message>
     <message>
         <source>Next month</source>
@@ -131,11 +131,11 @@
     <name>design/ezwebin/blog/extra_info</name>
     <message>
         <source>Tags</source>
-        <translation>Mærker</translation>
+        <translation>Tags</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>Arkivere</translation>
+        <translation>Arkiv</translation>
     </message>
 </context>
 <context>
@@ -150,11 +150,11 @@
     </message>
     <message>
         <source>You have already submitted this form. The data you entered was:</source>
-        <translation>Du har allerde indsent denne formular. De indtastede data var:</translation>
+        <translation>Du har allerede indsendt denne formular. De data, du indtastede, var:</translation>
     </message>
     <message>
         <source>Return to site</source>
-        <translation>Tilbage til hjemmeside</translation>
+        <translation>Tilbage til sitet</translation>
     </message>
 </context>
 <context>
@@ -169,11 +169,11 @@
     </message>
     <message>
         <source>Please log in to vote on this poll.</source>
-        <translation>Log ind for at stemme for denne afstemning.</translation>
+        <translation>Log ind for at stemme i denne afstemning.</translation>
     </message>
     <message>
         <source>You have already voted for this poll.</source>
-        <translation>Du har allerede stemt til denne afstemning.</translation>
+        <translation>Du har allerede stemt i denne afstemning.</translation>
     </message>
     <message>
         <source>Votes</source>
@@ -181,7 +181,7 @@
     </message>
     <message>
         <source>%count total votes</source>
-        <translation>%count totale stemmer</translation>
+        <translation>%count stemmer i alt</translation>
     </message>
     <message>
         <source>Back to poll</source>
@@ -196,25 +196,25 @@
     </message>
     <message>
         <source>The following feedback was collected</source>
-        <translation>De følgende feedback var samlet</translation>
+        <translation>Følgende feedback blev indsamlet</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/collectedinfomail/form</name>
     <message>
         <source>Collected information from %1</source>
-        <translation>Indsamler informationer fra %1</translation>
+        <translation>Indsamlede oplysninger fra %1</translation>
     </message>
     <message>
         <source>The following information was collected</source>
-        <translation>De følgede informationer var indsamlet</translation>
+        <translation>Følgende oplysninger blev indsamlet</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/content/advancedsearch</name>
     <message>
         <source>Advanced search</source>
-        <translation>Avancerede søgning</translation>
+        <translation>Avanceret søgning</translation>
     </message>
     <message>
         <source>Search all the words</source>
@@ -222,7 +222,7 @@
     </message>
     <message>
         <source>Search the exact phrase</source>
-        <translation>Søg efter eksakt frase</translation>
+        <translation>Søg efter den nøjagtige frase</translation>
     </message>
     <message>
         <source>Published</source>
@@ -254,35 +254,35 @@
     </message>
     <message>
         <source>5 items</source>
-        <translation>5 artikler</translation>
+        <translation>5 elementer</translation>
     </message>
     <message>
         <source>10 items</source>
-        <translation>10 artikler</translation>
+        <translation>10 elementer</translation>
     </message>
     <message>
         <source>20 items</source>
-        <translation>20 artikler</translation>
+        <translation>20 elementer</translation>
     </message>
     <message>
         <source>30 items</source>
-        <translation>30 artikler</translation>
+        <translation>30 elementer</translation>
     </message>
     <message>
         <source>50 items</source>
-        <translation>50 artikler</translation>
+        <translation>50 elementer</translation>
     </message>
     <message>
         <source>Search</source>
         <translation>Søg</translation>
     </message>
     <message>
-        <source>No results were found when searching for &quot;%1&quot;</source>
-        <translation>Ingen resultater blev fundet ved søg etter &quot;%1&quot;</translation>
+        <source>No results were found when searching for "%1"</source>
+        <translation>Der blev ikke fundet nogen resultater ved søgning efter "%1"</translation>
     </message>
     <message>
-        <source>Search for &quot;%1&quot; returned %2 matches</source>
-        <translation>Søg efter &quot;%1&quot; gav %2 resultater</translation>
+        <source>Search for "%1" returned %2 matches</source>
+        <translation>Søgningen efter "%1" gav %2 resultater</translation>
     </message>
     <message>
         <source>Last month</source>
@@ -296,12 +296,12 @@
         <translation>Gennemse</translation>
     </message>
     <message>
-        <source>To select objects, choose the appropriate radiobutton or checkbox(es), and click the &quot;Select&quot; button.</source>
-        <translation>For at vælge et objekt, klik på den rette radioknappen eller afkrydsningsboksen, og klik &quot;Vælg&quot; knappen.</translation>
+        <source>To select objects, choose the appropriate radiobutton or checkbox(es), and click the "Select" button.</source>
+        <translation>Hvis du vil vælge objekter, så vælg den relevante alternativknap eller det eller de relevante afkrydsningsfelter, og klik på knappen "Vælg".</translation>
     </message>
     <message>
         <source>To select an object that is a child of one of the displayed objects, click the parent object name to display a list of its children.</source>
-        <translation>For at vælge et objekt, der er et underobjekt af en af de synlige objekter, klik på hovedobjektes navn for at vise listen med dets underobjekter.</translation>
+        <translation>Hvis du vil vælge et objekt, der er underobjekt af et af de viste objekter, så klik på det overordnede objekts navn for at få vist en liste over dets underobjekter.</translation>
     </message>
     <message>
         <source>Back</source>
@@ -309,7 +309,7 @@
     </message>
     <message>
         <source>Top level</source>
-        <translation>Topniveau</translation>
+        <translation>Øverste niveau</translation>
     </message>
     <message>
         <source>Select</source>
@@ -317,14 +317,14 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Afbrud</translation>
+        <translation>Annuller</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/content/browse_mode_list</name>
     <message>
         <source>Invert selection</source>
-        <translation>Onvendt valg</translation>
+        <translation>Vend markeringen om</translation>
     </message>
     <message>
         <source>Name</source>
@@ -366,11 +366,11 @@
     <name>design/ezwebin/content/draft</name>
     <message>
         <source>Select all</source>
-        <translation>Vælg alt</translation>
+        <translation>Vælg alle</translation>
     </message>
     <message>
         <source>Deselect all</source>
-        <translation>Vælg ingen</translation>
+        <translation>Fravælg alle</translation>
     </message>
     <message>
         <source>My drafts</source>
@@ -378,7 +378,7 @@
     </message>
     <message>
         <source>Empty draft</source>
-        <translation>Tom udkast</translation>
+        <translation>Tomt udkast</translation>
     </message>
     <message>
         <source>Name</source>
@@ -418,15 +418,15 @@
     </message>
     <message>
         <source>These are the current objects you are working on. The drafts are owned by you and can only be seen by you.
-      You can either edit the drafts or remove them if you don&apos;t need them any more.</source>
-        <translation>Dette er de objekter, du arbejder på nu. Udkastene ejes af dig og kan kun ses af dig.
-      Du kan enten redigere udkastene eller fjerne dem, hvis du ikke har brug for dem længere.</translation>
+      You can either edit the drafts or remove them if you don't need them any more.</source>
+        <translation>Dette er de aktuelle objekter, du arbejder på. Udkastene ejes af dig og kan kun ses af dig.
+      Du kan enten redigere udkastene eller fjerne dem, hvis du ikke længere har brug for dem.</translation>
     </message>
     <message>
         <source>These are the current objects you are working on. The drafts are owned by you and can only be seen by you.
- You can either edit the drafts or remove them if you don&apos;t need them any more.</source>
-        <translation>Dette er de objekter, du arbejder på nu. Udkastene ejes af dig og kan kun ses af dig.
- Du kan enten redigere udkastene eller fjerne dem, hvis du ikke har brug for dem længere.</translation>
+ You can either edit the drafts or remove them if you don't need them any more.</source>
+        <translation>Dette er de aktuelle objekter, du arbejder på. Udkastene ejes af dig og kan kun ses af dig.
+ Du kan enten redigere udkastene eller fjerne dem, hvis du ikke længere har brug for dem.</translation>
     </message>
 </context>
 <context>
@@ -441,7 +441,7 @@
     </message>
     <message>
         <source>Discard draft</source>
-        <translation>Kasseret udkast</translation>
+        <translation>Kasser udkast</translation>
     </message>
     <message>
         <source>Translating content from %from_lang to %to_lang</source>
@@ -449,7 +449,7 @@
     </message>
     <message>
         <source>Content in %language</source>
-        <translation>Indhold i %language</translation>
+        <translation>Indhold på %language</translation>
     </message>
     <message>
         <source>Edit &lt;%object_name&gt; (%class_name)</source>
@@ -480,19 +480,19 @@
     <name>design/ezwebin/content/edit_draft</name>
     <message>
         <source>The currently published version is %version and was published at %time.</source>
-        <translation>Den nuværende publicerede version er %version og blev publiceret %time.</translation>
+        <translation>Den aktuelt publicerede version er %version og blev publiceret %time.</translation>
     </message>
     <message>
         <source>The last modification was done at %modified.</source>
-        <translation>Sidste ændring blev gjort %modified.</translation>
+        <translation>Den seneste ændring blev foretaget %modified.</translation>
     </message>
     <message>
         <source>The object is owned by %owner.</source>
-        <translation>Dette objektet ejes af %owner.</translation>
+        <translation>Objektet ejes af %owner.</translation>
     </message>
     <message>
         <source>Current drafts</source>
-        <translation>Eksisterende udkast</translation>
+        <translation>Aktuelle udkast</translation>
     </message>
     <message>
         <source>Version</source>
@@ -512,11 +512,11 @@
     </message>
     <message>
         <source>Last modified</source>
-        <translation>Sidst endret</translation>
+        <translation>Sidst ændret</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Redigér</translation>
+        <translation>Rediger</translation>
     </message>
     <message>
         <source>New draft</source>
@@ -526,7 +526,7 @@
         <source>This object is already being edited by yourself and others.
     You can either continue editing one of your drafts or you can create a new draft.</source>
         <translation>Dette objekt redigeres allerede af dig selv og andre.
-    Du kan enten fortsætte med at redigere et af dine udkast eller oprette et nyt udkast.</translation>
+    Du kan enten fortsætte redigeringen af et af dine udkast eller oprette et nyt udkast.</translation>
     </message>
     <message>
         <source>This object is already being edited by you.
@@ -549,7 +549,7 @@
     </message>
     <message>
         <source>Select the language you want to use when editing the object.</source>
-        <translation>Vælg det sprog du vil bruge når du redigerer dette objekt.</translation>
+        <translation>Vælg det sprog, du vil bruge, når du redigerer objektet.</translation>
     </message>
     <message>
         <source>New languages</source>
@@ -557,11 +557,11 @@
     </message>
     <message>
         <source>Select the language you want to add to the object.</source>
-        <translation>Vælg de sprog du vil vil tilføje til dette objekt.</translation>
+        <translation>Vælg det sprog, du vil føje til objektet.</translation>
     </message>
     <message>
         <source>Select the language the new translation will be based on.</source>
-        <translation>vælg det sprog den nye oversættelse skal være baseret på.</translation>
+        <translation>Vælg det sprog, den nye oversættelse skal baseres på.</translation>
     </message>
     <message>
         <source>Use an empty, untranslated draft</source>
@@ -569,23 +569,23 @@
     </message>
     <message>
         <source>You do not have permission to create a translation in another language.</source>
-        <translation>Du har ikke rettigheder til at oprettet en oversættelse i et andet sprog.</translation>
+        <translation>Du har ikke tilladelse til at oprette en oversættelse på et andet sprog.</translation>
     </message>
     <message>
         <source>However, you can select one of the following languages for editing.</source>
-        <translation>Derimod kan du vælge en af de følgende sprog til redigering.</translation>
+        <translation>Du kan dog vælge et af følgende sprog til redigering.</translation>
     </message>
     <message>
         <source>You do not have permission to edit the object in any available languages.</source>
-        <translation>Du har ikke tilladelse til at redigere objektet i nogen tilgængelig sprog.</translation>
+        <translation>Du har ikke tilladelse til at redigere objektet på nogen af de tilgængelige sprog.</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Redigér</translation>
+        <translation>Rediger</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Afbrud</translation>
+        <translation>Annuller</translation>
     </message>
 </context>
 <context>
@@ -596,39 +596,39 @@
     </message>
     <message>
         <source>Version %1 is not available for editing anymore. Only drafts can be edited.</source>
-        <translation>Version %1 er ikke tilgængelig længere. Det er kun udkast der kan redigeres.</translation>
+        <translation>Version %1 kan ikke længere redigeres. Kun udkast kan redigeres.</translation>
     </message>
     <message>
         <source>To edit this version, first create a copy of it.</source>
-        <translation>For at redigerer denne version, må du først lave en kopi.</translation>
+        <translation>Hvis du vil redigere denne version, skal du først oprette en kopi af den.</translation>
     </message>
     <message>
         <source>Version not yours</source>
-        <translation>Ikke din version</translation>
+        <translation>Versionen er ikke din</translation>
     </message>
     <message>
         <source>Version %1 was not created by you. Only your own drafts can be edited.</source>
-        <translation>Version %1 var ikke oprettet af dig. Du kan kun redigerer egne udkast.</translation>
+        <translation>Version %1 blev ikke oprettet af dig. Kun dine egne udkast kan redigeres.</translation>
     </message>
     <message>
         <source>Unable to create new version</source>
-        <translation>Kan ikke oprette ny version</translation>
+        <translation>Der kan ikke oprettes en ny version</translation>
     </message>
     <message>
         <source>Version history limit has been exceeded and no archived version can be removed by the system.</source>
-        <translation>Grænsen for versionshistorik er nået og ingen arkiveret version kan fjernes af systemet.</translation>
+        <translation>Grænsen for versionshistorikken er overskredet, og systemet kan ikke fjerne nogen arkiveret version.</translation>
     </message>
     <message>
         <source>You can either change your version history settings in content.ini, remove draft versions or edit existing drafts.</source>
-        <translation>Du kan ændre opsætningen af din versionhistorie i contetn.ini.</translation>
+        <translation>Du kan enten ændre indstillingerne for versionshistorik i content.ini, fjerne udkastversioner eller redigere eksisterende udkast.</translation>
     </message>
     <message>
         <source>Versions for &lt;%object_name&gt; [%version_count]</source>
-        <translation>Versioner af %object_name [%version_count]</translation>
+        <translation>Versioner af &lt;%object_name&gt; [%version_count]</translation>
     </message>
     <message>
         <source>Toggle selection</source>
-        <translation>Skift valg</translation>
+        <translation>Skift markering</translation>
     </message>
     <message>
         <source>Version</source>
@@ -640,7 +640,7 @@
     </message>
     <message>
         <source>Creator</source>
-        <translation>Oprettet af</translation>
+        <translation>Opretter</translation>
     </message>
     <message>
         <source>Created</source>
@@ -652,19 +652,19 @@
     </message>
     <message>
         <source>Select version #%version_number for removal.</source>
-        <translation>Vælg version #%version_number for fjernelse.</translation>
+        <translation>Vælg version #%version_number, der skal fjernes.</translation>
     </message>
     <message>
         <source>Version #%version_number cannot be removed because it is either the published version of the object or because you do not have permission to remove it.</source>
-        <translation>Version #%version_number kan ikke fjernes det entent er den publiserede version af objektet eller fordi du ikke har rettigheder til at fjerne det.</translation>
+        <translation>Version #%version_number kan ikke fjernes, enten fordi det er objektets publicerede version, eller fordi du ikke har tilladelse til at fjerne den.</translation>
     </message>
     <message>
         <source>View the contents of version #%version_number. Translation: %translation.</source>
-        <translation>Se indholdet af version #%version_number. Oversættelse: %translation.</translation>
+        <translation>Vis indholdet af version #%version_number. Oversættelse: %translation.</translation>
     </message>
     <message>
         <source>Draft</source>
-        <translation>udkast</translation>
+        <translation>Udkast</translation>
     </message>
     <message>
         <source>Published</source>
@@ -672,7 +672,7 @@
     </message>
     <message>
         <source>Pending</source>
-        <translation>Venter</translation>
+        <translation>Afventer</translation>
     </message>
     <message>
         <source>Archived</source>
@@ -680,7 +680,7 @@
     </message>
     <message>
         <source>Rejected</source>
-        <translation>Forkastet</translation>
+        <translation>Afvist</translation>
     </message>
     <message>
         <source>Untouched draft</source>
@@ -688,7 +688,7 @@
     </message>
     <message>
         <source>There is no need to do a copies of untouched drafts.</source>
-        <translation>Der er ikke behov for at oprette en kopi af et urørt udkast.</translation>
+        <translation>Det er ikke nødvendigt at lave kopier af urørte udkast.</translation>
     </message>
     <message>
         <source>Create a copy of version #%version_number.</source>
@@ -696,19 +696,19 @@
     </message>
     <message>
         <source>You cannot make copies of versions because you do not have permission to edit the object.</source>
-        <translation>Du kan ikke oprette kopier af versioner fordi du ikke har rettigheder til et redigerer dette objekt.</translation>
+        <translation>Du kan ikke lave kopier af versioner, fordi du ikke har tilladelse til at redigere objektet.</translation>
     </message>
     <message>
         <source>Edit the contents of version #%version_number.</source>
-        <translation>Redigér indholdet af version #%version_number.</translation>
+        <translation>Rediger indholdet af version #%version_number.</translation>
     </message>
     <message>
         <source>You cannot edit the contents of version #%version_number either because it is not a draft or because you do not have permission to edit the object.</source>
-        <translation>du kan ikke redigerer indholdet af version #%version_number, enten fordi det ikke er et udkast eller fordi du ikke har rettigheder til at redigerer dette objekt.</translation>
+        <translation>Du kan ikke redigere indholdet af version #%version_number, enten fordi den ikke er et udkast, eller fordi du ikke har tilladelse til at redigere objektet.</translation>
     </message>
     <message>
         <source>This object does not have any versions.</source>
-        <translation>Dette objektet har ingen versioner.</translation>
+        <translation>Dette objekt har ingen versioner.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -716,11 +716,11 @@
     </message>
     <message>
         <source>Remove the selected versions from the object.</source>
-        <translation>Fjern de valgte versionerne fra objektet.</translation>
+        <translation>Fjern de valgte versioner fra objektet.</translation>
     </message>
     <message>
         <source>Show differences</source>
-        <translation>Vis forskel</translation>
+        <translation>Vis forskelle</translation>
     </message>
     <message>
         <source>Back</source>
@@ -740,11 +740,11 @@
     </message>
     <message>
         <source>This object does not have any drafts.</source>
-        <translation>Dette objektet har ingen udkast.</translation>
+        <translation>Dette objekt har ingen udkast.</translation>
     </message>
     <message>
         <source>Differences between versions %oldVersion and %newVersion</source>
-        <translation>Forskel mellem version %oldVersion og %newVersion</translation>
+        <translation>Forskelle mellem versionerne %oldVersion og %newVersion</translation>
     </message>
     <message>
         <source>Old version</source>
@@ -752,11 +752,11 @@
     </message>
     <message>
         <source>Inline changes</source>
-        <translation>Linje ændringer</translation>
+        <translation>Ændringer i teksten</translation>
     </message>
     <message>
         <source>Block changes</source>
-        <translation>Afsnit ændringer</translation>
+        <translation>Ændringer i blokke</translation>
     </message>
     <message>
         <source>New version</source>
@@ -764,7 +764,7 @@
     </message>
     <message>
         <source>Back to history</source>
-        <translation>Tilbage til historik</translation>
+        <translation>Tilbage til historikken</translation>
     </message>
     <message>
         <source>Modified translation</source>
@@ -775,7 +775,7 @@
     <name>design/ezwebin/content/keyword</name>
     <message>
         <source>Keyword: %keyword</source>
-        <translation>nøgleord: %keyword</translation>
+        <translation>Nøgleord: %keyword</translation>
     </message>
     <message>
         <source>Link</source>
@@ -790,7 +790,7 @@
     <name>design/ezwebin/content/pendinglist</name>
     <message>
         <source>My pending items [%pending_count]</source>
-        <translation>Mine nuværende punkter [%pending_count]</translation>
+        <translation>Mine ventende elementer [%pending_count]</translation>
     </message>
     <message>
         <source>Name</source>
@@ -818,7 +818,7 @@
     </message>
     <message>
         <source>Your pending list is empty</source>
-        <translation>Din nuværende liste er tom</translation>
+        <translation>Din liste over ventende er tom</translation>
     </message>
 </context>
 <context>
@@ -830,15 +830,15 @@
     <message>
         <source>For more options try the %1Advanced search%2</source>
         <comment>The parameters are link start and end tags.</comment>
-        <translation>For flere muligheder prøv %1Avanceret søgning%2</translation>
+        <translation>Prøv %1Avanceret søgning%2 for flere muligheder</translation>
     </message>
     <message>
         <source>The following words were excluded from the search:</source>
-        <translation>Følgede ord er udladt fra søgningen:</translation>
+        <translation>Følgende ord blev udeladt fra søgningen:</translation>
     </message>
     <message>
-        <source>No results were found when searching for &quot;%1&quot;.</source>
-        <translation>Ingen resultat var fundet under søgninge efter &quot;%1&quot;.</translation>
+        <source>No results were found when searching for "%1".</source>
+        <translation>Der blev ikke fundet nogen resultater ved søgning efter "%1".</translation>
     </message>
     <message>
         <source>Search tips</source>
@@ -846,23 +846,23 @@
     </message>
     <message>
         <source>Check spelling of keywords.</source>
-        <translation>Tjek stavningen af ordene.</translation>
+        <translation>Kontrollér stavningen af søgeordene.</translation>
     </message>
     <message>
-        <source>Try changing some keywords (eg, &quot;car&quot; instead of &quot;cars&quot;).</source>
-        <translation>Prøv at skifte søgeorderne (f.eks. &quot;bil&quot; i stedet for &quot;biler&quot;).</translation>
+        <source>Try changing some keywords (eg, "car" instead of "cars").</source>
+        <translation>Prøv at ændre nogle søgeord (f.eks. "bil" i stedet for "biler").</translation>
     </message>
     <message>
         <source>Try searching with less specific keywords.</source>
-        <translation>Prøv at søg med mindre specifike søgeord.</translation>
+        <translation>Prøv at søge med mindre specifikke søgeord.</translation>
     </message>
     <message>
         <source>Reduce number of keywords to get more results.</source>
         <translation>Reducer antallet af søgeord for at få flere resultater.</translation>
     </message>
     <message>
-        <source>Search for &quot;%1&quot; returned %2 matches</source>
-        <translation>Søg efter &quot;%1&quot; gav %2 resultater</translation>
+        <source>Search for "%1" returned %2 matches</source>
+        <translation>Søgningen efter "%1" gav %2 resultater</translation>
     </message>
 </context>
 <context>
@@ -873,23 +873,23 @@
     </message>
     <message>
         <source>The message was sent.</source>
-        <translation>Beskeden var sendt.</translation>
+        <translation>Beskeden blev sendt.</translation>
     </message>
     <message>
         <source>Click here to return to the original page.</source>
-        <translation>Klik here for at returnerer til den oprindelige side.</translation>
+        <translation>Klik her for at vende tilbage til den oprindelige side.</translation>
     </message>
     <message>
         <source>The message was not sent.</source>
-        <translation>Beskeden var ikke sendt.</translation>
+        <translation>Beskeden blev ikke sendt.</translation>
     </message>
     <message>
         <source>The message was not sent due to an unknown error. Please notify the site administrator about this error.</source>
-        <translation>Beskeden var ikke sendt på grund af en ukend fejl. Giv administratoren besked omkring denne fejl.</translation>
+        <translation>Beskeden blev ikke sendt på grund af en ukendt fejl. Giv sitets administrator besked om denne fejl.</translation>
     </message>
     <message>
         <source>Please correct the following errors:</source>
-        <translation>Ret venligst følgende fejl:</translation>
+        <translation>Ret følgende fejl:</translation>
     </message>
     <message>
         <source>Your name</source>
@@ -897,11 +897,11 @@
     </message>
     <message>
         <source>Your email address</source>
-        <translation>Din email adresse</translation>
+        <translation>Din e-mailadresse</translation>
     </message>
     <message>
-        <source>Recipient&apos;s email address</source>
-        <translation>Modtagerens email adresse</translation>
+        <source>Recipient's email address</source>
+        <translation>Modtagerens e-mailadresse</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -913,14 +913,14 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Afbryd</translation>
+        <translation>Annuller</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/edit/comment</name>
     <message>
         <source>Edit %1 - %2</source>
-        <translation>Redigér %1 - %2</translation>
+        <translation>Rediger %1 - %2</translation>
     </message>
     <message>
         <source>Send for publishing</source>
@@ -928,14 +928,14 @@
     </message>
     <message>
         <source>Discard</source>
-        <translation>Forkast</translation>
+        <translation>Kasser</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/edit/file</name>
     <message>
         <source>Edit %1 - %2</source>
-        <translation>Redigér %1 - %2</translation>
+        <translation>Rediger %1 - %2</translation>
     </message>
     <message>
         <source>Send for publishing</source>
@@ -943,14 +943,14 @@
     </message>
     <message>
         <source>Discard</source>
-        <translation>Forkast</translation>
+        <translation>Kasser</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/edit/forum_reply</name>
     <message>
         <source>Edit %1 - %2</source>
-        <translation>Redigér %1 - %2</translation>
+        <translation>Rediger %1 - %2</translation>
     </message>
     <message>
         <source>Send for publishing</source>
@@ -958,14 +958,14 @@
     </message>
     <message>
         <source>Discard</source>
-        <translation>Forkast</translation>
+        <translation>Kasser</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/edit/forum_topic</name>
     <message>
         <source>Edit %1 - %2</source>
-        <translation>Redigér %1 - %2</translation>
+        <translation>Rediger %1 - %2</translation>
     </message>
     <message>
         <source>Send for publishing</source>
@@ -973,14 +973,14 @@
     </message>
     <message>
         <source>Discard</source>
-        <translation>Forkast</translation>
+        <translation>Kasser</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/embed/forum</name>
     <message>
         <source>Latest from</source>
-        <translation>Sidste fra</translation>
+        <translation>Seneste fra</translation>
     </message>
 </context>
 <context>
@@ -1010,11 +1010,11 @@
     </message>
     <message>
         <source>Copyright Notice</source>
-        <translation>Copyright meddelelse</translation>
+        <translation>Ophavsretsmeddelelse</translation>
     </message>
     <message>
         <source>Third-Party Software</source>
-        <translation>Tredjepart software</translation>
+        <translation>Tredjepartssoftware</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -1025,7 +1025,7 @@
     <name>design/ezwebin/ezodf/browse_place</name>
     <message>
         <source>Choose document placement</source>
-        <translation>Vælg dokumentområde</translation>
+        <translation>Vælg dokumentets placering</translation>
     </message>
     <message>
         <source>Select</source>
@@ -1040,15 +1040,15 @@
         <translation>Vælg placeringen for OpenOffice.org-objektet.
 
     Vælg placeringerne, og klik på knappen %buttonname.
-    Du kan også bruge de seneste elementer og bogmærker til hurtig placering.
-    Klik på navnene på placeringerne for at skifte visningen.</translation>
+    Du kan også bruge seneste elementer og bogmærker til hurtig placering.
+    Klik på placeringsnavne for at ændre gennemsynslisten.</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/ezodf/export</name>
     <message>
         <source>OpenOffice.org export</source>
-        <translation>OpenOffice.org eksport</translation>
+        <translation>OpenOffice.org-eksport</translation>
     </message>
     <message>
         <source>Export Exponential content to OpenOffice.org</source>
@@ -1060,18 +1060,18 @@
     </message>
     <message>
         <source>Here you can export any Exponential content object to an OpenOffice.org Writer document format.</source>
-        <translation>Her kan du eksportere ethvert Exponential indholdsobjekt til en OpenOffice.org Skrivedokumentformat.</translation>
+        <translation>Her kan du eksportere ethvert Exponential-indholdsobjekt til OpenOffice.org Writer-dokumentformat.</translation>
     </message>
     <message>
         <source>Export Object</source>
-        <translation>Eksportobjekt</translation>
+        <translation>Eksporter objekt</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/ezodf/import</name>
     <message>
         <source>Document is now imported</source>
-        <translation>Dokument er nu importeret</translation>
+        <translation>Dokumentet er nu importeret</translation>
     </message>
     <message>
         <source>OpenOffice.org import</source>
@@ -1083,7 +1083,7 @@
     </message>
     <message>
         <source>The images are placed in the media and can be re-used.</source>
-        <translation>Billederne er placeret i medier og kan genbruges.</translation>
+        <translation>Billederne placeres i mediebiblioteket og kan genbruges.</translation>
     </message>
     <message>
         <source>Import another document</source>
@@ -1095,7 +1095,7 @@
     </message>
     <message>
         <source>Import OpenOffice.org document</source>
-        <translation>Import OpenOffice.org-dokument</translation>
+        <translation>Importer OpenOffice.org-dokument</translation>
     </message>
     <message>
         <source>Replace document</source>
@@ -1110,9 +1110,9 @@
 asked where to place the document and Exponential does the rest. The document is converted into
 the appropriate class during the import, you get a notice about this after the import is done.
 Images are placed in the media library so you can re-use them in other articles.</source>
-        <translation>Fra denne side kan du importere OpenOffice.org Writer-dokumenter direkte i Exponential. Du bliver
-spurgt, hvor dokumentet skal placeres, og Exponential klarer resten. Dokumentet konverteres til
-den passende klasse under importen, og du får besked om det, når importen er færdig.
+        <translation>Fra denne side kan du importere OpenOffice.org Writer-dokumenter direkte i Exponential. Du
+bliver spurgt, hvor dokumentet skal placeres, og Exponential klarer resten. Dokumentet konverteres til
+den relevante klasse under importen; du får besked om det, når importen er færdig.
 Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.</translation>
     </message>
     <message>
@@ -1121,7 +1121,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Document imported as</source>
-        <translation>Dokumentet er importeret som</translation>
+        <translation>Dokument importeret som</translation>
     </message>
 </context>
 <context>
@@ -1136,7 +1136,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>%login_link_startLog in%login_link_end or %create_link_startcreate a user account%create_link_end to comment.</source>
-        <translation>%login_link_startLog i%login_link_end eller %create_link_startcreate en bruger konto%create_link_end for at kommenterer.</translation>
+        <translation>%login_link_startLog ind%login_link_end, eller %create_link_startopret en brugerkonto%create_link_end for at kommentere.</translation>
     </message>
     <message>
         <source>Tip a friend</source>
@@ -1165,7 +1165,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     <name>design/ezwebin/full/blog_post</name>
     <message>
         <source>Tags:</source>
-        <translation>Tags:</translation>
+        <translation>Emneord:</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -1173,14 +1173,14 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>%login_link_startLog in%login_link_end or %create_link_startcreate a user account%create_link_end to comment.</source>
-        <translation>%login_link_startLog i%login_link_end eller %create_link_startcreate en bruger konto%create_link_end for at kommenterer.</translation>
+        <translation>%login_link_startLog ind%login_link_end, eller %create_link_startopret en brugerkonto%create_link_end for at kommentere.</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/full/documentation_page</name>
     <message>
         <source>Table of contents</source>
-        <translation>Indholdstabel</translation>
+        <translation>Indholdsfortegnelse</translation>
     </message>
     <message>
         <source>Created:</source>
@@ -1238,11 +1238,11 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Show All Events..</source>
-        <translation>Vis alle begivenheder..</translation>
+        <translation>Vis alle arrangementer..</translation>
     </message>
     <message>
         <source>Event Calendar</source>
-        <translation>Begivenhedskalender</translation>
+        <translation>Arrangementskalender</translation>
     </message>
     <message>
         <source>Previous month</source>
@@ -1254,22 +1254,22 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Preview of event</source>
-        <translation>Forhåndsvisning af begivenhed</translation>
+        <translation>Forhåndsvisning af arrangement</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>
     <message>
         <source>Past events</source>
-        <translation>Tidligere hændelser</translation>
+        <translation>Tidligere arrangementer</translation>
     </message>
     <message>
         <source>Future events</source>
-        <translation>Kommende hændelse</translation>
+        <translation>Kommende arrangementer</translation>
     </message>
     <message>
         <source>Preview of event</source>
-        <translation>Forhåndsvisning af begivenhed</translation>
+        <translation>Forhåndsvisning af arrangement</translation>
     </message>
 </context>
 <context>
@@ -1291,7 +1291,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>You need to be logged in to get access to the forums. You can do so %login_link_start%here%login_link_end%</source>
-        <translation>Du skal være logget ind for at få adgang til forumet. Du kan gøre det %login_link_start%her%login_link_end%</translation>
+        <translation>Du skal være logget ind for at få adgang til foraene. Det kan du gøre %login_link_start%her%login_link_end%</translation>
     </message>
     <message>
         <source>Topic</source>
@@ -1307,7 +1307,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Last reply</source>
-        <translation>Sidste svar</translation>
+        <translation>Seneste svar</translation>
     </message>
     <message>
         <source>Pages</source>
@@ -1322,7 +1322,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     <name>design/ezwebin/full/forum_reply</name>
     <message>
         <source>Message preview</source>
-        <translation>Vis beskeden</translation>
+        <translation>Forhåndsvisning af besked</translation>
     </message>
     <message>
         <source>Author</source>
@@ -1334,7 +1334,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Location</source>
-        <translation>Sted</translation>
+        <translation>Placering</translation>
     </message>
     <message>
         <source>Moderated by</source>
@@ -1342,7 +1342,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Edit</source>
-        <translation>Redigér</translation>
+        <translation>Rediger</translation>
     </message>
 </context>
 <context>
@@ -1365,7 +1365,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>You need to be logged in to get access to the forums. You can do so %login_link_start%here%login_link_end%</source>
-        <translation>Du må være logget ind for at få adgang til forum. Du kan gøre det %login_link_start%her%login_link_end%</translation>
+        <translation>Du skal være logget ind for at få adgang til foraene. Det kan du gøre %login_link_start%her%login_link_end%</translation>
     </message>
     <message>
         <source>Author</source>
@@ -1377,7 +1377,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Location</source>
-        <translation>Sted</translation>
+        <translation>Placering</translation>
     </message>
     <message>
         <source>Moderated by</source>
@@ -1385,7 +1385,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Edit</source>
-        <translation>Redigér</translation>
+        <translation>Rediger</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -1393,7 +1393,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Remove this item.</source>
-        <translation>Fjern denne.</translation>
+        <translation>Fjern dette element.</translation>
     </message>
 </context>
 <context>
@@ -1408,7 +1408,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Last reply</source>
-        <translation>Sidste svar</translation>
+        <translation>Seneste svar</translation>
     </message>
     <message>
         <source>Forum</source>
@@ -1419,7 +1419,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     <name>design/ezwebin/full/gallery</name>
     <message>
         <source>View as slideshow</source>
-        <translation>Se som diasshow</translation>
+        <translation>Vis som diasshow</translation>
     </message>
 </context>
 <context>
@@ -1430,7 +1430,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Next image</source>
-        <translation>Neste billede</translation>
+        <translation>Næste billede</translation>
     </message>
     <message>
         <source>Related content</source>
@@ -1441,11 +1441,11 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     <name>design/ezwebin/full/multicalendar</name>
     <message>
         <source>Event</source>
-        <translation>Begivenhed</translation>
+        <translation>Hændelse</translation>
     </message>
     <message>
         <source>Start date</source>
-        <translation>Start dato</translation>
+        <translation>Startdato</translation>
     </message>
     <message>
         <source>Category</source>
@@ -1471,7 +1471,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     <name>design/ezwebin/full/product</name>
     <message>
         <source>Add to basket</source>
-        <translation>Tilføj til indkøbskurv</translation>
+        <translation>Læg i indkøbskurv</translation>
     </message>
     <message>
         <source>Add to wish list</source>
@@ -1479,7 +1479,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>People who bought this also bought</source>
-        <translation>Dem som købte denne købte også</translation>
+        <translation>Folk, der købte dette, købte også</translation>
     </message>
 </context>
 <context>
@@ -1493,15 +1493,15 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     <name>design/ezwebin/line/blog_post</name>
     <message>
         <source>View comments</source>
-        <translation>Se kommentarer</translation>
+        <translation>Vis kommentarer</translation>
     </message>
     <message>
         <source>Add comment</source>
-        <translation>Tilføj kommentarer</translation>
+        <translation>Tilføj kommentar</translation>
     </message>
     <message>
         <source>Tags:</source>
-        <translation>Tags:</translation>
+        <translation>Emneord:</translation>
     </message>
 </context>
 <context>
@@ -1515,29 +1515,29 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     <name>design/ezwebin/line/event_calendar</name>
     <message>
         <source>Next events</source>
-        <translation>Næste events</translation>
+        <translation>Næste arrangementer</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/line/flash</name>
     <message>
         <source>View flash</source>
-        <translation>Se flash</translation>
+        <translation>Vis Flash</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/line/forum</name>
     <message>
         <source>Number of topics</source>
-        <translation>Nr. på emne</translation>
+        <translation>Antal emner</translation>
     </message>
     <message>
         <source>Number of posts</source>
-        <translation>Nr. af poster</translation>
+        <translation>Antal indlæg</translation>
     </message>
     <message>
         <source>Last reply</source>
-        <translation>Sidste svar</translation>
+        <translation>Seneste svar</translation>
     </message>
     <message>
         <source>Enter forum</source>
@@ -1588,28 +1588,28 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     <name>design/ezwebin/line/quicktime</name>
     <message>
         <source>View movie</source>
-        <translation>Se film</translation>
+        <translation>Vis film</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/line/real_video</name>
     <message>
         <source>View movie</source>
-        <translation>Se film</translation>
+        <translation>Vis film</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/line/silverlight</name>
     <message>
         <source>View</source>
-        <translation>Se</translation>
+        <translation>Vis</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/line/windows_media</name>
     <message>
         <source>View movie</source>
-        <translation>Se film</translation>
+        <translation>Vis film</translation>
     </message>
 </context>
 <context>
@@ -1620,22 +1620,22 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Search %sitetitle</source>
-        <translation>Søg %sitetitle</translation>
+        <translation>Søg på %sitetitle</translation>
     </message>
     <message>
         <source>Printable version</source>
-        <translation>Udskriftsversion</translation>
+        <translation>Udskriftsvenlig version</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/node/removeobject</name>
     <message>
         <source>Are you sure you want to remove these items?</source>
-        <translation>Er du sikker på at du vil fjerne disse?</translation>
+        <translation>Er du sikker på, at du vil fjerne disse elementer?</translation>
     </message>
     <message>
         <source>%nodename and its %childcount children. %additionalwarning</source>
-        <translation>%nodename og dets %childcount underobjekter. %additionalwarning</translation>
+        <translation>%nodename og dens %childcount underknuder. %additionalwarning</translation>
     </message>
     <message>
         <source>%nodename %additionalwarning</source>
@@ -1643,15 +1643,15 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Move to trash</source>
-        <translation>Flyt til trash</translation>
+        <translation>Flyt til papirkurven</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation>Notat</translation>
+        <translation>Bemærk</translation>
     </message>
     <message>
         <source>If %trashname is checked, removed items can be found in the trash.</source>
-        <translation>Hvis %trashname er tjekked, fjernede genstande kan findes i trash.</translation>
+        <translation>Hvis %trashname er markeret, kan fjernede elementer findes i papirkurven.</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -1659,7 +1659,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Afbryd</translation>
+        <translation>Annuller</translation>
     </message>
     <message>
         <source>The items contain more than the maximum possible nodes for subtree removal and will not be deleted. You can remove this subtree using the ezsubtreeremove.php script.</source>
@@ -1674,15 +1674,15 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     <name>design/ezwebin/notification/addingresult</name>
     <message>
         <source>Add to my notifications</source>
-        <translation>Tilføj til mine meldinger</translation>
+        <translation>Føj til mine notifikationer</translation>
     </message>
     <message>
         <source>Notification for node &lt;%node_name&gt; already exists.</source>
-        <translation>Du er allerede tilmeldt opdateringsmeldinger af %node_name.</translation>
+        <translation>Notifikation for knuden &lt;%node_name&gt; findes allerede.</translation>
     </message>
     <message>
         <source>Notification for node &lt;%node_name&gt; was added successfully.</source>
-        <translation>Tilmelding til opdateringsmeldinger for node %node_name er oprettet.</translation>
+        <translation>Notifikation for knuden &lt;%node_name&gt; blev tilføjet.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1693,7 +1693,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     <name>design/ezwebin/notification/handler/ezgeneraldigest/settings/edit</name>
     <message>
         <source>Receive all messages combined in one digest</source>
-        <translation>Modtag alle meddelelser samlet i én oversigt</translation>
+        <translation>Modtag alle beskeder samlet i én oversigt</translation>
     </message>
     <message>
         <source>Receive digests</source>
@@ -1701,7 +1701,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Daily, at</source>
-        <translation>Dagligt, på</translation>
+        <translation>Dagligt, kl.</translation>
     </message>
     <message>
         <source>Once per week, on </source>
@@ -1709,22 +1709,22 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Once per month, on day number</source>
-        <translation>Én gang om måneden på dag nummer</translation>
+        <translation>Én gang om måneden, på dag nummer</translation>
     </message>
     <message>
         <source>If day number is larger than the number of days within the current month, the last day of the current month will be used.</source>
-        <translation>Hvis nummeret på dagen er længere end antallet af dage i den pågældende måned, så vil den sidste dag i den pågældende måned blive brugt.</translation>
+        <translation>Hvis dagens nummer er større end antallet af dage i den aktuelle måned, bruges den sidste dag i den aktuelle måned.</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/notification/handler/ezsubtree/settings/edit</name>
     <message>
         <source>My item notifications [%notification_count]</source>
-        <translation>Mine elementnotifikationer [%notification_count]</translation>
+        <translation>Mine notifikationer om elementer [%notification_count]</translation>
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation>Spejlvend udvalget.</translation>
+        <translation>Vend markeringen om.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1732,7 +1732,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Type</source>
-        <translation>TypeType</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Section</source>
@@ -1744,7 +1744,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>You have not subscribed to receive notifications about any items.</source>
-        <translation>Du har ikke skrevet dig op til at modtage bemærkninger om nogle punkter.</translation>
+        <translation>Du abonnerer ikke på notifikationer om nogen elementer.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -1752,18 +1752,18 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Add items</source>
-        <translation>Tilføj punkter</translation>
+        <translation>Tilføj elementer</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/notification/settings</name>
     <message>
         <source>Notification settings</source>
-        <translation>Varslingsindstillinger</translation>
+        <translation>Notifikationsindstillinger</translation>
     </message>
     <message>
         <source>Apply changes</source>
-        <translation>Tilføj ændringer</translation>
+        <translation>Anvend ændringer</translation>
     </message>
 </context>
 <context>
@@ -1785,11 +1785,11 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     <name>design/ezwebin/parts/website_toolbar</name>
     <message>
         <source>Remove node RSS/ATOM feed</source>
-        <translation>Fjern RSS/ATOM-feed for knude</translation>
+        <translation>Fjern knudens RSS/ATOM-feed</translation>
     </message>
     <message>
         <source>Create node RSS/ATOM feed</source>
-        <translation>Opret RSS/ATOM-feed for knude</translation>
+        <translation>Opret RSS/ATOM-feed for knuden</translation>
     </message>
 </context>
 <context>
@@ -1827,12 +1827,12 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
         <translation>Site-URL</translation>
     </message>
     <message>
-        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and Exponential configuration.</source>
-        <translation>Brug dette felt til at indtaste sitets basis-URL. Den bruges til at danne URL&apos;erne i eksporten, sammensat af site-URL&apos;en (f.eks. &quot;http://www.example.com/index.php&quot;) og stien til objektet (f.eks. &quot;/articles/my_article&quot;). Site-URL&apos;en afhænger af din webserver og Exponential-konfiguration.</translation>
+        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. "http://www.example.com/index.php") and the path to the object (e.g. "/articles/my_article"). The Site URL depends on your web server and Exponential configuration.</source>
+        <translation>Brug dette felt til at indtaste sitets basis-URL. Den bruges til at danne URL'erne i eksporten, sammensat af site-URL'en (f.eks. "http://www.example.com/index.php") og stien til objektet (f.eks. "/articles/my_article"). Site-URL'en afhænger af din webserver og Exponential-konfiguration.</translation>
     </message>
     <message>
         <source>Leave this field emty if you want system automaticaly detect the URL of your site from the URL you access feed with</source>
-        <translation>Lad dette felt være tomt, hvis systemet automatisk skal finde URL&apos;en til dit site ud fra den URL, du tilgår feedet med</translation>
+        <translation>Lad dette felt være tomt, hvis systemet automatisk skal registrere dit sites URL ud fra den URL, du åbner feedet med</translation>
     </message>
     <message>
         <source>Image</source>
@@ -1891,8 +1891,8 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
         <translation>Adgangs-URL</translation>
     </message>
     <message>
-        <source>Use this field to set the URL where the RSS export should be available. Note that &quot;rss/feed/&quot; will be appended to the real URL. </source>
-        <translation>Brug dette felt til at angive den URL, hvor RSS-eksporten skal være tilgængelig. Bemærk, at &quot;rss/feed/&quot; føjes til den rigtige URL. </translation>
+        <source>Use this field to set the URL where the RSS export should be available. Note that "rss/feed/" will be appended to the real URL. </source>
+        <translation>Brug dette felt til at angive den URL, hvor RSS-eksporten skal være tilgængelig. Bemærk, at "rss/feed/" føjes til den rigtige URL. </translation>
     </message>
     <message>
         <source>Source</source>
@@ -1919,8 +1919,8 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
         <translation>Klasse</translation>
     </message>
     <message>
-        <source>Use this drop-down to select the type of object that triggers the export. Click the &quot;Set&quot; button to load the correct attribute types for the remaining fields.</source>
-        <translation>Brug denne rulleliste til at vælge den type objekt, der udløser eksporten. Klik på knappen &quot;Angiv&quot; for at indlæse de korrekte attributtyper til de øvrige felter.</translation>
+        <source>Use this drop-down to select the type of object that triggers the export. Click the "Set" button to load the correct attribute types for the remaining fields.</source>
+        <translation>Brug denne rulleliste til at vælge den type objekt, der udløser eksporten. Klik på knappen "Angiv" for at indlæse de korrekte attributtyper til de øvrige felter.</translation>
     </message>
     <message>
         <source>Set</source>
@@ -2011,7 +2011,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Use this field to enter the source URL of the RSS feed to import.</source>
-        <translation>Brug dette felt til at indtaste kilde-URL&apos;en for det RSS-feed, der skal importeres.</translation>
+        <translation>Brug dette felt til at indtaste kilde-URL'en for det RSS-feed, der skal importeres.</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2054,8 +2054,8 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
         <translation>Klasse</translation>
     </message>
     <message>
-        <source>Use this drop-down to select the type of object the import should create. Click the &quot;Set&quot; button to load the attribute types for the remaining fields.</source>
-        <translation>Brug denne rulleliste til at vælge den type objekt, importen skal oprette. Klik på knappen &quot;Angiv&quot; for at indlæse attributtyperne til de øvrige felter.</translation>
+        <source>Use this drop-down to select the type of object the import should create. Click the "Set" button to load the attribute types for the remaining fields.</source>
+        <translation>Brug denne rulleliste til at vælge den type objekt, importen skal oprette. Klik på knappen "Angiv" for at indlæse attributtyperne til de øvrige felter.</translation>
     </message>
     <message>
         <source>Set</source>
@@ -2217,7 +2217,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Account information</source>
-        <translation>Information om brugerkonto</translation>
+        <translation>Kontooplysninger</translation>
     </message>
     <message>
         <source>Confirm order</source>
@@ -2229,27 +2229,27 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>The following items were removed from your basket because the products were changed.</source>
-        <translation>Følgende vare er blevet fjernet fra indkøbskurven fordi produktet er blevet ændret.</translation>
+        <translation>Følgende varer blev fjernet fra din indkøbskurv, fordi produkterne er blevet ændret.</translation>
     </message>
     <message>
         <source>VAT is unknown</source>
-        <translation>MOMS er ukendt</translation>
+        <translation>Momsen er ukendt</translation>
     </message>
     <message>
         <source>VAT percentage is not yet known for some of the items being purchased.</source>
-        <translation>MOMS procentsats er endnu ikke kendt for enkelte af varende du handler.</translation>
+        <translation>Momsprocenten er endnu ikke kendt for nogle af de varer, der købes.</translation>
     </message>
     <message>
         <source>This probably means that some information about you is not yet available and will be obtained during checkout.</source>
-        <translation>Dette betyder at nogle information om dig ikke findes endnu og vil blive lagt ind senere i bestillingsproceduren.</translation>
+        <translation>Det betyder sandsynligvis, at nogle oplysninger om dig endnu ikke er tilgængelige og vil blive indhentet under betalingen.</translation>
     </message>
     <message>
         <source>Attempted to add object without price to basket.</source>
-        <translation>Forsøget at lægge varer uden pris til indkøbskurv.</translation>
+        <translation>Forsøgte at lægge et objekt uden pris i indkøbskurven.</translation>
     </message>
     <message>
         <source>Your payment was aborted.</source>
-        <translation>Betalingen blev afbrudt.</translation>
+        <translation>Din betaling blev afbrudt.</translation>
     </message>
     <message>
         <source>Count</source>
@@ -2257,11 +2257,11 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>VAT</source>
-        <translation>MOMS</translation>
+        <translation>Moms</translation>
     </message>
     <message>
         <source>Price inc. VAT</source>
-        <translation>Pris inkl. MOMS</translation>
+        <translation>Pris inkl. moms</translation>
     </message>
     <message>
         <source>Discount</source>
@@ -2269,11 +2269,11 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Total price ex. VAT</source>
-        <translation>Total pris. ex. MOMS</translation>
+        <translation>Samlet pris ekskl. moms</translation>
     </message>
     <message>
         <source>Total price inc. VAT</source>
-        <translation>Total pris ink. MOMS</translation>
+        <translation>Samlet pris inkl. moms</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -2289,19 +2289,19 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Selected options</source>
-        <translation>Valgte mulighed</translation>
+        <translation>Valgte muligheder</translation>
     </message>
     <message>
         <source>Subtotal ex. VAT</source>
-        <translation>Subtotal ex. MOMS</translation>
+        <translation>Subtotal ekskl. moms</translation>
     </message>
     <message>
         <source>Subtotal inc. VAT</source>
-        <translation>Subtotal ink. MOMS</translation>
+        <translation>Subtotal inkl. moms</translation>
     </message>
     <message>
         <source>Shipping</source>
-        <translation>Fragt</translation>
+        <translation>Forsendelse</translation>
     </message>
     <message>
         <source>Order total</source>
@@ -2309,7 +2309,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Continue shopping</source>
-        <translation>Forsæt med at handle</translation>
+        <translation>Fortsæt med at handle</translation>
     </message>
     <message>
         <source>Checkout</source>
@@ -2328,7 +2328,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Account information</source>
-        <translation>Information om brugerkonto</translation>
+        <translation>Kontooplysninger</translation>
     </message>
     <message>
         <source>Confirm order</source>
@@ -2344,11 +2344,11 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>VAT</source>
-        <translation>MOMS</translation>
+        <translation>Moms</translation>
     </message>
     <message>
         <source>Price inc. VAT</source>
-        <translation>Pris inkl. MOMS</translation>
+        <translation>Pris inkl. moms</translation>
     </message>
     <message>
         <source>Discount</source>
@@ -2356,15 +2356,15 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Total price ex. VAT</source>
-        <translation>Totalpris ex. MOMS</translation>
+        <translation>Samlet pris ekskl. moms</translation>
     </message>
     <message>
         <source>Total price inc. VAT</source>
-        <translation>Totalpris ink. MOMS</translation>
+        <translation>Samlet pris inkl. moms</translation>
     </message>
     <message>
         <source>Selected options</source>
-        <translation>Valgte mulighed</translation>
+        <translation>Valgte muligheder</translation>
     </message>
     <message>
         <source>Order summary</source>
@@ -2372,7 +2372,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Subtotal of items</source>
-        <translation>Subtotal varer</translation>
+        <translation>Subtotal for varer</translation>
     </message>
     <message>
         <source>Order total</source>
@@ -2380,7 +2380,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Afbryd</translation>
+        <translation>Annuller</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -2403,7 +2403,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     <name>design/ezwebin/shop/customerorderview</name>
     <message>
         <source>Customer information</source>
-        <translation>Kunde information</translation>
+        <translation>Kundeoplysninger</translation>
     </message>
     <message>
         <source>Order list</source>
@@ -2419,15 +2419,15 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Total ex. VAT</source>
-        <translation>Total eks. MOMS</translation>
+        <translation>I alt ekskl. moms</translation>
     </message>
     <message>
         <source>Total inc. VAT</source>
-        <translation>Total inkl. MOMS</translation>
+        <translation>I alt inkl. moms</translation>
     </message>
     <message>
         <source>Purchase list</source>
-        <translation>Indkøbsliste</translation>
+        <translation>Købsliste</translation>
     </message>
     <message>
         <source>Product</source>
@@ -2450,15 +2450,15 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Sort result by</source>
-        <translation>Sorteret resultat efter</translation>
+        <translation>Sorter resultatet efter</translation>
     </message>
     <message>
         <source>Order time</source>
-        <translation>Order tid</translation>
+        <translation>Ordretidspunkt</translation>
     </message>
     <message>
         <source>User name</source>
-        <translation>Bruger navn</translation>
+        <translation>Brugernavn</translation>
     </message>
     <message>
         <source>Order ID</source>
@@ -2466,19 +2466,19 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Ascending</source>
-        <translation>Opadgående</translation>
+        <translation>Stigende</translation>
     </message>
     <message>
         <source>Sort ascending</source>
-        <translation>Sorter opadgående</translation>
+        <translation>Sorter stigende</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation>Nedadgående</translation>
+        <translation>Faldende</translation>
     </message>
     <message>
         <source>Sort descending</source>
-        <translation>Soter nedadgående</translation>
+        <translation>Sorter faldende</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -2486,7 +2486,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>ID</source>
-        <translation>Id</translation>
+        <translation>ID</translation>
     </message>
     <message>
         <source>Date</source>
@@ -2498,19 +2498,19 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Total ex. VAT</source>
-        <translation>Total eks. MOMS</translation>
+        <translation>I alt ekskl. moms</translation>
     </message>
     <message>
         <source>Total inc. VAT</source>
-        <translation>Total inkl. MOMS</translation>
+        <translation>I alt inkl. moms</translation>
     </message>
     <message>
         <source>The order list is empty</source>
-        <translation>Orderlisten er tom</translation>
+        <translation>Ordrelisten er tom</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>Arkiveret</translation>
+        <translation>Arkiv</translation>
     </message>
     <message>
         <source>[ view ]</source>
@@ -2537,11 +2537,11 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>VAT</source>
-        <translation>MOMS</translation>
+        <translation>Moms</translation>
     </message>
     <message>
         <source>Price inc. VAT</source>
-        <translation>Pris inkl. MOMS</translation>
+        <translation>Pris inkl. moms</translation>
     </message>
     <message>
         <source>Discount</source>
@@ -2549,23 +2549,23 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Total price ex. VAT</source>
-        <translation>Totalpris ex. MOMS</translation>
+        <translation>Samlet pris ekskl. moms</translation>
     </message>
     <message>
         <source>Total price inc. VAT</source>
-        <translation>Totalpris ink. MOMS</translation>
+        <translation>Samlet pris inkl. moms</translation>
     </message>
     <message>
         <source>Order summary</source>
-        <translation>Ordresammendrag</translation>
+        <translation>Ordreoversigt</translation>
     </message>
     <message>
         <source>Summary</source>
-        <translation>Sammendrag</translation>
+        <translation>Resumé</translation>
     </message>
     <message>
         <source>Subtotal of items</source>
-        <translation>Subtotal varer</translation>
+        <translation>Subtotal for varer</translation>
     </message>
     <message>
         <source>Order total</source>
@@ -2592,7 +2592,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Account information</source>
-        <translation>Information om brugerkonto</translation>
+        <translation>Kontooplysninger</translation>
     </message>
     <message>
         <source>Confirm order</source>
@@ -2600,11 +2600,11 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Your account information</source>
-        <translation>Din kontoinfo</translation>
+        <translation>Dine kontooplysninger</translation>
     </message>
     <message>
         <source>Input did not validate. All fields marked with * must be filled in.</source>
-        <translation>Fejl i input. Alle felter mærkeret med * skal udfyldes.</translation>
+        <translation>Inputtet kunne ikke valideres. Alle felter markeret med * skal udfyldes.</translation>
     </message>
     <message>
         <source>First name</source>
@@ -2620,19 +2620,19 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Company</source>
-        <translation>Firma</translation>
+        <translation>Virksomhed</translation>
     </message>
     <message>
         <source>Street</source>
-        <translation>Adresse</translation>
+        <translation>Vej</translation>
     </message>
     <message>
         <source>Zip</source>
-        <translation>Postnr</translation>
+        <translation>Postnummer</translation>
     </message>
     <message>
         <source>Place</source>
-        <translation>Sted</translation>
+        <translation>By</translation>
     </message>
     <message>
         <source>State</source>
@@ -2648,15 +2648,15 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Afbryd</translation>
+        <translation>Annuller</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation>Forsæt</translation>
+        <translation>Fortsæt</translation>
     </message>
     <message>
         <source>All fields marked with * must be filled in.</source>
-        <translation>Alle felter mærket med * skal udfyldes.</translation>
+        <translation>Alle felter markeret med * skal udfyldes.</translation>
     </message>
 </context>
 <context>
@@ -2675,7 +2675,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Selected options</source>
-        <translation>Valgte optioner</translation>
+        <translation>Valgte muligheder</translation>
     </message>
     <message>
         <source>Store</source>
@@ -2683,22 +2683,22 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Remove items</source>
-        <translation>Fjern artikler</translation>
+        <translation>Fjern elementer</translation>
     </message>
     <message>
         <source>Empty wish list</source>
-        <translation>Tøm ønskelisten</translation>
+        <translation>Tøm ønskeliste</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/simplified_treemenu/show_simplified_menu</name>
     <message>
         <source>Fold/Unfold</source>
-        <translation>Fold ud/ind</translation>
+        <translation>Fold ud/sammen</translation>
     </message>
     <message>
         <source>Node ID: %node_id Visibility: %visibility</source>
-        <translation>Node-ID: %node_id Synlighed: %visibility</translation>
+        <translation>Knude-id: %node_id Synlighed: %visibility</translation>
     </message>
     <message>
         <source>Visible</source>
@@ -2716,15 +2716,15 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
 <context>
     <name>design/ezwebin/tagcloud/tagcloud</name>
     <message>
-        <source>%count objects tagged with &apos;%tag&apos;</source>
-        <translation>%count objekter mærket med &apos;%tag&apos;</translation>
+        <source>%count objects tagged with '%tag'</source>
+        <translation>%count objekter tagget med '%tag'</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/user/activate</name>
     <message>
         <source>Activate account</source>
-        <translation>Aktiver kontoen</translation>
+        <translation>Aktiver konto</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2767,11 +2767,11 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>My orders</source>
-        <translation>Mine ordre</translation>
+        <translation>Mine ordrer</translation>
     </message>
     <message>
         <source>My notification settings</source>
-        <translation>Mine beskedindstillinger</translation>
+        <translation>Mine notifikationsindstillinger</translation>
     </message>
     <message>
         <source>My wish list</source>
@@ -2779,34 +2779,34 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Edit profile</source>
-        <translation>Rediger profilen</translation>
+        <translation>Rediger profil</translation>
     </message>
     <message>
         <source>Change password</source>
-        <translation>Ændre adgangskode</translation>
+        <translation>Skift adgangskode</translation>
     </message>
     <message>
         <source>My pending items</source>
-        <translation>Mine igangværende punkter</translation>
+        <translation>Mine ventende elementer</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/user/forgotpassword</name>
     <message>
         <source>An email has been sent to the following address: %1. It contains a link you need to click so that we can confirm that the correct user has received the new password.</source>
-        <translation>Der er sendt en e-mail til følgende adresse: %1. Den indeholder et link, du skal klikke på, så vi kan bekræfte, at den rigtige bruger har modtaget den nye adgangskode.</translation>
+        <translation>Der er sendt en e-mail til følgende adresse: %1. Den indeholder et link, du skal klikke på, så vi kan bekræfte, at den rette bruger har modtaget den nye adgangskode.</translation>
     </message>
     <message>
         <source>There is no registered user with that email address.</source>
-        <translation>Der er ingen registeret bruger med denne email adresse.</translation>
+        <translation>Der er ingen registreret bruger med den e-mailadresse.</translation>
     </message>
     <message>
         <source>Password was successfully generated and sent to: %1</source>
-        <translation>Adgangskoden blev oprettet og sendt til: %1</translation>
+        <translation>Adgangskoden blev genereret og sendt til: %1</translation>
     </message>
     <message>
         <source>The key is invalid or has been used. </source>
-        <translation>Nøgle er ugyldig eller er allerede blevet brugt. </translation>
+        <translation>Nøglen er ugyldig eller er allerede brugt. </translation>
     </message>
     <message>
         <source>Have you forgotten your password?</source>
@@ -2814,7 +2814,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>If you have forgotten your password, enter your email address and we will create a new password and send it to you.</source>
-        <translation>Hvis du har glemt adgangskoden, indtast din email adresse og vi vil oprette en ny adgagnskode og sende den til dig.</translation>
+        <translation>Hvis du har glemt din adgangskode, så indtast din e-mailadresse, så opretter vi en ny adgangskode og sender den til dig.</translation>
     </message>
     <message>
         <source>Email</source>
@@ -2822,14 +2822,14 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Generate new password</source>
-        <translation>Generer nyt kodeord</translation>
+        <translation>Generer ny adgangskode</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/user/login</name>
     <message>
         <source>Login</source>
-        <translation>Log ind</translation>
+        <translation>Login</translation>
     </message>
     <message>
         <source>Could not login</source>
@@ -2837,15 +2837,15 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>A valid username and password is required to login.</source>
-        <translation>Et gyldig brugernavn og adgangskode kræves for at logge ind.</translation>
+        <translation>Der kræves et gyldigt brugernavn og en gyldig adgangskode for at logge ind.</translation>
     </message>
     <message>
         <source>Access not allowed</source>
-        <translation>Ingen tilgang</translation>
+        <translation>Adgang ikke tilladt</translation>
     </message>
     <message>
         <source>You are not allowed to access %1.</source>
-        <translation>Du har ikke tilgang til %1.</translation>
+        <translation>Du har ikke adgang til %1.</translation>
     </message>
     <message>
         <source>Username</source>
@@ -2854,11 +2854,11 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Password</source>
-        <translation>adgangskoder</translation>
+        <translation>Adgangskode</translation>
     </message>
     <message>
         <source>Log in to the Exponential Administration Interface</source>
-        <translation>Log ind til Exponential interfacet</translation>
+        <translation>Log ind i Exponentials administrationsgrænseflade</translation>
     </message>
     <message>
         <source>Remember me</source>
@@ -2872,7 +2872,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     <message>
         <source>Sign up</source>
         <comment>Button</comment>
-        <translation>Tilmeld</translation>
+        <translation>Tilmeld dig</translation>
     </message>
     <message>
         <source>Forgot your password?</source>
@@ -2890,12 +2890,12 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
         <translation>Indtast din gamle adgangskode igen.</translation>
     </message>
     <message>
-        <source>Password didn&apos;t match, please retype your new password.</source>
-        <translation>Adgangskode er forkert, vær venlig at indtaste din nye adgangskode.</translation>
+        <source>Password didn't match, please retype your new password.</source>
+        <translation>Adgangskoderne stemte ikke overens. Indtast din nye adgangskode igen.</translation>
     </message>
     <message>
         <source>Password successfully updated.</source>
-        <translation>Adgangskode er nu opdateret.</translation>
+        <translation>Adgangskoden er opdateret.</translation>
     </message>
     <message>
         <source>Old password</source>
@@ -2907,7 +2907,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Retype password</source>
-        <translation>Indtast adgangskode igen</translation>
+        <translation>Gentag adgangskode</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2919,7 +2919,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>The new password must be at least %1 characters long, please retype your new password.</source>
-        <translation>Den nye adgangskode skal være mindst %1 tegn langt, indtast adgangskode igen.</translation>
+        <translation>Den nye adgangskode skal være på mindst %1 tegn. Indtast din nye adgangskode igen.</translation>
     </message>
     <message>
         <source>Change your password</source>
@@ -2998,7 +2998,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Input did not validate</source>
-        <translation>Fejl i indtastning</translation>
+        <translation>Inputtet kunne ikke valideres</translation>
     </message>
     <message>
         <source>Input was stored successfully</source>
@@ -3010,11 +3010,11 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Discard</source>
-        <translation>Forkast</translation>
+        <translation>Kasser</translation>
     </message>
     <message>
         <source>Unable to register new user</source>
-        <translation>Kan ikke tilmelde ny bruger</translation>
+        <translation>Kunne ikke registrere ny bruger</translation>
     </message>
     <message>
         <source>Back</source>
@@ -3029,7 +3029,7 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     </message>
     <message>
         <source>Your account was successfully created. An email will be sent to the specified address. Follow the instructions in that email to activate your account.</source>
-        <translation>Din konto er oprettet. Der sendes en e-mail til den angivne adresse. Følg instruktionerne i e-mailen for at aktivere din konto.</translation>
+        <translation>Din konto er oprettet. Der sendes en e-mail til den angivne adresse. Følg vejledningen i e-mailen for at aktivere din konto.</translation>
     </message>
     <message>
         <source>Your account was successfully created.</source>
@@ -3184,18 +3184,18 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     <name>design/ezwebin/view/ezbinaryfile</name>
     <message>
         <source>The file could not be found.</source>
-        <translation>Fandt ikke filen.</translation>
+        <translation>Filen blev ikke fundet.</translation>
     </message>
 </context>
 <context>
     <name>design/ezwebin/view/ezmedia</name>
     <message>
         <source>No %link_startFlash player%link_end avaliable!</source>
-        <translation>Ingen %link_startFlash player%link_end tilgængeligt!</translation>
+        <translation>Ingen %link_startFlash-afspiller%link_end tilgængelig!</translation>
     </message>
     <message>
         <source>No media file is available.</source>
-        <translation>Ingen mediefil er tilgængelig.</translation>
+        <translation>Der er ingen mediefil tilgængelig.</translation>
     </message>
     <message>
         <source>Your browser does not support html5 video.</source>
@@ -3315,11 +3315,11 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
     <name>extension/ezodf</name>
     <message>
         <source>Document imported as</source>
-        <translation>Dokumentet er importeret som</translation>
+        <translation>Dokument importeret som</translation>
     </message>
     <message>
         <source>The imported document is waiting for an approbation to be published.</source>
-        <translation>Det importerede dokument venter på godkendelse, før det publiceres.</translation>
+        <translation>Det importerede dokument venter på godkendelse for at blive publiceret.</translation>
     </message>
 </context>
 <context>

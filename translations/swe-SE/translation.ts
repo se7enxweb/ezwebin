@@ -47,7 +47,7 @@
     </message>
     <message>
         <source>Existing translations</source>
-        <translation>Nuvarande översättningar</translation>
+        <translation>Befintliga översättningar</translation>
     </message>
     <message>
         <source>New translations</source>
@@ -55,7 +55,7 @@
     </message>
     <message>
         <source>Import in:</source>
-        <translation>Importera i:</translation>
+        <translation>Importera till:</translation>
     </message>
 </context>
 <context>
@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Please log in to vote on this poll.</source>
-        <translation>Var god logga in för att rösta i denna enkät.</translation>
+        <translation>Logga in för att rösta i denna enkät.</translation>
     </message>
     <message>
         <source>You have already voted for this poll.</source>
@@ -254,35 +254,35 @@
     </message>
     <message>
         <source>5 items</source>
-        <translation>5 poster</translation>
+        <translation>5 objekt</translation>
     </message>
     <message>
         <source>10 items</source>
-        <translation>10 poster</translation>
+        <translation>10 objekt</translation>
     </message>
     <message>
         <source>20 items</source>
-        <translation>20 poster</translation>
+        <translation>20 objekt</translation>
     </message>
     <message>
         <source>30 items</source>
-        <translation>30 poster</translation>
+        <translation>30 objekt</translation>
     </message>
     <message>
         <source>50 items</source>
-        <translation>50 poster</translation>
+        <translation>50 objekt</translation>
     </message>
     <message>
         <source>Search</source>
         <translation>Sök</translation>
     </message>
     <message>
-        <source>No results were found when searching for &quot;%1&quot;</source>
-        <translation>Inga resultat hittades vid sökning efter &quot;%1&quot;</translation>
+        <source>No results were found when searching for "%1"</source>
+        <translation>Inga resultat hittades vid sökning efter "%1"</translation>
     </message>
     <message>
-        <source>Search for &quot;%1&quot; returned %2 matches</source>
-        <translation>Sökningen efter &quot;%1&quot; hittade %2 resultat</translation>
+        <source>Search for "%1" returned %2 matches</source>
+        <translation>Sökningen efter "%1" hittade %2 resultat</translation>
     </message>
     <message>
         <source>Last month</source>
@@ -296,8 +296,8 @@
         <translation>Bläddra</translation>
     </message>
     <message>
-        <source>To select objects, choose the appropriate radiobutton or checkbox(es), and click the &quot;Select&quot; button.</source>
-        <translation>För att välja objekt, välj korrekt radioknapp eller kryssruta(-or) och klicka på &quot;Välj&quot;knappen.</translation>
+        <source>To select objects, choose the appropriate radiobutton or checkbox(es), and click the "Select" button.</source>
+        <translation>För att välja objekt, välj korrekt radioknapp eller kryssruta(-or) och klicka på "Välj"knappen.</translation>
     </message>
     <message>
         <source>To select an object that is a child of one of the displayed objects, click the parent object name to display a list of its children.</source>
@@ -351,7 +351,7 @@
     </message>
     <message>
         <source>Show calendar to select a date.</source>
-        <translation>Visa kalendern för att välja ett datum.</translation>
+        <translation>Visa kalender för att välja ett datum.</translation>
     </message>
     <message>
         <source>Hour</source>
@@ -418,13 +418,13 @@
     </message>
     <message>
         <source>These are the current objects you are working on. The drafts are owned by you and can only be seen by you.
-      You can either edit the drafts or remove them if you don&apos;t need them any more.</source>
+      You can either edit the drafts or remove them if you don't need them any more.</source>
         <translation>Det här är de objekt du arbetar med just nu. Utkasten ägs av dig och kan bara ses av dig.
       Du kan antingen redigera utkasten eller ta bort dem om du inte behöver dem längre.</translation>
     </message>
     <message>
         <source>These are the current objects you are working on. The drafts are owned by you and can only be seen by you.
- You can either edit the drafts or remove them if you don&apos;t need them any more.</source>
+ You can either edit the drafts or remove them if you don't need them any more.</source>
         <translation>Det här är de objekt du arbetar med just nu. Utkasten ägs av dig och kan bara ses av dig.
  Du kan antingen redigera utkasten eller ta bort dem om du inte behöver dem längre.</translation>
     </message>
@@ -441,7 +441,7 @@
     </message>
     <message>
         <source>Discard draft</source>
-        <translation>Ta bort utkast</translation>
+        <translation>Kasta utkast</translation>
     </message>
     <message>
         <source>Translating content from %from_lang to %to_lang</source>
@@ -457,19 +457,19 @@
     </message>
     <message>
         <source>Publish the contents of the draft that is being edited. The draft will become the published version of the object.</source>
-        <translation>Publicera det redigerade utkastets innehåll. Utkastet kommer bli den publicerade versionen av objektet.</translation>
+        <translation>Publicera innehållet i aktuellt utkast. Utkastet blir den nya publicerade versionen av objektet.</translation>
     </message>
     <message>
         <source>Store the contents of the draft that is being edited and continue editing. Use this button to periodically save your work while editing.</source>
-        <translation>Spara innehållet av utkastet som håller på att bli redigerat och forsätt redigera utkastet. Använd den här knappen ofta för att spara tid lagd på att redigera.</translation>
+        <translation>Spara innehållet i utkastet och fortsätt redigera det. Använd för att regelbundet spara under redigeringsarbetet.</translation>
     </message>
     <message>
         <source>Store draft and exit</source>
-        <translation>Spara och stäng utkast</translation>
+        <translation>Spara utkast och avsluta</translation>
     </message>
     <message>
         <source>Store the draft that is being edited and exit from edit mode. Use when you need to exit your work and return later to continue.</source>
-        <translation>Spara utkastet som redigeras och stäng från redigeringsläget. Använd när du behöver stänga ditt arbete och fortsätta vid senare tillfälle.</translation>
+        <translation>Spara utkastet som redigeras och lämna redigeringsläget. Använd när du behöver avbryta arbetet och fortsätta senare.</translation>
     </message>
     <message>
         <source>Discard the draft that is being edited. This will also remove the translations that belong to the draft (if any).</source>
@@ -531,8 +531,8 @@
     <message>
         <source>This object is already being edited by you.
         You can either continue editing one of your drafts or you can create a new draft.</source>
-        <translation>Objektet håller redan på att redigeras av dig
-   Du kan antingen välja att fortsätta redigera ett av dina utkast eller så kan du skapa nytt utkast.</translation>
+        <translation>Objektet redigeras redan av dig.
+        Du kan antingen fortsätta redigera ett av dina utkast eller skapa ett nytt utkast.</translation>
     </message>
     <message>
         <source>This object is already being edited by someone else.
@@ -837,8 +837,8 @@
         <translation>Följande ord exkluderades från sökningen:</translation>
     </message>
     <message>
-        <source>No results were found when searching for &quot;%1&quot;.</source>
-        <translation>Sökningen efter &quot;%1&quot; gav inga resultat.</translation>
+        <source>No results were found when searching for "%1".</source>
+        <translation>Sökningen efter "%1" gav inga resultat.</translation>
     </message>
     <message>
         <source>Search tips</source>
@@ -849,8 +849,8 @@
         <translation>Kontrollera stavning av nyckelord.</translation>
     </message>
     <message>
-        <source>Try changing some keywords (eg, &quot;car&quot; instead of &quot;cars&quot;).</source>
-        <translation>Försök med att ändra några nyckelord (t.ex. &quot;bil&quot; istället för &quot;bilar&quot;).</translation>
+        <source>Try changing some keywords (eg, "car" instead of "cars").</source>
+        <translation>Försök med att ändra några nyckelord (t.ex. "bil" istället för "bilar").</translation>
     </message>
     <message>
         <source>Try searching with less specific keywords.</source>
@@ -861,8 +861,8 @@
         <translation>Reducera antal nyckelord för att få fler resultat.</translation>
     </message>
     <message>
-        <source>Search for &quot;%1&quot; returned %2 matches</source>
-        <translation>Sökningen efter &quot;%1&quot; gav %2 träffar</translation>
+        <source>Search for "%1" returned %2 matches</source>
+        <translation>Sökningen efter "%1" gav %2 träffar</translation>
     </message>
 </context>
 <context>
@@ -885,11 +885,11 @@
     </message>
     <message>
         <source>The message was not sent due to an unknown error. Please notify the site administrator about this error.</source>
-        <translation>Meddelandet kunde inte skickas på grund av ett okänt fel. Var god kontakta administratören angående felet.</translation>
+        <translation>Meddelandet kunde inte skickas på grund av ett okänt fel. Kontakta administratören angående felet.</translation>
     </message>
     <message>
         <source>Please correct the following errors:</source>
-        <translation>Var god åtgärda följande fel:</translation>
+        <translation>Åtgärda följande fel:</translation>
     </message>
     <message>
         <source>Your name</source>
@@ -900,7 +900,7 @@
         <translation>Din e-postadress</translation>
     </message>
     <message>
-        <source>Recipient&apos;s email address</source>
+        <source>Recipient's email address</source>
         <translation>Mottagarens e-postadress</translation>
     </message>
     <message>
@@ -928,7 +928,7 @@
     </message>
     <message>
         <source>Discard</source>
-        <translation>Ta bort</translation>
+        <translation>Kasta</translation>
     </message>
 </context>
 <context>
@@ -943,7 +943,7 @@
     </message>
     <message>
         <source>Discard</source>
-        <translation>Ta bort</translation>
+        <translation>Kasta</translation>
     </message>
 </context>
 <context>
@@ -958,7 +958,7 @@
     </message>
     <message>
         <source>Discard</source>
-        <translation>Ta bort</translation>
+        <translation>Kasta</translation>
     </message>
 </context>
 <context>
@@ -973,7 +973,7 @@
     </message>
     <message>
         <source>Discard</source>
-        <translation>Ta bort</translation>
+        <translation>Kasta</translation>
     </message>
 </context>
 <context>
@@ -1039,9 +1039,9 @@
     Click on placement names to change the browse listing.</source>
         <translation>Välj placering för OpenOffice.org-objektet.
 
-    Markera placeringarna och klicka på knappen %buttonname.
+    Välj placeringar och klicka på knappen %buttonname.
     Du kan också använda senaste objekt och bokmärken för snabb placering.
-    Klicka på namnen på placeringarna för att ändra bläddringslistan.</translation>
+    Klicka på placeringsnamn för att ändra bläddringslistan.</translation>
     </message>
 </context>
 <context>
@@ -1110,10 +1110,10 @@
 asked where to place the document and Exponential does the rest. The document is converted into
 the appropriate class during the import, you get a notice about this after the import is done.
 Images are placed in the media library so you can re-use them in other articles.</source>
-        <translation>På den här sidan kan du importera OpenOffice.org Writer-dokument direkt till Exponential. Du
-får välja var dokumentet ska placeras och Exponential sköter resten. Dokumentet konverteras till
-rätt klass under importen och du får ett meddelande om det när importen är klar.
-Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra artiklar.</translation>
+        <translation>Från den här sidan kan du importera OpenOffice.org Writer-dokument direkt till Exponential. Du
+får ange var dokumentet ska placeras och Exponential gör resten. Dokumentet konverteras till
+lämplig klass under importen, och du får ett meddelande om detta när importen är klar.
+Bilder placeras i mediabiblioteket så att du kan återanvända dem i andra artiklar.</translation>
     </message>
     <message>
         <source>File:</source>
@@ -1121,7 +1121,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Document imported as</source>
-        <translation>Dokumentet importerat som</translation>
+        <translation>Dokumentet importerades som</translation>
     </message>
 </context>
 <context>
@@ -1393,7 +1393,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Remove this item.</source>
-        <translation>Ta bort denna post.</translation>
+        <translation>Ta bort det här objektet.</translation>
     </message>
 </context>
 <context>
@@ -1643,7 +1643,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Move to trash</source>
-        <translation>Flytta till skräpkorgen</translation>
+        <translation>Flytta till papperskorgen</translation>
     </message>
     <message>
         <source>Note</source>
@@ -1651,7 +1651,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>If %trashname is checked, removed items can be found in the trash.</source>
-        <translation>Om %trashname kontrolleras kan borttagna poster återfinnas i skräpkorgen.</translation>
+        <translation>Om %trashname är markerat finns borttagna objekt i papperskorgen.</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -1663,7 +1663,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>The items contain more than the maximum possible nodes for subtree removal and will not be deleted. You can remove this subtree using the ezsubtreeremove.php script.</source>
-        <translation>Objekten innehåller fler än maximalt antal noder för borttagning av underträd och kommer inte att raderas. Du kan radera underträd genom att använda ezsubtreeremove.php skriptet.</translation>
+        <translation>Objekten innehåller fler än det maximala antalet noder för borttagning av underträd och tas inte bort. Du kan ta bort underträdet med skriptet ezsubtreeremove.php.</translation>
     </message>
     <message>
         <source>Warning:</source>
@@ -1674,7 +1674,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     <name>design/ezwebin/notification/addingresult</name>
     <message>
         <source>Add to my notifications</source>
-        <translation>Lägg till i mina meddelanden</translation>
+        <translation>Lägg till i mina aviseringar</translation>
     </message>
     <message>
         <source>Notification for node &lt;%node_name&gt; already exists.</source>
@@ -1693,11 +1693,11 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     <name>design/ezwebin/notification/handler/ezgeneraldigest/settings/edit</name>
     <message>
         <source>Receive all messages combined in one digest</source>
-        <translation>Mottag alla meddelanden kombinerade i ett sammandrag</translation>
+        <translation>Ta emot alla meddelanden samlade i ett sammandrag</translation>
     </message>
     <message>
         <source>Receive digests</source>
-        <translation>Mottag sammandrag</translation>
+        <translation>Ta emot sammandrag</translation>
     </message>
     <message>
         <source>Daily, at</source>
@@ -1744,7 +1744,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>You have not subscribed to receive notifications about any items.</source>
-        <translation>Du har inte valt att få meddelande om någon post.</translation>
+        <translation>Du prenumererar inte på aviseringar om några objekt.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -1759,7 +1759,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     <name>design/ezwebin/notification/settings</name>
     <message>
         <source>Notification settings</source>
-        <translation>Meddelandeinställningar</translation>
+        <translation>Aviseringsinställningar</translation>
     </message>
     <message>
         <source>Apply changes</source>
@@ -1778,7 +1778,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Search text:</source>
-        <translation>Söktext:</translation>
+        <translation>Sökuttryck:</translation>
     </message>
 </context>
 <context>
@@ -1804,7 +1804,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>If RSS Export is Active then a valid Access URL is required.</source>
-        <translation>Om RSS-exporten är aktiverad krävs en validerad url.</translation>
+        <translation>Om RSS-exporten är aktiv krävs en giltig åtkomst-URL.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1820,19 +1820,19 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Use the description field to write a text explaining what users can expect from the RSS export.</source>
-        <translation>Använd förklaringsfältet för att skriva i en text som förklarar vad man kan förvänta sig av RSS-exporteringen.</translation>
+        <translation>Använd beskrivningsfältet för att skriva en text som förklarar vad användarna kan förvänta sig av RSS-exporten.</translation>
     </message>
     <message>
         <source>Site URL</source>
-        <translation>Sidans url</translation>
+        <translation>Webbplatsens URL</translation>
     </message>
     <message>
-        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and Exponential configuration.</source>
-        <translation>Ange bas-url:en för webbplatsen i detta fält. Den används för att generera url:er i exporten med webbplats-url:en (till exempel &quot;http://www.example.com/index.php&quot;) och sökvägen till objektet (till exempel &quot;/artiklar/min_artikel&quot;). Webbplats-url:en beror på webbserver- och Exponential-konfigurationen.</translation>
+        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. "http://www.example.com/index.php") and the path to the object (e.g. "/articles/my_article"). The Site URL depends on your web server and Exponential configuration.</source>
+        <translation>Ange webbplatsens bas-URL i det här fältet. Den används för att skapa URL:erna i exporten, som består av webbplatsens URL (t.ex. "http://www.example.com/index.php") och sökvägen till objektet (t.ex. "/artiklar/min_artikel"). Webbplatsens URL beror på konfigurationen av webbservern och Exponential.</translation>
     </message>
     <message>
         <source>Leave this field emty if you want system automaticaly detect the URL of your site from the URL you access feed with</source>
-        <translation>Lämna fältet tomt om du vill att systemet automatiskt ska känna av webbplatsens URL utifrån den URL som flödet hämtas med</translation>
+        <translation>Lämna fältet tomt om du vill att systemet automatiskt ska känna av webbplatsens URL från den URL som flödet hämtas med</translation>
     </message>
     <message>
         <source>Image</source>
@@ -1852,7 +1852,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Click to remove image from RSS export.</source>
-        <translation>Klicka för att ta bort bild från RSS-exporten.</translation>
+        <translation>Klicka för att ta bort bilden från RSS-exporten.</translation>
     </message>
     <message>
         <source>RSS version</source>
@@ -1860,7 +1860,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Use this drop-down menu to select the RSS version to use for the export. You must select RSS 2.0 in order to export the image selected above.</source>
-        <translation>Använd den här rullgardinsmenyn för att välja vilken RSS-version som ska användas vid exporteringen. Du måste välja RSS 2.0 för att den förväntade bilden ska visas (ovan).</translation>
+        <translation>Använd den här listrutan för att välja vilken RSS-version som ska användas för exporten. Du måste välja RSS 2.0 för att exportera bilden som valts ovan.</translation>
     </message>
     <message>
         <source>Number of objects</source>
@@ -1868,7 +1868,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Use this drop-down to select the maximum number of objects included in the RSS feed.</source>
-        <translation>Använd rullgardinsmenyn för att välja högsta antal objekt inkluderade i RSS-flödet.</translation>
+        <translation>Använd listrutan för att välja det högsta antalet objekt som tas med i RSS-flödet.</translation>
     </message>
     <message>
         <source>Active</source>
@@ -1880,19 +1880,19 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Main node only</source>
-        <translation>Endast Huvudnod</translation>
+        <translation>Endast huvudnod</translation>
     </message>
     <message>
         <source>Check if you want to only feed the object from the main node.</source>
-        <translation>Kryssa om du vill att bara objekt från huvudnoden ska feedas.</translation>
+        <translation>Markera om du bara vill ta med objektet från huvudnoden i flödet.</translation>
     </message>
     <message>
         <source>Access URL</source>
-        <translation>Åtkomst-url</translation>
+        <translation>Åtkomst-URL</translation>
     </message>
     <message>
-        <source>Use this field to set the URL where the RSS export should be available. Note that &quot;rss/feed/&quot; will be appended to the real URL. </source>
-        <translation>Använd det här fältet för att ange den URL där RSS-exporten ska vara tillgänglig. Observera att &quot;rss/feed/&quot; läggs till i den verkliga URL:en. </translation>
+        <source>Use this field to set the URL where the RSS export should be available. Note that "rss/feed/" will be appended to the real URL. </source>
+        <translation>Använd det här fältet för att ange den URL där RSS-exporten ska vara tillgänglig. Observera att "rss/feed/" läggs till i den verkliga URL:en. </translation>
     </message>
     <message>
         <source>Source</source>
@@ -1904,7 +1904,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Click this button to select the source node for the RSS export source. Objects of the type selected in the drop-down below published as sub items of the selected node will be included in the RSS export.</source>
-        <translation>Välj källnoden för RSS-exporten. Objekt av vald typ i rullgardinsmenyn nedan som är delenheter av vald nod inkluderas i RSS-exporten.</translation>
+        <translation>Klicka på den här knappen för att välja källnoden för RSS-exporten. Objekt av den typ som valts i listrutan nedan och som publicerats som underobjekt till den valda noden tas med i RSS-exporten.</translation>
     </message>
     <message>
         <source>Subnodes</source>
@@ -1912,15 +1912,15 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Activate this checkbox if objects from the subnodes of the source should also be fed.</source>
-        <translation>Aktivera denna kryssruta om objekt från undernoderna av källan också ska vara med i flödet.</translation>
+        <translation>Markera den här kryssrutan om objekt från källans undernoder också ska tas med i flödet.</translation>
     </message>
     <message>
         <source>Class</source>
         <translation>Klass</translation>
     </message>
     <message>
-        <source>Use this drop-down to select the type of object that triggers the export. Click the &quot;Set&quot; button to load the correct attribute types for the remaining fields.</source>
-        <translation>Använd denna meny för att välja objektstyp som triggar exporten och klicka på knappen &quot;Ställ in&quot; för att ladda rätt attributtyper för resterande fält.</translation>
+        <source>Use this drop-down to select the type of object that triggers the export. Click the "Set" button to load the correct attribute types for the remaining fields.</source>
+        <translation>Använd den här listrutan för att välja vilken typ av objekt som utlöser exporten. Klicka på knappen "Ställ in" för att läsa in rätt attributtyper för de återstående fälten.</translation>
     </message>
     <message>
         <source>Set</source>
@@ -1928,7 +1928,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Click this button to load the correct values into the drop-down fields below. Use the drop-down menu on the left to select the class.</source>
-        <translation>Klicka här för att ladda in rätt värden i rullgardinsmenyn nedan. Använd rullgardinsmenyn till vänster för att välja klass.</translation>
+        <translation>Klicka på den här knappen för att läsa in rätt värden i listrutorna nedan. Använd listrutan till vänster för att välja klass.</translation>
     </message>
     <message>
         <source>Title</source>
@@ -1936,7 +1936,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the title of the RSS export entry.</source>
-        <translation>Använd rullgardinsmenyn för att välja attribut som ska exporteras som titel för RSS-exportenheten.</translation>
+        <translation>Använd listrutan för att välja det attribut som ska exporteras som titel för posten i RSS-exporten.</translation>
     </message>
     <message>
         <source>optional</source>
@@ -1944,7 +1944,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the description of the RSS export entry.</source>
-        <translation>Använd rullgardinsmenyn för att välja attribut som ska exporteras som beskrivning för RSS-exportenheten.</translation>
+        <translation>Använd listrutan för att välja det attribut som ska exporteras som beskrivning för posten i RSS-exporten.</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -1956,7 +1956,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the category of the RSS export entry.</source>
-        <translation>Använd rullgardinsmenyn för att välja attribut som ska exporteras som kategori för RSS-exportenheten.</translation>
+        <translation>Använd listrutan för att välja det attribut som ska exporteras som kategori för posten i RSS-exporten.</translation>
     </message>
     <message>
         <source>Remove this source</source>
@@ -1964,7 +1964,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Click to remove this source from the RSS export.</source>
-        <translation>Klicka för att radera den här källan från RSS exporteringen.</translation>
+        <translation>Klicka för att ta bort den här källan från RSS-exporten.</translation>
     </message>
     <message>
         <source>Add source</source>
@@ -1972,7 +1972,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Click to add a new source to the RSS export.</source>
-        <translation>Klicka för att lägga till ny källa i RSS-exporten.</translation>
+        <translation>Klicka för att lägga till en ny källa i RSS-exporten.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1980,7 +1980,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Apply the changes and return to the RSS overview.</source>
-        <translation>Spara förändringar och återvänd till översikten av RSS.</translation>
+        <translation>Tillämpa ändringarna och gå tillbaka till RSS-översikten.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1988,7 +1988,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Cancel the changes and return to the RSS overview.</source>
-        <translation>Ångra förändringar och återvänd till RSS översikten.</translation>
+        <translation>Avbryt ändringarna och gå tillbaka till RSS-översikten.</translation>
     </message>
 </context>
 <context>
@@ -2007,11 +2007,11 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Source URL</source>
-        <translation>Käll-url</translation>
+        <translation>Käll-URL</translation>
     </message>
     <message>
         <source>Use this field to enter the source URL of the RSS feed to import.</source>
-        <translation>Använd det här fältet för att ange url för RSS-importen.</translation>
+        <translation>Använd det här fältet för att ange käll-URL:en för RSS-flödet som ska importeras.</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2019,15 +2019,15 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Click this button to proceed and analyze the import feed.</source>
-        <translation>Klicka på knappen för att analysera importflödet.</translation>
+        <translation>Klicka på den här knappen för att fortsätta och analysera importflödet.</translation>
     </message>
     <message>
         <source>RSS Version</source>
-        <translation>RSS version</translation>
+        <translation>RSS-version</translation>
     </message>
     <message>
         <source>Destination path</source>
-        <translation>Sökväg till mål</translation>
+        <translation>Målsökväg</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -2035,27 +2035,27 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Click this button to select the destination node where objects created by the import are located.</source>
-        <translation>Klicka på den här knappen för att ange vilken nod objekten ska skapas i när importen görs.</translation>
+        <translation>Klicka på den här knappen för att välja den målnod där objekt som skapas av importen placeras.</translation>
     </message>
     <message>
         <source>Imported objects will be owned by</source>
-        <translation>Importerade objekt kommer ägas av</translation>
+        <translation>Importerade objekt ägs av</translation>
     </message>
     <message>
         <source>Change user</source>
-        <translation>Ändra användare</translation>
+        <translation>Byt användare</translation>
     </message>
     <message>
         <source>Click this button to select the user who should own the objects created by the import.</source>
-        <translation>Klicka på den här knappen för att välja vilken användare som äger importen.</translation>
+        <translation>Klicka på den här knappen för att välja den användare som ska äga objekten som skapas av importen.</translation>
     </message>
     <message>
         <source>Class</source>
         <translation>Klass</translation>
     </message>
     <message>
-        <source>Use this drop-down to select the type of object the import should create. Click the &quot;Set&quot; button to load the attribute types for the remaining fields.</source>
-        <translation>Använd denna meny för att välja objektstyp som importen ska skapa. Klicka på knappen &quot;Ställ in&quot; för att ladda rätt attributtyper för resterande fält.</translation>
+        <source>Use this drop-down to select the type of object the import should create. Click the "Set" button to load the attribute types for the remaining fields.</source>
+        <translation>Använd den här listrutan för att välja vilken typ av objekt importen ska skapa. Klicka på knappen "Ställ in" för att läsa in attributtyperna för de återstående fälten.</translation>
     </message>
     <message>
         <source>Set</source>
@@ -2063,7 +2063,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Click this button to load the correct values into the drop-down fields below. Use the drop-down menu on the left to select the class.</source>
-        <translation>Klicka här för att ladda in rätt värden i rullgardinsmenyn nedan. Använd rullgardinsmenyn till vänster för att välja klass.</translation>
+        <translation>Klicka på den här knappen för att läsa in rätt värden i listrutorna nedan. Använd listrutan till vänster för att välja klass.</translation>
     </message>
     <message>
         <source>Class attributes</source>
@@ -2071,7 +2071,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Use this drop-down menu to select the attribute that should bet set as information from the RSS stream.</source>
-        <translation>Använd rullgardinsmenyn för att välja attribut som ska vara information i RSS-flödet.</translation>
+        <translation>Använd den här listrutan för att välja det attribut som ska fyllas med information från RSS-flödet.</translation>
     </message>
     <message>
         <source>Ignore</source>
@@ -2087,7 +2087,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Use this checkbox to control if the RSS feed is active or not. An inactive feed will not be automatically updated.</source>
-        <translation>Använd den här kryssrutan för att kontrollera om RSS-flödet är aktivt eller inte. Ett inaktivt flöde kommer inte att uppdateras automatiskt.</translation>
+        <translation>Använd den här kryssrutan för att styra om RSS-flödet är aktivt eller inte. Ett inaktivt flöde uppdateras inte automatiskt.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2095,7 +2095,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Apply the changes and return to the RSS overview.</source>
-        <translation>Spara förändringar och återvänd till översikten av RSS.</translation>
+        <translation>Tillämpa ändringarna och gå tillbaka till RSS-översikten.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2103,7 +2103,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Cancel the changes and return to the RSS overview.</source>
-        <translation>Ångra förändringar och återvänd till RSS översikten.</translation>
+        <translation>Avbryt ändringarna och gå tillbaka till RSS-översikten.</translation>
     </message>
 </context>
 <context>
@@ -2114,11 +2114,11 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Invert selection</source>
-        <translation>Invertera val</translation>
+        <translation>Invertera urval</translation>
     </message>
     <message>
         <source>Invert selection.</source>
-        <translation>Invertera val.</translation>
+        <translation>Invertera markering.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -2142,7 +2142,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Select RSS export for removal.</source>
-        <translation>Välj RSS exportering som ska raderas.</translation>
+        <translation>Välj RSS-export att ta bort.</translation>
     </message>
     <message>
         <source>Active</source>
@@ -2162,7 +2162,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>The RSS export list is empty.</source>
-        <translation>RSS-listan för exporteringar är tom.</translation>
+        <translation>Listan över RSS-exporter är tom.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -2174,11 +2174,11 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>New export</source>
-        <translation>Ny exportering</translation>
+        <translation>Ny export</translation>
     </message>
     <message>
         <source>Create a new RSS export.</source>
-        <translation>Skapa ny RSS-export.</translation>
+        <translation>Skapa en ny RSS-export.</translation>
     </message>
     <message>
         <source>RSS imports [%imports_count]</source>
@@ -2186,7 +2186,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Select RSS import for removal.</source>
-        <translation>Välj RSS importering som ska raderas.</translation>
+        <translation>Välj RSS-import att ta bort.</translation>
     </message>
     <message>
         <source>Edit the &lt;%name&gt; RSS import.</source>
@@ -2194,7 +2194,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>The RSS import list is empty.</source>
-        <translation>RSS-listan för importeringar är tom.</translation>
+        <translation>Listan över RSS-importer är tom.</translation>
     </message>
     <message>
         <source>Remove selected RSS imports.</source>
@@ -2202,11 +2202,11 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>New import</source>
-        <translation>Ny importering</translation>
+        <translation>Ny import</translation>
     </message>
     <message>
         <source>Create a new RSS import.</source>
-        <translation>Skapa ny RSS-importering.</translation>
+        <translation>Skapa en ny RSS-import.</translation>
     </message>
 </context>
 <context>
@@ -2336,7 +2336,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Product items</source>
-        <translation>Produkter</translation>
+        <translation>Produktartiklar</translation>
     </message>
     <message>
         <source>Count</source>
@@ -2372,7 +2372,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Subtotal of items</source>
-        <translation>Delsumma av produkter</translation>
+        <translation>Delsumma för artiklar</translation>
     </message>
     <message>
         <source>Order total</source>
@@ -2435,7 +2435,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Amount</source>
-        <translation>Belopp</translation>
+        <translation>Antal</translation>
     </message>
     <message>
         <source>view</source>
@@ -2525,7 +2525,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Product items</source>
-        <translation>Produkter</translation>
+        <translation>Produktartiklar</translation>
     </message>
     <message>
         <source>Product</source>
@@ -2565,7 +2565,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Subtotal of items</source>
-        <translation>Delsumma av produkter</translation>
+        <translation>Delsumma för artiklar</translation>
     </message>
     <message>
         <source>Order total</source>
@@ -2679,11 +2679,11 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Store</source>
-        <translation>Butik</translation>
+        <translation>Spara</translation>
     </message>
     <message>
         <source>Remove items</source>
-        <translation>Ta bort produkter</translation>
+        <translation>Ta bort objekt</translation>
     </message>
     <message>
         <source>Empty wish list</source>
@@ -2706,7 +2706,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Hidden by superior</source>
-        <translation>Dold genom överordnad</translation>
+        <translation>Dold av överordnad</translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -2716,8 +2716,8 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
 <context>
     <name>design/ezwebin/tagcloud/tagcloud</name>
     <message>
-        <source>%count objects tagged with &apos;%tag&apos;</source>
-        <translation>%count objekt taggade med &apos;%tag&apos;</translation>
+        <source>%count objects tagged with '%tag'</source>
+        <translation>%count objekt taggade med '%tag'</translation>
     </message>
 </context>
 <context>
@@ -2736,7 +2736,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Sorry, the key submitted was not a valid key. Account was not activated.</source>
-        <translation>Den skickade nyckeln är inte giltig. Kontot aktiverades inte.</translation>
+        <translation>Den angivna nyckeln är inte giltig. Kontot aktiverades inte.</translation>
     </message>
     <message>
         <source>Your account is already active.</source>
@@ -2771,7 +2771,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>My notification settings</source>
-        <translation>Mina meddelandeinställningar</translation>
+        <translation>Mina aviseringsinställningar</translation>
     </message>
     <message>
         <source>My wish list</source>
@@ -2887,11 +2887,11 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Please retype your old password.</source>
-        <translation>Var god skriv ditt gamla lösenord igen.</translation>
+        <translation>Skriv ditt gamla lösenord igen.</translation>
     </message>
     <message>
-        <source>Password didn&apos;t match, please retype your new password.</source>
-        <translation>Lösenordet överensstämmer inte. Var god skriv ditt nya lösenord igen.</translation>
+        <source>Password didn't match, please retype your new password.</source>
+        <translation>Lösenordet överensstämmer inte. Skriv ditt nya lösenord igen.</translation>
     </message>
     <message>
         <source>Password successfully updated.</source>
@@ -2919,7 +2919,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>The new password must be at least %1 characters long, please retype your new password.</source>
-        <translation>Ditt nya lösenord måste innehålla minst %1 tecken. Var god skriv ditt nya lösenord igen.</translation>
+        <translation>Ditt nya lösenord måste innehålla minst %1 tecken. Skriv ditt nya lösenord igen.</translation>
     </message>
     <message>
         <source>Change your password</source>
@@ -3002,7 +3002,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Input was stored successfully</source>
-        <translation>Informationen har sparats</translation>
+        <translation>Indata sparades</translation>
     </message>
     <message>
         <source>Register</source>
@@ -3010,7 +3010,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Discard</source>
-        <translation>Ta bort</translation>
+        <translation>Kasta</translation>
     </message>
     <message>
         <source>Unable to register new user</source>
@@ -3199,11 +3199,11 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Your browser does not support html5 video.</source>
-        <translation>Din webbläsare verkar inte stödja html5-video.</translation>
+        <translation>Din webbläsare stöder inte html5-video.</translation>
     </message>
     <message>
         <source>Your browser does not support html5 audio.</source>
-        <translation>Din webbläsare verkar inte stödja html5-ljud.</translation>
+        <translation>Din webbläsare stöder inte html5-ljud.</translation>
     </message>
     <message>
         <source>Get Microsoft Silverlight</source>
@@ -3259,7 +3259,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>No content object state is configured. This can be done %urlstart here %urlend.</source>
-        <translation>Inga innehållsobjektsstillstånd är konfigurerade. Det kan göras %urlstart här %urlend.</translation>
+        <translation>Inga objekttillstånd är konfigurerade. Det kan göras %urlstart här %urlend.</translation>
     </message>
     <message>
         <source>Set states</source>
@@ -3271,7 +3271,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>No state to be applied to this content object. You might need to be assigned a more permissive access policy.</source>
-        <translation>Inga tillstånd kan tillämpas på innehållsobjektet. Eventuellt behöver du tillämpa en mer tillåtande åtkomstpolicy.</translation>
+        <translation>Det finns inga tillstånd att tillämpa på det här innehållsobjektet. Du kan behöva tilldelas en mer tillåtande åtkomstpolicy.</translation>
     </message>
 </context>
 <context>
@@ -3285,7 +3285,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     <name>design/standard/user</name>
     <message>
         <source>Your email address has been confirmed. An administrator needs to approve your sign up request, before your login becomes valid.</source>
-        <translation>Din e-postadress har bekräftats. En administratör behöver nu acceptera din förfrågan innan din inlogning fungerar.</translation>
+        <translation>Din e-postadress har bekräftats. En administratör måste godkänna din registrering innan din inloggning blir giltig.</translation>
     </message>
     <message>
         <source>Your account is now activated.</source>
@@ -3297,7 +3297,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Sorry, the key submitted was not a valid key. Account was not activated.</source>
-        <translation>Den skickade nyckeln är inte giltig. Kontot aktiverades inte.</translation>
+        <translation>Den angivna nyckeln är inte giltig. Kontot aktiverades inte.</translation>
     </message>
 </context>
 <context>
@@ -3315,7 +3315,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     <name>extension/ezodf</name>
     <message>
         <source>Document imported as</source>
-        <translation>Dokumentet importerat som</translation>
+        <translation>Dokumentet importerades som</translation>
     </message>
     <message>
         <source>The imported document is waiting for an approbation to be published.</source>
@@ -3342,7 +3342,7 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Creator</source>
-        <translation>Författare</translation>
+        <translation>Skapare</translation>
     </message>
     <message>
         <source>Modified</source>
@@ -3366,11 +3366,11 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Rejected</source>
-        <translation>Avslagen</translation>
+        <translation>Avvisad</translation>
     </message>
     <message>
         <source>Untouched draft</source>
-        <translation>Obearbetat utkast</translation>
+        <translation>Orört utkast</translation>
     </message>
     <message>
         <source>This object does not have any versions.</source>
@@ -3390,11 +3390,11 @@ Bilderna placeras i mediebiblioteket så att du kan återanvända dem i andra ar
     </message>
     <message>
         <source>Inline changes</source>
-        <translation>Infogade ändringar</translation>
+        <translation>Ändringar i texten</translation>
     </message>
     <message>
         <source>Block changes</source>
-        <translation>Blockändringar</translation>
+        <translation>Ändringar i block</translation>
     </message>
     <message>
         <source>New version</source>

@@ -277,12 +277,12 @@
         <translation>Busca</translation>
     </message>
     <message>
-        <source>No results were found when searching for &quot;%1&quot;</source>
-        <translation>Nenhum resultado foi encontrado ao buscar por &quot;%1&quot;</translation>
+        <source>No results were found when searching for "%1"</source>
+        <translation>Nenhum resultado foi encontrado ao buscar por "%1"</translation>
     </message>
     <message>
-        <source>Search for &quot;%1&quot; returned %2 matches</source>
-        <translation>A buscar por &quot;%1&quot; retornou %2 resultados</translation>
+        <source>Search for "%1" returned %2 matches</source>
+        <translation>A buscar por "%1" retornou %2 resultados</translation>
     </message>
     <message>
         <source>Last month</source>
@@ -296,8 +296,8 @@
         <translation>Procurar</translation>
     </message>
     <message>
-        <source>To select objects, choose the appropriate radiobutton or checkbox(es), and click the &quot;Select&quot; button.</source>
-        <translation>Para selecionar objetos, escolha o botão rádio apropriado ou caixa(s) de verificação e clique no botão &quot;Selecionar&quot;.</translation>
+        <source>To select objects, choose the appropriate radiobutton or checkbox(es), and click the "Select" button.</source>
+        <translation>Para selecionar objetos, escolha o botão rádio apropriado ou caixa(s) de verificação e clique no botão "Selecionar".</translation>
     </message>
     <message>
         <source>To select an object that is a child of one of the displayed objects, click the parent object name to display a list of its children.</source>
@@ -418,13 +418,13 @@
     </message>
     <message>
         <source>These are the current objects you are working on. The drafts are owned by you and can only be seen by you.
-      You can either edit the drafts or remove them if you don&apos;t need them any more.</source>
+      You can either edit the drafts or remove them if you don't need them any more.</source>
         <translation>Estes são os objetos que você está trabalhando no momento. Estes rascunhos pertencem à você e só podem ser vistos por você.
 	  Você pode editar os rascunhos ou removê-los se não precisar mais deles.</translation>
     </message>
     <message>
         <source>These are the current objects you are working on. The drafts are owned by you and can only be seen by you.
- You can either edit the drafts or remove them if you don&apos;t need them any more.</source>
+ You can either edit the drafts or remove them if you don't need them any more.</source>
         <translation>Estes são os objetos em que você está trabalhando no momento. Os rascunhos pertencem a você e só podem ser vistos por você.
  Você pode editar os rascunhos ou removê-los se não precisar mais deles.</translation>
     </message>
@@ -504,7 +504,7 @@
     </message>
     <message>
         <source>Owner</source>
-        <translation>Dono</translation>
+        <translation>Proprietário</translation>
     </message>
     <message>
         <source>Created</source>
@@ -525,7 +525,7 @@
     <message>
         <source>This object is already being edited by yourself and others.
     You can either continue editing one of your drafts or you can create a new draft.</source>
-        <translation>Este objeto já está sendo editado por você e por outros.
+        <translation>Este objeto já está sendo editado por você e por outras pessoas.
     Você pode continuar editando um de seus rascunhos ou criar um novo rascunho.</translation>
     </message>
     <message>
@@ -538,7 +538,7 @@
         <source>This object is already being edited by someone else.
         You should either contact the person about their draft or create a new draft for your own use.</source>
         <translation>Este objeto já está sendo editado por outra pessoa.
-        Você pode contatar a pessoa sobre o rascunho dela ou criar um novo rascunho para o seu próprio uso.</translation>
+        Entre em contato com a pessoa sobre o rascunho dela ou crie um novo rascunho para seu próprio uso.</translation>
     </message>
 </context>
 <context>
@@ -837,8 +837,8 @@
         <translation>As seguintes palavras foram excluídas da pesquisa</translation>
     </message>
     <message>
-        <source>No results were found when searching for &quot;%1&quot;.</source>
-        <translation>Nenhum resultado foi encontrado ao pesquisar por &quot;%1&quot;</translation>
+        <source>No results were found when searching for "%1".</source>
+        <translation>Nenhum resultado foi encontrado ao pesquisar por "%1"</translation>
     </message>
     <message>
         <source>Search tips</source>
@@ -849,8 +849,8 @@
         <translation>Verifique a ortografia das palavras-chave.</translation>
     </message>
     <message>
-        <source>Try changing some keywords (eg, &quot;car&quot; instead of &quot;cars&quot;).</source>
-        <translation>Tente alterar algumas palavras-chave (por exemplo, &quot;carro&quot; em vez de &quot;carros&quot;).</translation>
+        <source>Try changing some keywords (eg, "car" instead of "cars").</source>
+        <translation>Tente alterar algumas palavras-chave (por exemplo, "carro" em vez de "carros").</translation>
     </message>
     <message>
         <source>Try searching with less specific keywords.</source>
@@ -861,8 +861,8 @@
         <translation>Reduza o número de palavras-chave até obter um resultado.</translation>
     </message>
     <message>
-        <source>Search for &quot;%1&quot; returned %2 matches</source>
-        <translation>A buscar por &quot;%1&quot; retornou %2 resultados</translation>
+        <source>Search for "%1" returned %2 matches</source>
+        <translation>A buscar por "%1" retornou %2 resultados</translation>
     </message>
 </context>
 <context>
@@ -897,11 +897,11 @@
     </message>
     <message>
         <source>Your email address</source>
-        <translation>Email</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
-        <source>Recipient&apos;s email address</source>
-        <translation>Quem recebe (email)</translation>
+        <source>Recipient's email address</source>
+        <translation>Quem recebe (e-mail)</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -1254,7 +1254,7 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     </message>
     <message>
         <source>Preview of event</source>
-        <translation>Prévia do evento</translation>
+        <translation>Pré-visualização do evento</translation>
     </message>
 </context>
 <context>
@@ -1269,7 +1269,7 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     </message>
     <message>
         <source>Preview of event</source>
-        <translation>Prévia do evento</translation>
+        <translation>Pré-visualização do evento</translation>
     </message>
 </context>
 <context>
@@ -1827,8 +1827,8 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
         <translation>URL do site</translation>
     </message>
     <message>
-        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and Exponential configuration.</source>
-        <translation>Utilize este campo para preencher uma URL base para seu site. Isto é utilizado para produzir as URLs na exportação, composta pela URL do site ( ex: &quot;http://www.example.com/index.php&quot;) e o caminho do objeto (ex: &quot;/articles/my_article&quot;). A URL do site depende do seu servidor web e da configuração do Exponential.</translation>
+        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. "http://www.example.com/index.php") and the path to the object (e.g. "/articles/my_article"). The Site URL depends on your web server and Exponential configuration.</source>
+        <translation>Utilize este campo para preencher uma URL base para seu site. Isto é utilizado para produzir as URLs na exportação, composta pela URL do site ( ex: "http://www.example.com/index.php") e o caminho do objeto (ex: "/articles/my_article"). A URL do site depende do seu servidor web e da configuração do Exponential.</translation>
     </message>
     <message>
         <source>Leave this field emty if you want system automaticaly detect the URL of your site from the URL you access feed with</source>
@@ -1891,8 +1891,8 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
         <translation>URL de acesso</translation>
     </message>
     <message>
-        <source>Use this field to set the URL where the RSS export should be available. Note that &quot;rss/feed/&quot; will be appended to the real URL. </source>
-        <translation>Use este campo para definir a URL em que a exportação RSS deve estar disponível. Observe que &quot;rss/feed/&quot; será acrescentado à URL real. </translation>
+        <source>Use this field to set the URL where the RSS export should be available. Note that "rss/feed/" will be appended to the real URL. </source>
+        <translation>Use este campo para definir a URL em que a exportação RSS deve estar disponível. Observe que "rss/feed/" será acrescentado à URL real. </translation>
     </message>
     <message>
         <source>Source</source>
@@ -1919,8 +1919,8 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
         <translation>Classe</translation>
     </message>
     <message>
-        <source>Use this drop-down to select the type of object that triggers the export. Click the &quot;Set&quot; button to load the correct attribute types for the remaining fields.</source>
-        <translation>Utilize este drop-down para selecionar o tipo de objeto que dispara a exportação. Clique no botão &quot;Definir&quot; para carregar os atributos corretos para os campos restantes.</translation>
+        <source>Use this drop-down to select the type of object that triggers the export. Click the "Set" button to load the correct attribute types for the remaining fields.</source>
+        <translation>Utilize este drop-down para selecionar o tipo de objeto que dispara a exportação. Clique no botão "Definir" para carregar os atributos corretos para os campos restantes.</translation>
     </message>
     <message>
         <source>Set</source>
@@ -2054,8 +2054,8 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
         <translation>Classe</translation>
     </message>
     <message>
-        <source>Use this drop-down to select the type of object the import should create. Click the &quot;Set&quot; button to load the attribute types for the remaining fields.</source>
-        <translation>Utilize este drop-down para selecionar o tipo de objeto que a importação deverá criar. Clique no botão &quot;Definir&quot; para carregar os tipos de atributos para os campos restantes.</translation>
+        <source>Use this drop-down to select the type of object the import should create. Click the "Set" button to load the attribute types for the remaining fields.</source>
+        <translation>Utilize este drop-down para selecionar o tipo de objeto que a importação deverá criar. Clique no botão "Definir" para carregar os tipos de atributos para os campos restantes.</translation>
     </message>
     <message>
         <source>Set</source>
@@ -2716,8 +2716,8 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
 <context>
     <name>design/ezwebin/tagcloud/tagcloud</name>
     <message>
-        <source>%count objects tagged with &apos;%tag&apos;</source>
-        <translation>%count objetos marcados com &apos;%tag&apos;</translation>
+        <source>%count objects tagged with '%tag'</source>
+        <translation>%count objetos marcados com a tag '%tag'</translation>
     </message>
 </context>
 <context>
@@ -2732,15 +2732,15 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     </message>
     <message>
         <source>Your account is now activated.</source>
-        <translation>Agora a sua conta está habilitada.</translation>
+        <translation>Sua conta está ativa agora.</translation>
     </message>
     <message>
         <source>Sorry, the key submitted was not a valid key. Account was not activated.</source>
-        <translation>Desculpe, a chave utilizada não é uma chave válida. A conta não foi ativada.</translation>
+        <translation>Desculpa, a chave submetida não é válida. A conta não foi ativada.</translation>
     </message>
     <message>
         <source>Your account is already active.</source>
-        <translation>A sua conta já está ativa.</translation>
+        <translation>Sua conta já está ativa.</translation>
     </message>
 </context>
 <context>
@@ -2794,7 +2794,7 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     <name>design/ezwebin/user/forgotpassword</name>
     <message>
         <source>An email has been sent to the following address: %1. It contains a link you need to click so that we can confirm that the correct user has received the new password.</source>
-        <translation>Um email foi enviado para o endereço de e-mail %1. O e-mail contém um link no qual você deve clicar para confirmar que o usuário correto está recebendo a nova senha.</translation>
+        <translation>Um e-mail foi enviado para o endereço de e-mail %1. O e-mail contém um link no qual você deve clicar para confirmar que o usuário correto está recebendo a nova senha.</translation>
     </message>
     <message>
         <source>There is no registered user with that email address.</source>
@@ -2890,7 +2890,7 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
         <translation>Redigite sua senha antiga.</translation>
     </message>
     <message>
-        <source>Password didn&apos;t match, please retype your new password.</source>
+        <source>Password didn't match, please retype your new password.</source>
         <translation>A senha não coincide, por favor, redigite sua nova senha.</translation>
     </message>
     <message>
@@ -3029,7 +3029,7 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     </message>
     <message>
         <source>Your account was successfully created. An email will be sent to the specified address. Follow the instructions in that email to activate your account.</source>
-        <translation>Sua conta foi criada com sucesso. Um email será enviado para o endereço de email especificado. Siga as instruções contidas nesse email para ativar sua conta.</translation>
+        <translation>Sua conta foi criada com sucesso. Um e-mail será enviado para o endereço de e-mail especificado. Siga as instruções contidas nesse e-mail para ativar sua conta.</translation>
     </message>
     <message>
         <source>Your account was successfully created.</source>
@@ -3285,7 +3285,7 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     <name>design/standard/user</name>
     <message>
         <source>Your email address has been confirmed. An administrator needs to approve your sign up request, before your login becomes valid.</source>
-        <translation>Seu endereço de email foi confirmado. Um administrador precisa aprovar sua requisição de cadastro para seu nome de usuário se tornar válido.</translation>
+        <translation>Seu endereço de e-mail foi confirmado. Um administrador precisa aprovar sua requisição de cadastro para seu nome de usuário se tornar válido.</translation>
     </message>
     <message>
         <source>Your account is now activated.</source>
@@ -3326,7 +3326,7 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     <name>design/ezwebin/content/diff</name>
     <message>
         <source>Versions for &lt;%object_name&gt; [%version_count]</source>
-        <translation>Versões de &lt;%object_name&gt; [%version_count]</translation>
+        <translation>Versões para &lt;%object_name&gt; [%version_count]</translation>
     </message>
     <message>
         <source>Version</source>
@@ -3370,11 +3370,11 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     </message>
     <message>
         <source>Untouched draft</source>
-        <translation>Rascunho intocado</translation>
+        <translation>Rascunho não tocado</translation>
     </message>
     <message>
         <source>This object does not have any versions.</source>
-        <translation>Este objeto não possui nenhuma versão.</translation>
+        <translation>Este objeto não tem nenhuma versão.</translation>
     </message>
     <message>
         <source>Show differences</source>
@@ -3382,7 +3382,7 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     </message>
     <message>
         <source>Differences between versions %oldVersion and %newVersion</source>
-        <translation>Diferenças entre versões %oldVersion e %newVersion</translation>
+        <translation>Diferenças entre as versões %oldVersion e %newVersion</translation>
     </message>
     <message>
         <source>Old version</source>
@@ -3390,11 +3390,11 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
     </message>
     <message>
         <source>Inline changes</source>
-        <translation>Mudanças em linha</translation>
+        <translation>Modificações em linha</translation>
     </message>
     <message>
         <source>Block changes</source>
-        <translation>Mudanças em bloco</translation>
+        <translation>Modificações em parágrafo</translation>
     </message>
     <message>
         <source>New version</source>
