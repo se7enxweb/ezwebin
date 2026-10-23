@@ -2939,7 +2939,7 @@ Obrazy są umieszczane w bibliotece multimediów, dzięki czemu można ich używ
     </message>
     <message>
         <source>Continue</source>
-        <translation>Kontynuuj</translation>
+        <translation>Kontynuować</translation>
     </message>
     <message>
         <source>Your password was not changed</source>
@@ -2967,7 +2967,7 @@ Obrazy są umieszczane w bibliotece multimediów, dzięki czemu można ich używ
     </message>
     <message>
         <source>Generate a strong password</source>
-        <translation>Wygeneruj silne hasło</translation>
+        <translation>Wygenerować silne hasło</translation>
     </message>
     <message>
         <source>new password again</source>
@@ -2975,7 +2975,7 @@ Obrazy są umieszczane w bibliotece multimediów, dzięki czemu można ich używ
     </message>
     <message>
         <source>Change password</source>
-        <translation>Zmień hasło</translation>
+        <translation>Zmienić hasło</translation>
     </message>
     <message>
         <source>Confirm new password</source>
@@ -3149,7 +3149,7 @@ Obrazy są umieszczane w bibliotece multimediów, dzięki czemu można ich używ
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Zaloguj się</translation>
+        <translation>Zalogować się</translation>
     </message>
     <message>
         <source>My profile</source>
@@ -3157,11 +3157,11 @@ Obrazy są umieszczane w bibliotece multimediów, dzięki czemu można ich używ
     </message>
     <message>
         <source>Edit profile</source>
-        <translation>Edytuj profil</translation>
+        <translation>Edytować profil</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation>Zarejestruj się</translation>
+        <translation>Zarejestrować się</translation>
     </message>
     <message>
         <source>Home</source>
