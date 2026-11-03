@@ -12,7 +12,9 @@
  *                                  inline <style> of page_head_displaystyles.tpl
  *   [data-ezwebin-gallery]         the gallery's slideshow: a native <dialog> with the large images, previous/next,
  *                                  play/pause, keyboard (arrows, Home, End, space, Escape) and swipe; it replaces
- *                                  the page-by-page "slideshow" and the old pop-ups
+ *                                  the page-by-page "slideshow" and the old pop-ups; the close button, Escape, a
+ *                                  click beside the picture and the browser's Back close it, and the focus goes
+ *                                  back to the picture that opened it
  *   [data-ezwebin-slideshow-start] opens that slideshow at the first image and plays it
  *   [data-ezwebin-pager]           a page with rel=prev/next links (an image of a gallery): the left and right
  *                                  arrow keys go to the previous and next page
@@ -159,8 +161,19 @@
             this.prevButton.addEventListener('click', () => this.go(this.index - 1));
             this.nextButton.addEventListener('click', () => this.go(this.index + 1));
             this.playButton.addEventListener('click', () => this.play(!this.timer));
-            d.addEventListener('close', () => this.play(false));
-            d.addEventListener('click', (e) => { if (e.target === d) { d.close(); } });
+            d.addEventListener('close', () => {
+                this.play(false);
+                // closed by the button, Escape or the backdrop: drop the history entry that opening added
+                if (this.pushed) { this.pushed = false; window.history.back(); }
+                if (this.opener && this.opener.isConnected) { this.opener.focus(); }
+            });
+            // the dialog fills the window: a click beside the picture, its caption and the buttons is a click on the
+            // backdrop and closes it
+            d.addEventListener('click', (e) => {
+                if (e.target === d || !e.target.closest('.slideshow-image, .slideshow-caption, .slideshow-bar')) { d.close(); }
+            });
+            // the browser's Back closes it too
+            window.addEventListener('popstate', () => { if (d.open) { this.pushed = false; d.close(); } });
             d.addEventListener('keydown', (e) => {
                 if (e.target.tagName === 'A' && e.key === ' ') { return; }
                 const keys = { ArrowLeft: -1, ArrowRight: 1 };
@@ -184,7 +197,11 @@
         open(i, autoplay) {
             if (!this.dialog) { this.build(); }
             this.go(i);
-            if (!this.dialog.open) { this.dialog.showModal(); }
+            if (!this.dialog.open) {
+                this.opener = doc.activeElement instanceof HTMLElement && doc.activeElement !== doc.body ? doc.activeElement : this.slides[i];
+                this.dialog.showModal();
+                try { window.history.pushState({ ezwebinSlideshow: true }, ''); this.pushed = true; } catch (err) { this.pushed = false; }
+            }
             this.play(autoplay);
             (autoplay ? this.playButton : this.nextButton).focus();
         }
