@@ -659,3 +659,6 @@ body.ezwebin
     --exps-radius: var(--ew-radius);
     --exps-shadow: var(--ew-shadow-raised);
 }
+
+/* The search page's filter labels are options, not field labels */
+body.ezwebin [class^="exps-"] label, body.ezwebin [class*=" exps-"] label { font-weight: 400; }
