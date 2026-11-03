@@ -13,7 +13,7 @@
             <extension name="ezjscore" />
         </requires>
         <extends>
-            <extension name="ezwt" />
+            <extension name="expwt" />
         </extends>
     </dependencies>
 
