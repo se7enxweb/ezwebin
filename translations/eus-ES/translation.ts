@@ -1421,6 +1421,14 @@ Irudiak multimedia-liburutegian kokatzen dira beste artikulu batzuetan berrerabi
         <source>View as slideshow</source>
         <translation>Ikusi aurkezpen gisa</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Itxi</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Pausatu</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Irudiak multimedia-liburutegian kokatzen dira beste artikulu batzuetan berrerabi
     <message>
         <source>Search text:</source>
         <translation>Bilaketa-testua:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Menua</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Nabigazio nagusia</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Atal honetan</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Estekak</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Nabigazio-bidea</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Hizkuntzak</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Kolore modua: Argia</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Kolore modua: Iluna</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Kolore modua: Sistemaren arabera</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Gehiago</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Erakutsi guztiak</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Honen teknologiarekin:</translation>
     </message>
 </context>
 <context>

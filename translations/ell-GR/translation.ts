@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>Προβολή ως παρουσίαση</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Κλείσιμο</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Παύση</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>Κείμενο αναζήτησης:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Μενού</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Κύρια πλοήγηση</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Σε αυτή την ενότητα</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Συνδέσεις</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Διαδρομή πλοήγησης</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Γλώσσες</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Λειτουργία χρωμάτων: Φωτεινή</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Λειτουργία χρωμάτων: Σκοτεινή</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Λειτουργία χρωμάτων: Όπως το σύστημα</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Περισσότερα</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Εμφάνιση όλων</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Με την υποστήριξη</translation>
     </message>
 </context>
 <context>

@@ -1502,6 +1502,14 @@ Kuvat sijoitetaan mediakirjastoon, jotta voit käyttää niitä uudelleen muissa
         <source>View as slideshow</source>
         <translation>Näytä diaesityksenä</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Sulje</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Keskeytä</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1860,6 +1868,54 @@ Kuvat sijoitetaan mediakirjastoon, jotta voit käyttää niitä uudelleen muissa
     <message>
         <source>Search text:</source>
         <translation>Hakuteksti:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Valikko</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Päänavigointi</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Tässä osiossa</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Linkit</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Murupolku</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Kielet</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Väritila: Vaalea</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Väritila: Tumma</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Väritila: Järjestelmän mukaan</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Lisää</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Näytä kaikki</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Tarjoaa</translation>
     </message>
 </context>
 <context>

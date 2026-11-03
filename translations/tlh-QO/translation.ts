@@ -1424,6 +1424,14 @@ lutmey latlhDaq Dalo&apos;qa&apos;laHmeH mIllogh qachDaq mIlloghmey lanlu&apos;.
         <source>View as slideshow</source>
         <translation>mIllogh mIr Segh yIlegh</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>yISoQmoH</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>yIyev</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1782,6 +1790,54 @@ lutmey latlhDaq Dalo&apos;qa&apos;laHmeH mIllogh qachDaq mIlloghmey lanlu&apos;.
     <message>
         <source>Search text:</source>
         <translation>nejmeH ghItlh:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>HIDjolev</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>He'a'</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>DaqvamDaq</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>rarwI'mey</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Sor He</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Holmey</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>nguv lo': wov</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>nguv lo': Hurgh</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>nguv lo': De'wI' tlha'</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>latlh</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Hoch yI'ang</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>HoS:</translation>
     </message>
 </context>
 <context>

@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>Просмотреть как слайдшоу</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Закрыть</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Приостановить</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>Искать текст:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Меню</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Главная навигация</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>В этом разделе</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Ссылки</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Цепочка навигации</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Языки</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Цветовой режим: Светлый</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Цветовой режим: Тёмный</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Цветовой режим: Как в системе</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Еще</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Показать все</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>На базе</translation>
     </message>
 </context>
 <context>

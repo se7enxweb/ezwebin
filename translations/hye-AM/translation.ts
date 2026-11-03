@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>Դիտել որպես սլայդ-շոու</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Փակել</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Դադարեցնել</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>Որոնման տեքստ:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Ընտրացանկ</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Հիմնական նավիգացիա</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Այս բաժնում</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Հղումներ</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Նավիգացիոն շղթա</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Լեզուներ</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Գունային ռեժիմ՝ Բաց</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Գունային ռեժիմ՝ Մուգ</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Գունային ռեժիմ՝ Ըստ համակարգի</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Ավելին</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Ցուցադրել բոլորը</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Ապահովված է՝</translation>
     </message>
 </context>
 <context>

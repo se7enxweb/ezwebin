@@ -1421,6 +1421,14 @@ A fi àwọn àwòrán sí ibi ìkówèé amóhùnmáwòrán kí ẹ lè tún w�
         <source>View as slideshow</source>
         <translation>Wo bí ìgbékalẹ̀ àwòrán</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Padé</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Dúró</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ A fi àwọn àwòrán sí ibi ìkówèé amóhùnmáwòrán kí ẹ lè tún w�
     <message>
         <source>Search text:</source>
         <translation>Ọ̀rọ̀ ìwádìí:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Àtòjọ àṣàyàn</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Ìtọ́sọ́nà pàtàkì</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Ní apá yìí</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Àwọn ìjápọ̀</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Ipa ọ̀nà ojú ìwé</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Àwọn èdè</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Ipo àwọ̀: Ìmọ́lẹ̀</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Ipo àwọ̀: Òkùnkùn</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Ipo àwọ̀: Tẹ̀lé ẹ̀rọ</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Àwọn míì</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Fihàn gbogbo rẹ̀</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Agbára láti ọwọ́</translation>
     </message>
 </context>
 <context>

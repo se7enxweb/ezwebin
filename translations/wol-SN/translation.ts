@@ -1421,6 +1421,14 @@ Nataal yi dañu ñu def ci bibliyotek medya bi ngir nga mën leen jëfandikoo ci
         <source>View as slideshow</source>
         <translation>Xool ni diaporama</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Tëj</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Taxawal ndaw</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Nataal yi dañu ñu def ci bibliyotek medya bi ngir nga mën leen jëfandikoo ci
     <message>
         <source>Search text:</source>
         <translation>Mbind mi ñuy seet:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Menu</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Wéy bu mag bi</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Ci xaaj bii</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Lëkkalekaay yi</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Yoonu ñu jaar</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Làkk yi</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Anamu melo: Leer</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Anamu melo: Lëndëm</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Anamu melo: Topp sistem bi</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Yu ëpp</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Wone yépp</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Doxal na ak</translation>
     </message>
 </context>
 <context>

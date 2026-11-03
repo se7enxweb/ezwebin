@@ -1421,6 +1421,14 @@ Obrazy są umieszczane w bibliotece multimediów, dzięki czemu można ich używ
         <source>View as slideshow</source>
         <translation>Wyświetlić jako pokaz slajdów</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Zamknąć</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Wstrzymać</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Obrazy są umieszczane w bibliotece multimediów, dzięki czemu można ich używ
     <message>
         <source>Search text:</source>
         <translation>Wyszukiwany tekst:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Menu</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Nawigacja główna</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>W tej sekcji</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Linki</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Ścieżka nawigacji</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Języki</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Tryb kolorów: Jasny</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Tryb kolorów: Ciemny</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Tryb kolorów: Jak w systemie</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Więcej</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Pokazać wszystko</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Działa dzięki</translation>
     </message>
 </context>
 <context>

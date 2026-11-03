@@ -1421,6 +1421,14 @@ Anapetraka ao amin&apos;ny tahirin&apos;ny haino aman-jery ny sary mba ahafahana
         <source>View as slideshow</source>
         <translation>Jereo ho fandaharana sary</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Akaro</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Ajanony vetivety</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Anapetraka ao amin&apos;ny tahirin&apos;ny haino aman-jery ny sary mba ahafahana
     <message>
         <source>Search text:</source>
         <translation>Lahatsoratra hotadiavina:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Menio</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Fitetezana lehibe</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Amin'ity fizarana ity</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Rohy</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Lalan'ny pejy</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Fiteny</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Fomba loko: Mazava</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Fomba loko: Maizina</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Fomba loko: Araka ny rafitra</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Hafa</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Asehoy daholo</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Ampiasain'ny</translation>
     </message>
 </context>
 <context>

@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>Прикажи као приказ слајдова</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Затвори</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Паузирај</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>Текст за претрагу:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Мени</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Главна навигација</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>У овом одељку</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Везе</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Путања навигације</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Језици</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Режим боја: Светли</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Режим боја: Тамни</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Режим боја: Према систему</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Више</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Прикажи све</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Покреће</translation>
     </message>
 </context>
 <context>

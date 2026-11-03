@@ -1421,6 +1421,14 @@ Gambar ditempatkan di pustaka media sehingga Anda dapat menggunakannya kembali d
         <source>View as slideshow</source>
         <translation>Lihat sebagai tayangan slide</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Tutup</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Jeda</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Gambar ditempatkan di pustaka media sehingga Anda dapat menggunakannya kembali d
     <message>
         <source>Search text:</source>
         <translation>Teks pencarian:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Menu</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Navigasi utama</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Di bagian ini</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Tautan</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Jejak navigasi</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Bahasa</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Mode warna: Terang</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Mode warna: Gelap</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Mode warna: Ikuti sistem</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Lainnya</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Tampilkan semua</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Didukung oleh</translation>
     </message>
 </context>
 <context>

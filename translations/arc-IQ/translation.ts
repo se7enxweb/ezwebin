@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>חזיא איך מחויתא דצורתא</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>סכרא</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>מפסקא</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>כתיבתא דבציא:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>מנו</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>סוערא רשיא</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>ܒܦܠܓܘܬܐ ܗܕܐ</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>אסורא</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>עקבא דאורחא</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>לשנא</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>אופנא דגונא: נהירא</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>אופנא דגונא: חשוכא</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>אופנא דגונא: בתר מערכתא</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>יתיר</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>מחויא דכל</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>מתחיל ביד</translation>
     </message>
 </context>
 <context>

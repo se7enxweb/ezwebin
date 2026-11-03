@@ -1421,6 +1421,14 @@ Amafoto ashyirwa mu bubiko bw&apos;itangazamakuru kugira ngo mushobore kuyakores
         <source>View as slideshow</source>
         <translation>Kureba nk&apos;imyiyerekano y&apos;amafoto</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Gufunga</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Guhagarika by'agateganyo</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Amafoto ashyirwa mu bubiko bw&apos;itangazamakuru kugira ngo mushobore kuyakores
     <message>
         <source>Search text:</source>
         <translation>Umwandiko wo gushakisha:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Menu</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Imiyoboro nyamukuru</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Muri iki gice</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Amahuza</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Inzira y'impapuro</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Indimi</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Uburyo bw'amabara: Urumuri</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Uburyo bw'amabara: Umwijima</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Uburyo bw'amabara: Kurikiza sisitemu</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Ibindi</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Kwerekana byose</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Bikorwa na</translation>
     </message>
 </context>
 <context>

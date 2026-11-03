@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>سىلايد كۆرسەتمە سۈپىتىدە كۆرۈش</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>تاقا</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>توختات</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>ئىزدەش تېكىستى:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>تىزىملىك</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>ئاساسىي يېتەكچى</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>بۇ بۆلەكتە</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>ئۇلانمىلار</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>يول ئىزى</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>تىللار</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>رەڭ ھالىتى: يورۇق</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>رەڭ ھالىتى: قاراڭغۇ</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>رەڭ ھالىتى: سىستېمىغا ئەگىشىش</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>كۆپرەك</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>ھەممىنى كۆرسەت</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>تەمىنلىگۈچى</translation>
     </message>
 </context>
 <context>

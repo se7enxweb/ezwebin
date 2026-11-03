@@ -1421,6 +1421,14 @@ Các hình ảnh được đặt trong thư viện phương tiện để bạn c
         <source>View as slideshow</source>
         <translation>Xem dạng trình chiếu</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Đóng</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Tạm dừng</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Các hình ảnh được đặt trong thư viện phương tiện để bạn c
     <message>
         <source>Search text:</source>
         <translation>Văn bản tìm kiếm:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Trình đơn</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Điều hướng chính</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Trong mục này</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Liên kết</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Đường dẫn điều hướng</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Ngôn ngữ</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Chế độ màu: Sáng</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Chế độ màu: Tối</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Chế độ màu: Theo hệ thống</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Thêm</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Hiển thị tất cả</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Được cung cấp bởi</translation>
     </message>
 </context>
 <context>

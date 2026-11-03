@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>سلائیڈ شو وجوں ویکھو</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>بند کرو</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>روکو</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>لبھت ٹیکسٹ:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>مینیو</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>مکھ نیویگیشن</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>ایس حصے وچ</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>لنک</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>بریڈ کرمبس</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>بولیاں</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>رنگ موڈ: ہلکا</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>رنگ موڈ: گوڑھا</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>رنگ موڈ: سسٹم مطابق</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>ہور</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>سارے وکھاؤ</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>طاقت</translation>
     </message>
 </context>
 <context>

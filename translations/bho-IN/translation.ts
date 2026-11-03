@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>स्लाइडशो के रूप में देखीं</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>बंद करीं</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>विराम लगाईं</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>खोज पाठ:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>मेनू</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>मुख्य नेविगेशन</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>एह खंड में</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>लिंक</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>ब्रेडक्रम्ब</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>भाषा</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>रंग मोड: हल्का</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>रंग मोड: गाढ़</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>रंग मोड: सिस्टम के हिसाब से</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>आउर</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>सभ देखाईं</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>संचालित</translation>
     </message>
 </context>
 <context>

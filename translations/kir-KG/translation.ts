@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>Слайд-шоу катары көрүү</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Жабуу</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Тындыруу</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>Издөө тексти:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Меню</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Негизги навигация</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Бул бөлүмдө</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Шилтемелер</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Навигация жолу</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Тилдер</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Түс режими: Ачык</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Түс режими: Караңгы</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Түс режими: Тутум боюнча</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Дагы</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Баарын көрсөтүү</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Колдоосунда:</translation>
     </message>
 </context>
 <context>

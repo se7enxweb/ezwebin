@@ -1421,6 +1421,14 @@ Beelde word in die media-biblioteek geplaas sodat u dit in ander artikels kan he
         <source>View as slideshow</source>
         <translation>Bekyk as skyfievertoning</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Sluit</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Onderbreek</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Beelde word in die media-biblioteek geplaas sodat u dit in ander artikels kan he
     <message>
         <source>Search text:</source>
         <translation>Soekteks:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Kieslys</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Hoofnavigasie</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>In hierdie afdeling</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Skakels</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Broodkrummelpad</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Tale</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Kleurmodus: Lig</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Kleurmodus: Donker</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Kleurmodus: Volg die stelsel</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Meer</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Wys almal</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Aangedryf deur</translation>
     </message>
 </context>
 <context>

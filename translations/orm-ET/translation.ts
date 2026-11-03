@@ -1421,6 +1421,14 @@ Suuraawwan mana kitaabaa miidiyaa keessatti kaa&apos;amu, barruuwwan biroo keess
         <source>View as slideshow</source>
         <translation>Akka agarsiisaatti ilaali</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Cufi</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Yeroodhaaf dhaabi</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Suuraawwan mana kitaabaa miidiyaa keessatti kaa&apos;amu, barruuwwan biroo keess
     <message>
         <source>Search text:</source>
         <translation>Barruu barbaaduu:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Menuu</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Naavigeeshinii ijoo</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Kutaa kana keessatti</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Hidhaawwan</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Karaa fuulaa</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Afaanota</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Haalata halluu: Ifaa</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Haalata halluu: Dukkana</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Haalata halluu: Sirna hordofi</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Dabalataa</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Hunda agarsiisi</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Kan hojjete</translation>
     </message>
 </context>
 <context>

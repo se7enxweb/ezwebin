@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>እንደ ስላይድ ትዕይንት ይመልከቱ</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>ዝጋ</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>አቁም</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>የፍለጋ ጽሑፍ:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>ምናሌ</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>ዋና አሰሳ</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>በዚህ ክፍል</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>አገናኞች</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>የዱካ አሰሳ</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>ቋንቋዎች</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>የቀለም ሁነታ፦ ብሩህ</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>የቀለም ሁነታ፦ ጨለማ</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>የቀለም ሁነታ፦ ስርዓቱን ተከተል</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>ተጨማሪ</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>ሁሉንም አሳይ</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>የተጎላበተው በ</translation>
     </message>
 </context>
 <context>

@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>Дидан ҳамчун намоиши слайдҳо</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Пӯшидан</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Мутаваққиф кардан</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>Матни ҷустуҷӯ:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Меню</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Паймоиши асосӣ</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Дар ин бахш</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Пайвандҳо</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Роҳи саҳифаҳо</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Забонҳо</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Реҷаи ранг: Равшан</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Реҷаи ранг: Торик</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Реҷаи ранг: Мувофиқи система</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Бештар</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Нишон додани ҳама</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Бо қуввати</translation>
     </message>
 </context>
 <context>
