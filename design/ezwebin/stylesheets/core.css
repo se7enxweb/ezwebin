@@ -640,3 +640,22 @@ table.object-center { margin-left: auto; margin-right: auto; }
         scroll-behavior: auto !important;
     }
 }
+
+/* The kernel's front search (front_search.css: header suggestions and the search page) in this design's tokens,
+   set on the body so they win over front_search.css's own :root values in light and dark mode */
+body.ezwebin
+{
+    --exps-font: var(--ew-font);
+    --exps-ink: var(--ew-text);
+    --exps-muted: var(--ew-muted);
+    --exps-surface: var(--ew-surface);
+    --exps-surface-alt: var(--ew-surface-2);
+    --exps-line: var(--ew-border);
+    --exps-accent: var(--ew-accent);
+    --exps-accent-ink: var(--ew-accent-contrast);
+    --exps-accent-soft: var(--ew-accent-soft);
+    --exps-mark: var(--ew-warning-soft);
+    --exps-bad: var(--ew-danger);
+    --exps-radius: var(--ew-radius);
+    --exps-shadow: var(--ew-shadow-raised);
+}

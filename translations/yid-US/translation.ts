@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>אָנקוקן ווי אַ בילדער־פֿאָרשטעלונג</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>פֿאַרמאַכן</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>פּויזירן</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>זוך־טעקסט:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>מעניו</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>הויפּט־נאַוויגאַציע</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>אין דעם אָפּטייל</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>לינקען</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>ברעקל־שפּור</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>שפּראַכן</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>קאָלירן־מאָדע: ליכטיק</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>קאָלירן־מאָדע: טונקל</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>קאָלירן־מאָדע: ווי די סיסטעם</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>מער</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>ווייַזן אַלץ</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>געטריבן דורך</translation>
     </message>
 </context>
 <context>

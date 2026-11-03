@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>સ્લાઇડશો તરીકે જુઓ</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>બંધ કરો</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>થોભાવો</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>શોધ ટેક્સ્ટ:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>મેનુ</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>મુખ્ય નેવિગેશન</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>આ વિભાગમાં</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>લિંક</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>બ્રેડક્રમ્બ</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>ભાષાઓ</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>રંગ મોડ: આછો</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>રંગ મોડ: ઘેરો</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>રંગ મોડ: સિસ્ટમ મુજબ</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>વધુ</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>બધા બતાવો</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>આના દ્વારા સંચાલિત</translation>
     </message>
 </context>
 <context>

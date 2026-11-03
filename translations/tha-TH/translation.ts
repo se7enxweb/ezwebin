@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>ดูเป็นสไลด์โชว์</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>ปิด</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>หยุดชั่วคราว</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>ข้อความค้นหา:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>เมนู</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>การนำทางหลัก</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>ในส่วนนี้</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>ลิงก์</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>เส้นทางนำทาง</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>ภาษา</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>โหมดสี: สว่าง</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>โหมดสี: มืด</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>โหมดสี: ตามระบบ</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>เพิ่มเติม</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>แสดงทั้งหมด</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>ขับเคลื่อนโดย</translation>
     </message>
 </context>
 <context>

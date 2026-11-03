@@ -1,4 +1,4 @@
-<nav id="links" aria-label="{'Site links'|i18n( 'design/ezwebin/pagelayout' )|wash}">
+<nav id="links" aria-label="{'Links'|i18n( 'design/ezwebin/pagelayout' )|wash}">
     <ul>
         {if $pagedesign.data_map.tag_cloud_url.data_text|ne('')}
             {if $pagedesign.data_map.tag_cloud_url.content|eq('')}

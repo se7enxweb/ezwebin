@@ -16,7 +16,7 @@
         <div class="hero-body">
             <p class="hero-title">{$object.data_map.name.content|wash}</p>
             {if $object.data_map.url.content}
-            <a class="hero-cta" href={$object.data_map.url.content|ezurl}>{'Learn more'|i18n( 'design/ezwebin/pagelayout' )}<span aria-hidden="true"> &rarr;</span><span class="sr-only">: {$object.data_map.name.content|wash}</span></a>
+            <a class="hero-cta" href={$object.data_map.url.content|ezurl}>{'More'|i18n( 'design/ezwebin/pagelayout' )}<span aria-hidden="true"> &rarr;</span><span class="sr-only">: {$object.data_map.name.content|wash}</span></a>
             {/if}
         </div>
     </div>

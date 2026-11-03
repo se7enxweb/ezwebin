@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>ஸ்லைடுஷோவாகக் காண்க</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>மூடு</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>இடைநிறுத்து</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>தேடல் உரை:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>பட்டி</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>முதன்மை வழிசெலுத்தல்</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>இந்தப் பகுதியில்</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>இணைப்புகள்</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>பாதைச்சுவடுகள்</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>மொழிகள்</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>வண்ணப் பயன்முறை: வெளிர்</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>வண்ணப் பயன்முறை: இருண்ட</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>வண்ணப் பயன்முறை: சிஸ்டத்தைப் பின்பற்று</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>மேலும்</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>அனைத்தையும் காட்டு</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>இயக்குவது</translation>
     </message>
 </context>
 <context>

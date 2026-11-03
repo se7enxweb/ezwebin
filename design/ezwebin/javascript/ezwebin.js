@@ -204,9 +204,8 @@
             this.title.href = link.href;
             const caption = item && item.querySelector('.gallery-caption');
             this.text.replaceChildren(...(caption ? [...caption.cloneNode(true).childNodes] : []));
-            this.position.textContent = this.label('position')
-                .replace('%current', String(this.index + 1)).replace('%total', String(n));
-            this.dialog.setAttribute('aria-label', this.position.textContent);
+            this.position.textContent = `${this.index + 1} / ${n}`;
+            this.dialog.setAttribute('aria-label', `${this.title.textContent} (${this.position.textContent})`);
             // the next image is fetched while this one is looked at
             const next = this.slides[(this.index + 1) % n];
             if (next) { new Image().src = next.dataset.ezwebinSrc; }

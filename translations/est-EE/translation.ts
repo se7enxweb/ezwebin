@@ -1421,6 +1421,14 @@ Pildid paigutatakse meediumiteeki, et saaksite neid teistes artiklites taaskasut
         <source>View as slideshow</source>
         <translation>Kuva slaidiseansina</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Sule</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Pane pausile</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Pildid paigutatakse meediumiteeki, et saaksite neid teistes artiklites taaskasut
     <message>
         <source>Search text:</source>
         <translation>Otsingutekst:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Menüü</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Põhinavigeerimine</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Selles jaotises</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Lingid</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Lingirada</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Keeled</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Värvirežiim: Hele</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Värvirežiim: Tume</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Värvirežiim: Süsteemi järgi</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Rohkem</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Kuva kõik</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Platvorm:</translation>
     </message>
 </context>
 <context>

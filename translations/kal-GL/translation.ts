@@ -1421,6 +1421,14 @@ Assit mediat katersugaanni inissinneqartarput allaaserisani allani atoqqissinnaa
         <source>View as slideshow</source>
         <translation>Assit tulleriiaartut takukkit</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Matuguk</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Unitsikkallarguk</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Assit mediat katersugaanni inissinneqartarput allaaserisani allani atoqqissinnaa
     <message>
         <source>Search text:</source>
         <translation>Ujarlernermi allagaq:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Menu</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Navigationi pingaarneq</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Immikkoortumi uani</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Innersuussutit</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Sumiinnerit aqqutaa</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Oqaatsit</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Qalipaat: Qaamasoq</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Qalipaat: Taartoq</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Qalipaat: Systemi malillugu</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Suli</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Tamaasa takutikkit</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Ingerlatsisut</translation>
     </message>
 </context>
 <context>

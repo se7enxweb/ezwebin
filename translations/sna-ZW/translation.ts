@@ -1421,6 +1421,14 @@ Mifananidzo inoiswa muraibhurari yemidhiya kuti muigone kushandisa zvakare mune 
         <source>View as slideshow</source>
         <translation>Tarisa slaidhi shou</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Vhara</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Misa</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Mifananidzo inoiswa muraibhurari yemidhiya kuti muigone kushandisa zvakare mune 
     <message>
         <source>Search text:</source>
         <translation>Zvekutsvaga:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Menyu</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Kufamba kukuru</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Muchikamu chino</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Malink</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Nzira yemapeji</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Mitauro</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Mamiriro emavara: Chiedza</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Mamiriro emavara: Rima</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Mamiriro emavara: Tevera sisitimu</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Zvimwe</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Ratidza zvose</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Inoshandiswa ne</translation>
     </message>
 </context>
 <context>

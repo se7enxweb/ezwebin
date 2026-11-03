@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>စလိုက်ရှိုးအဖြစ် ကြည့်ရန်</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>ပိတ်ရန်</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>ခေတ္တရပ်ရန်</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>ရှာဖွေမည့် စာသား:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>မီနူး</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>အဓိက လမ်းညွှန်</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>ဤကဏ္ဍတွင်</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>လင့်ခ်များ</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>လမ်းကြောင်းအညွှန်း</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>ဘာသာစကားများ</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>အရောင်မုဒ်- အလင်း</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>အရောင်မုဒ်- အမှောင်</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>အရောင်မုဒ်- စနစ်အတိုင်း</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>ပိုမို</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>အားလုံးကို ပြရန်</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>အားဖြည့်သူ</translation>
     </message>
 </context>
 <context>

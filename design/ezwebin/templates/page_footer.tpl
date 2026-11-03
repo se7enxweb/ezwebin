@@ -7,7 +7,7 @@
     {/if}
     {if $pagedesign.data_map.hide_powered_by.data_int|not}
     <p class="footer-powered">
-        {'Powered by %link'|i18n( 'design/ezwebin/pagelayout',, hash( '%link', concat( '<a href="https://exponential.earth">', 'Exponential'|wash, '</a>' ) ) )}
+        {'Powered by'|i18n( 'design/ezwebin/pagelayout' )} <a href="https://exponential.earth">Exponential</a>
     </p>
     {/if}
   </footer>

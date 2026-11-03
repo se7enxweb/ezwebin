@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>ಸ್ಲೈಡ್‌ಶೋ ಆಗಿ ವೀಕ್ಷಿಸು</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>ಮುಚ್ಚು</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>ವಿರಾಮಗೊಳಿಸು</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>ಹುಡುಕಾಟ ಪಠ್ಯ:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>ಮೆನು</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>ಮುಖ್ಯ ಸಂಚರಣೆ</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>ಈ ವಿಭಾಗದಲ್ಲಿ</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>ಲಿಂಕ್‌ಗಳು</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>ಬ್ರೆಡ್‌ಕ್ರಂಬ್‌ಗಳು</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>ಭಾಷೆಗಳು</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>ಬಣ್ಣದ ಮೋಡ್: ತಿಳಿ</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>ಬಣ್ಣದ ಮೋಡ್: ಗಾಢ</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>ಬಣ್ಣದ ಮೋಡ್: ಸಿಸ್ಟಮ್ ಅನುಸರಿಸಿ</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>ಇನ್ನಷ್ಟು</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>ಎಲ್ಲಾ ತೋರಿಸು</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>ಇದರಿಂದ ಚಾಲಿತ</translation>
     </message>
 </context>
 <context>

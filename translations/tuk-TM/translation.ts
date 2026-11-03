@@ -1421,6 +1421,14 @@ Suratlar media kitaphanasyna ýerleşdirilýär, şonuň üçin olary başga mak
         <source>View as slideshow</source>
         <translation>Slaýd-şou hökmünde gör</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Ýap</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Wagtlaýyn togtat</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Suratlar media kitaphanasyna ýerleşdirilýär, şonuň üçin olary başga mak
     <message>
         <source>Search text:</source>
         <translation>Gözleg teksti:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Menýu</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Esasy nawigasiýa</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Bu bölümde</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Baglanyşyklar</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Ýol nyşanlary</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Diller</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Reňk tertibi: Ýagty</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Reňk tertibi: Garaňky</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Reňk tertibi: Ulgama görä</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Has köp</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Hemmesini görkez</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Işleýän:</translation>
     </message>
 </context>
 <context>

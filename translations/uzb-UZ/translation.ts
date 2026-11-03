@@ -1421,6 +1421,14 @@ Rasmlar media kutubxonasiga joylashtiriladi, shuning uchun ularni boshqa maqolal
         <source>View as slideshow</source>
         <translation>Slayd-shou sifatida koʻrish</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Yopish</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Pauza qilish</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Rasmlar media kutubxonasiga joylashtiriladi, shuning uchun ularni boshqa maqolal
     <message>
         <source>Search text:</source>
         <translation>Qidiruv matni:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Menyu</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Asosiy navigatsiya</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Ushbu boʻlimda</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Havolalar</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Navigatsiya izi</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Tillar</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Rang rejimi: Yorug‘</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Rang rejimi: Qorong‘i</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Rang rejimi: Tizimga ko‘ra</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Yana</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Hammasini koʻrsatish</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Quvvatlaydi:</translation>
     </message>
 </context>
 <context>

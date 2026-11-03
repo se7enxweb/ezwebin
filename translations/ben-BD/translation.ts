@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>স্লাইডশো হিসেবে দেখুন</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>বন্ধ করুন</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>বিরতি দিন</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>অনুসন্ধানের টেক্সট:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>মেনু</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>প্রধান নেভিগেশন</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>এই বিভাগে</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>লিংক</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>ব্রেডক্রাম্ব</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>ভাষা</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>রঙের মোড: হালকা</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>রঙের মোড: গাঢ়</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>রঙের মোড: সিস্টেম অনুযায়ী</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>আরও</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>সব দেখান</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>যার দ্বারা চালিত</translation>
     </message>
 </context>
 <context>

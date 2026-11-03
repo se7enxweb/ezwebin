@@ -1421,6 +1421,14 @@ Imazhet vendosen në bibliotekën e medias, që t&apos;i ripërdorni në artikuj
         <source>View as slideshow</source>
         <translation>Shiko si shfaqje rrëshqitëse</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Mbyll</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Pezullo</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Imazhet vendosen në bibliotekën e medias, që t&apos;i ripërdorni në artikuj
     <message>
         <source>Search text:</source>
         <translation>Teksti i kërkimit:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Menyja</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Navigimi kryesor</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Në këtë seksion</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Lidhjet</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Gjurma e navigimit</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Gjuhët</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Modaliteti i ngjyrave: I çelët</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Modaliteti i ngjyrave: I errët</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Modaliteti i ngjyrave: Sipas sistemit</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Më shumë</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Shfaqi të gjitha</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Mundësuar nga</translation>
     </message>
 </context>
 <context>

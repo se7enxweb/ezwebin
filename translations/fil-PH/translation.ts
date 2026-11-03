@@ -1421,6 +1421,14 @@ Inilalagay ang mga larawan sa media library para magamit mo ang mga ito sa iba p
         <source>View as slideshow</source>
         <translation>Tingnan bilang slideshow</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Isara</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>I-pause</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Inilalagay ang mga larawan sa media library para magamit mo ang mga ito sa iba p
     <message>
         <source>Search text:</source>
         <translation>Hinahanap na teksto:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Menu</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Pangunahing nabigasyon</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Sa seksyong ito</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Mga link</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Breadcrumbs</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Mga wika</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Mode ng kulay: Maliwanag</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Mode ng kulay: Madilim</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Mode ng kulay: Sundin ang system</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Higit pa</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Ipakita lahat</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Pinapagana ng</translation>
     </message>
 </context>
 <context>

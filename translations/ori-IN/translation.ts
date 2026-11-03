@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>ସ୍ଲାଇଡ୍‌ସୋ ଭାବେ ଦେଖନ୍ତୁ</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>ବନ୍ଦ କରନ୍ତୁ</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>ବିରାମ ଦିଅନ୍ତୁ</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>ସନ୍ଧାନ ପାଠ୍ୟ:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>ମେନୁ</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>ମୁଖ୍ୟ ନାଭିଗେସନ୍</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>ଏହି ବିଭାଗରେ</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>ଲିଙ୍କ୍</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>ବ୍ରେଡକ୍ରମ୍ବ</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>ଭାଷା</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>ରଙ୍ଗ ମୋଡ୍: ହାଲୁକା</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>ରଙ୍ଗ ମୋଡ୍: ଗାଢ଼</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>ରଙ୍ଗ ମୋଡ୍: ସିଷ୍ଟମ ଅନୁସାରେ</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>ଅଧିକ</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>ସମସ୍ତ ଦେଖାନ୍ତୁ</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>ଦ୍ୱାରା ଚାଳିତ</translation>
     </message>
 </context>
 <context>

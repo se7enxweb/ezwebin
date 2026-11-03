@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>స్లైడ్‌షోగా వీక్షించండి</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>మూసివేయండి</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>పాజ్ చేయండి</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>శోధన వచనం:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>మెనూ</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>ప్రధాన నావిగేషన్</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>ఈ విభాగంలో</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>లింక్‌లు</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>బ్రెడ్‌క్రంబ్‌లు</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>భాషలు</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>రంగు మోడ్: లేత</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>రంగు మోడ్: ముదురు</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>రంగు మోడ్: సిస్టమ్ ప్రకారం</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>మరిన్ని</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>అన్నీ చూపించండి</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>దీని ఆధారంగా పనిచేస్తుంది</translation>
     </message>
 </context>
 <context>

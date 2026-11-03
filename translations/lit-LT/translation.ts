@@ -1421,6 +1421,14 @@ Paveikslėliai patalpinami medijos bibliotekoje, todėl galite juos naudoti kitu
         <source>View as slideshow</source>
         <translation>Peržiūrėti kaip skaidrių demonstraciją</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Uždaryti</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Pristabdyti</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Paveikslėliai patalpinami medijos bibliotekoje, todėl galite juos naudoti kitu
     <message>
         <source>Search text:</source>
         <translation>Paieškos tekstas:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Meniu</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Pagrindinis naršymas</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Šiame skyriuje</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Nuorodos</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Naršymo kelias</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Kalbos</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Spalvų režimas: Šviesus</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Spalvų režimas: Tamsus</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Spalvų režimas: Pagal sistemą</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Daugiau</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Rodyti visus</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Veikia su</translation>
     </message>
 </context>
 <context>

@@ -1421,6 +1421,14 @@ Bilder placeras i mediabiblioteket så att du kan återanvända dem i andra arti
         <source>View as slideshow</source>
         <translation>Visa som bildspel</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Stäng</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Pausa</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Bilder placeras i mediabiblioteket så att du kan återanvända dem i andra arti
     <message>
         <source>Search text:</source>
         <translation>Sökuttryck:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Meny</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Huvudnavigering</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>I det här avsnittet</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Länkar</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Brödsmulor</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Språk</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Färgläge: Ljust</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Färgläge: Mörkt</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Färgläge: Följ systemet</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Mer</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Visa alla</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Drivs av</translation>
     </message>
 </context>
 <context>

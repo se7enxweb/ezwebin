@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>Слайд-шоу буларак карау</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Ябу</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Туктатып тору</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>Эзләү тексты:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Меню</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Төп навигация</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>Бу бүлектә</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Сылтамалар</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Навигация юлы</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Телләр</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Төс режимы: Якты</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Төс режимы: Караңгы</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Төс режимы: Система буенча</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Тагын</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Барысын күрсәтү</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Ярдәмендә:</translation>
     </message>
 </context>
 <context>

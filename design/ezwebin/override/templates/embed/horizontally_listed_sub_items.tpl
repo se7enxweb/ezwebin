@@ -17,7 +17,7 @@
                                                     'sort_by', $object.main_node.sort_array ) )}
     <div class="section-heading">
         <h2>{$object.name|wash()}</h2>
-        <a class="section-more" href={$object.main_node.url_alias|ezurl}>{'View all'|i18n( 'design/ezwebin/pagelayout' )}<span class="sr-only">: {$object.name|wash()}</span></a>
+        <a class="section-more" href={$object.main_node.url_alias|ezurl}>{'Show all'|i18n( 'design/ezwebin/pagelayout' )}<span class="sr-only">: {$object.name|wash()}</span></a>
     </div>
     <div class="card-grid">
     {foreach $children as $child}

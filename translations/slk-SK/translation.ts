@@ -1421,6 +1421,14 @@ Obrázky sa umiestnia do knižnice médií, takže ich môžete znova použiť v
         <source>View as slideshow</source>
         <translation>Zobraziť ako prezentáciu</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Zavrieť</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Pozastaviť</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Obrázky sa umiestnia do knižnice médií, takže ich môžete znova použiť v
     <message>
         <source>Search text:</source>
         <translation>Hľadaný text:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Ponuka</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Hlavná navigácia</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>V tejto sekcii</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Odkazy</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Navigačná cesta</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Jazyky</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Farebný režim: Svetlý</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Farebný režim: Tmavý</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Farebný režim: Podľa systému</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Viac</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Zobraziť všetko</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Využíva</translation>
     </message>
 </context>
 <context>

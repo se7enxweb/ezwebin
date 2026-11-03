@@ -46,9 +46,9 @@
                  data-label-close="{'Close'|i18n( 'design/ezwebin/full/gallery' )|wash}"
                  data-label-previous="{'Previous image'|i18n( 'design/ezwebin/full/image' )|wash}"
                  data-label-next="{'Next image'|i18n( 'design/ezwebin/full/image' )|wash}"
-                 data-label-play="{'Play slideshow'|i18n( 'design/ezwebin/full/gallery' )|wash}"
-                 data-label-pause="{'Pause slideshow'|i18n( 'design/ezwebin/full/gallery' )|wash}"
-                 data-label-position="{'Image %current of %total'|i18n( 'design/ezwebin/full/gallery' )|wash}">
+                 data-label-play="{'View as slideshow'|i18n( 'design/ezwebin/full/gallery' )|wash}"
+                 data-label-pause="{'Pause'|i18n( 'design/ezwebin/full/gallery' )|wash}"
+>
                 {foreach $children as $child}
                     {node_view_gui view=galleryline content_node=$child}
                 {/foreach}

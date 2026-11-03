@@ -1421,6 +1421,14 @@ Le immagini vengono collocate nella libreria media in modo da poter essere riuti
         <source>View as slideshow</source>
         <translation>Guarda le immagini in sequenza</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Chiudi</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Sospendi</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Le immagini vengono collocate nella libreria media in modo da poter essere riuti
     <message>
         <source>Search text:</source>
         <translation>Testo ricerca:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Menu</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Navigazione principale</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>In questa sezione</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Link</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Percorso di navigazione</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Lingue</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Modalità colore: Chiara</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Modalità colore: Scura</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Modalità colore: Come il sistema</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Altro</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Mostra tutto</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Realizzato con</translation>
     </message>
 </context>
 <context>

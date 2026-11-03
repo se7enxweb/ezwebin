@@ -1421,6 +1421,14 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>View as slideshow</source>
         <translation>Преглед като слайдшоу</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Затвори</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Спри</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Images are placed in the media library so you can re-use them in other articles.
     <message>
         <source>Search text:</source>
         <translation>Текст за търсене:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>Меню</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>Основна навигация</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>В този раздел</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Връзки</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>Пътека за навигация</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>Езици</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>Цветови режим: Светъл</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>Цветови режим: Тъмен</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>Цветови режим: Според системата</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Още</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>Покажи всички</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>Задвижвано от</translation>
     </message>
 </context>
 <context>

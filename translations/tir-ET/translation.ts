@@ -1421,6 +1421,14 @@ Exponential ዝተረፈ ይገብር። እቲ ሰነድ ኣብ እዋን ም�
         <source>View as slideshow</source>
         <translation>ከም ስላይድ ርአ</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>ዕጸው</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>ኣጽንሕ</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/image</name>
@@ -1779,6 +1787,54 @@ Exponential ዝተረፈ ይገብር። እቲ ሰነድ ኣብ እዋን ም�
     <message>
         <source>Search text:</source>
         <translation>ጽሑፍ ምድላይ:</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>ዝርዝር</translation>
+    </message>
+    <message>
+        <source>Main navigation</source>
+        <translation>ቀንዲ ምንቅስቓስ</translation>
+    </message>
+    <message>
+        <source>In this section</source>
+        <translation>ኣብዚ ክፋል</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>መላግብቲ</translation>
+    </message>
+    <message>
+        <source>Breadcrumbs</source>
+        <translation>መንገዲ ገጻት</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>ቋንቋታት</translation>
+    </message>
+    <message>
+        <source>Color mode: Light</source>
+        <translation>ኣገባብ ሕብሪ፦ ብሩህ</translation>
+    </message>
+    <message>
+        <source>Color mode: Dark</source>
+        <translation>ኣገባብ ሕብሪ፦ ጸልማት</translation>
+    </message>
+    <message>
+        <source>Color mode: Follow system</source>
+        <translation>ኣገባብ ሕብሪ፦ ስርዓት ስዓብ</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>ተወሳኺ</translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation>ኩሉ ኣርኢ</translation>
+    </message>
+    <message>
+        <source>Powered by</source>
+        <translation>ዝሰርሕ ብ</translation>
     </message>
 </context>
 <context>

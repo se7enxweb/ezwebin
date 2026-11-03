@@ -137,15 +137,19 @@
 #searchbox { min-width: 0; }
 #searchbox form { margin: 0; }
 
+#searchbox { position: relative; }
+
 #searchbox-inner
 {
     display: flex;
     align-items: center;
+    position: relative;
     background-color: var(--ew-surface);
     border: 1px solid var(--ew-border-strong);
     border-radius: var(--ew-radius-pill);
-    overflow: hidden;
 }
+
+#searchbutton { border-radius: 0 var(--ew-radius-pill) var(--ew-radius-pill) 0; }
 
 #searchbox-inner:focus-within { outline: 3px solid var(--ew-focus); outline-offset: 2px; }
 
@@ -166,7 +170,7 @@
     min-height: var(--ew-target);
     padding: 0 var(--ew-space-4);
     border: 0;
-    border-radius: 0;
+    border-radius: 0 var(--ew-radius-pill) var(--ew-radius-pill) 0;
     background-color: var(--ew-accent);
     color: var(--ew-accent-contrast);
 }
