@@ -1256,6 +1256,18 @@ Anapetraka ao amin&apos;ny tahirin&apos;ny haino aman-jery ny sary mba ahafahana
         <source>Preview of event</source>
         <translation>Topi-maso ny hetsika</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalandrie</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Alaivo</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Tsy nahitana singa.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

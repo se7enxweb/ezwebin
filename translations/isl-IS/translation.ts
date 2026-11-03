@@ -1256,6 +1256,18 @@ Myndir eru settar í miðlasafnið svo þú getir endurnýtt þær í öðrum gr
         <source>Preview of event</source>
         <translation>Forskoðun viðburðar</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Dagatal</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Sækja</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Engin atriði fundust.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

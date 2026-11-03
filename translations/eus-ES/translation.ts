@@ -1256,6 +1256,18 @@ Irudiak multimedia-liburutegian kokatzen dira beste artikulu batzuetan berrerabi
         <source>Preview of event</source>
         <translation>Gertaeraren aurrebista</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Egutegia</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Deskargatu</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Ez da elementurik aurkitu.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

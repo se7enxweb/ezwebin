@@ -1256,6 +1256,18 @@ Ka tukua ngā atahanga ki te pātaka pāpāho kia taea ai te whakamahi anō i ē
         <source>Preview of event</source>
         <translation>Arokite o te takahanga</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Maramataka</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Tikiake</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Kāore he tūemi i kitea.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

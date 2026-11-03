@@ -119,6 +119,18 @@
         <source>Preview of event</source>
         <translation>Preview of event</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Calendar</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Download</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>No items found.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/embed/forum</name>

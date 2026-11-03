@@ -1256,6 +1256,18 @@ Amashusho arashirwa mu bubiko bw&apos;ibitangazamakuru kugira ngo mushobore kuya
         <source>Preview of event</source>
         <translation>Kubanza kuraba igikorwa</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalendari</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Kumanura</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Nta bintu vyabonetse.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

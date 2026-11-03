@@ -1256,6 +1256,18 @@ Suratlar media kitaphanasyna ýerleşdirilýär, şonuň üçin olary başga mak
         <source>Preview of event</source>
         <translation>Wakanyň öňünden görnüşi</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Senenama</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Göçürip al</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Element tapylmady.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

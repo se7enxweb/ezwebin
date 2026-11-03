@@ -1256,6 +1256,18 @@ Izithombe zibekwa emtapweni wemidiya ukuze nikwazi ukuzisebenzisa futhi kwezinye
         <source>Preview of event</source>
         <translation>Ukubuka kuqala komcimbi</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Ikhalenda</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Landa</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Azikho izinto ezitholakele.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

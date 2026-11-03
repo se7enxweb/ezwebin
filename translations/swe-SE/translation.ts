@@ -1256,6 +1256,18 @@ Bilder placeras i mediabiblioteket så att du kan återanvända dem i andra arti
         <source>Preview of event</source>
         <translation>Förhandsvisning av evenemang</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalender</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Ladda ner</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Inga poster hittades.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

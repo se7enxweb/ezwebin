@@ -1256,6 +1256,18 @@ As imagens são colocadas na biblioteca e você poderá reutilizá-las em outros
         <source>Preview of event</source>
         <translation>Pré-visualização do evento</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Calendário</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Baixar</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Nenhum item encontrado.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

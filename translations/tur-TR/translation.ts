@@ -1256,6 +1256,18 @@ Görseller medya kitaplığına yerleştirilir; böylece onları başka makalele
         <source>Preview of event</source>
         <translation>Etkinlik önizlemesi</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Takvim</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>İndir</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Öğe bulunamadı.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

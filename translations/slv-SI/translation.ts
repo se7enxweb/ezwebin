@@ -1256,6 +1256,18 @@ Slike so shranjene v knjižnici medijev, zato jih lahko znova uporabite v drugih
         <source>Preview of event</source>
         <translation>Predogled dogodka</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Koledar</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Prenesi</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Ni najdenih elementov.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

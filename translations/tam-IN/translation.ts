@@ -1256,6 +1256,18 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>Preview of event</source>
         <translation>நிகழ்வின் முன்னோட்டம்</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>நாட்காட்டி</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>பதிவிறக்கு</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>உருப்படிகள் எதுவும் கிடைக்கவில்லை.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

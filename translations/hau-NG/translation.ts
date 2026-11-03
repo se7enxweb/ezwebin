@@ -1256,6 +1256,18 @@ Ana sanya hotuna a ɗakin watsa labarai don ku iya sake amfani da su a wasu laba
         <source>Preview of event</source>
         <translation>Duba samfoti na abin da ya faru</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalanda</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Saukar</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Ba a sami abubuwa ba.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

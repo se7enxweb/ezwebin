@@ -1335,6 +1335,18 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>Preview of event</source>
         <translation>活动预览</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>日历</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>下载</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>未找到项目。</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

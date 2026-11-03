@@ -1335,6 +1335,18 @@ Slike se postavljaju u medijsku biblioteku, pa ih možete ponovo koristiti u dru
         <source>Preview of event</source>
         <translation>Pregled događaja</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalendar</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Preuzmi</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Nije pronađena nijedna stavka.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

@@ -1256,6 +1256,18 @@ As imaxes colócanse na biblioteca de medios para que as poida reutilizar noutro
         <source>Preview of event</source>
         <translation>Vista previa do evento</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Calendario</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Descargar</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Non se atoparon elementos.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

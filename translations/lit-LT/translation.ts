@@ -1256,6 +1256,18 @@ Paveikslėliai patalpinami medijos bibliotekoje, todėl galite juos naudoti kitu
         <source>Preview of event</source>
         <translation>Renginio peržiūra</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalendorius</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Atsisiųsti</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Elementų nerasta.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

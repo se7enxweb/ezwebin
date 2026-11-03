@@ -1256,6 +1256,18 @@ A képek a médiatárba kerülnek, így más cikkekben is újra felhasználhatja
         <source>Preview of event</source>
         <translation>Esemény előnézete</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Naptár</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Letöltés</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Nem található elem.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

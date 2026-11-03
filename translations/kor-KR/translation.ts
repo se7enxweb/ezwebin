@@ -1256,6 +1256,18 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>Preview of event</source>
         <translation>이벤트 미리 보기</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>달력</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>다운로드</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>항목을 찾을 수 없습니다.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

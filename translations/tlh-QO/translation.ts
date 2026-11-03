@@ -1259,6 +1259,18 @@ lutmey latlhDaq Dalo&apos;qa&apos;laHmeH mIllogh qachDaq mIlloghmey lanlu&apos;.
         <source>Preview of event</source>
         <translation>wanI&apos; nungbogh mIllogh</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>poH tetlh</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>yIHev</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Dochmey tu'lu'be'.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

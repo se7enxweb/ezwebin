@@ -1259,6 +1259,18 @@ Imagines in mediatheca ponuntur, ut eas in aliis articulis iterum adhibere possi
         <source>Preview of event</source>
         <translation>Praevisio eventus</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Calendarium</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Depromere</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Nullae res inventae.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

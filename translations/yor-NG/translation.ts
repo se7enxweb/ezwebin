@@ -1256,6 +1256,18 @@ A fi àwọn àwòrán sí ibi ìkówèé amóhùnmáwòrán kí ẹ lè tún w�
         <source>Preview of event</source>
         <translation>Awotẹ́lẹ̀ ìṣẹ̀lẹ̀</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kàlẹ́ńdà</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Gbà sílẹ̀</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>A kò rí ìtẹ̀síwájú àtòjọ kankan.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

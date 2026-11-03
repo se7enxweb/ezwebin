@@ -1260,6 +1260,18 @@ Afbeeldingen worden in de mediabibliotheek geplaatst, zodat je ze in andere arti
         <source>Preview of event</source>
         <translation>Voorbeeld van evenement</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalender</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Downloaden</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Geen items gevonden.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

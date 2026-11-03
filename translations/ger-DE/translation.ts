@@ -1335,6 +1335,18 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
         <source>Preview of event</source>
         <translation>Vorschau der Veranstaltung</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalender</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Herunterladen</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Keine Einträge gefunden.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

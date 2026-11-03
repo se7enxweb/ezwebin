@@ -1256,6 +1256,18 @@ Cuirtear íomhánna i Leabharlann na meán ionas gur féidir leat iad a athúsá
         <source>Preview of event</source>
         <translation>Réamhamharc ar an imeacht</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Féilire</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Íoslódáil</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Níor aimsíodh aon mhíreanna.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

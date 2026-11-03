@@ -1256,6 +1256,18 @@ D&apos;Biller ginn an d&apos;Mediebibliothéik gesat, sou datt Dir se an anere A
         <source>Preview of event</source>
         <translation>Virschau vum Evenement</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalenner</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Eroflueden</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Keng Elementer fonnt.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

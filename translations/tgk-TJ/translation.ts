@@ -1256,6 +1256,18 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>Preview of event</source>
         <translation>Пешнамоиши ҳодиса</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Тақвим</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Боргирӣ кардан</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Унсурҳо ёфт нашуданд.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

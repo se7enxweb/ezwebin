@@ -1256,6 +1256,18 @@ As imagens são colocadas na biblioteca de multimédia para que as possa reutili
         <source>Preview of event</source>
         <translation>Pré-visualização do evento</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Calendário</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Transferir</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Não foram encontrados itens.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

@@ -1256,6 +1256,18 @@ Beelde word in die media-biblioteek geplaas sodat u dit in ander artikels kan he
         <source>Preview of event</source>
         <translation>Voorskou van gebeurtenis</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalender</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Laai af</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Geen items gevind nie.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

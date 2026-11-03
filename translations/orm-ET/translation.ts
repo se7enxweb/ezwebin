@@ -1256,6 +1256,18 @@ Suuraawwan mana kitaabaa miidiyaa keessatti kaa&apos;amu, barruuwwan biroo keess
         <source>Preview of event</source>
         <translation>Taatee dursee ilaali</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kaalaandarii</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Buusi</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Wanti hin argamne.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

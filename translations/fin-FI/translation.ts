@@ -1337,6 +1337,18 @@ Kuvat sijoitetaan mediakirjastoon, jotta voit käyttää niitä uudelleen muissa
         <source>Preview of event</source>
         <translation>Tapahtuman esikatselu</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalenteri</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Lataa</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Kohteita ei löytynyt.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

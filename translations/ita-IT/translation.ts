@@ -1256,6 +1256,18 @@ Le immagini vengono collocate nella libreria media in modo da poter essere riuti
         <source>Preview of event</source>
         <translation>Anteprima dell'evento</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Calendario</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Scarica</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Nessun elemento trovato.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

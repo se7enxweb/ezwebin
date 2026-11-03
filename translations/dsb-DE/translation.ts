@@ -1256,6 +1256,18 @@ Wobraze se w medijowej bibliotece składuju, tak až móžośo je w drugich nast
         <source>Preview of event</source>
         <translation>Pśeglěd tšojenja</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalender</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Ześěgnuś</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Žedne zapiski njejsu se namakali.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

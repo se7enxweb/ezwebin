@@ -1256,6 +1256,18 @@ Imej diletakkan dalam pustaka media supaya anda boleh menggunakannya semula dala
         <source>Preview of event</source>
         <translation>Pratonton acara</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalendar</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Muat turun</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Tiada item ditemui.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

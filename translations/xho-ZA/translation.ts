@@ -1256,6 +1256,18 @@ Imifanekiso ibekwa kwilayibrari yemidiya ukuze niyisebenzise kwakhona kwamanye a
         <source>Preview of event</source>
         <translation>Jonga kuqala umsitho</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Ikhalenda</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Khuphela</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Akukho zinto zifunyenweyo.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

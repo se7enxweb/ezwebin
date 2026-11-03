@@ -1256,6 +1256,18 @@ Attēli tiek ievietoti multivides bibliotēkā, lai tos varētu atkārtoti izman
         <source>Preview of event</source>
         <translation>Notikuma priekšskatījums</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalendārs</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Lejupielādēt</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Netika atrasts neviens vienums.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

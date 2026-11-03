@@ -1256,6 +1256,18 @@ Imaginile sunt plasate în biblioteca media, astfel încât să le puteți reuti
         <source>Preview of event</source>
         <translation>Previzualizare eveniment</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Calendar</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Descărcare</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Nu s-au găsit elemente.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

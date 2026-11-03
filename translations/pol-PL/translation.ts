@@ -1256,6 +1256,18 @@ Obrazy są umieszczane w bibliotece multimediów, dzięki czemu można ich używ
         <source>Preview of event</source>
         <translation>Podgląd wydarzenia</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalendarz</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Pobrać</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Nie znaleziono elementów.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

@@ -1256,6 +1256,18 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>Preview of event</source>
         <translation>معاينة الحدث</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>التقويم</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>تنزيل</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>لم يتم العثور على عناصر.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

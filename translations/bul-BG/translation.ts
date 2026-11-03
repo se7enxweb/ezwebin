@@ -1256,6 +1256,18 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>Preview of event</source>
         <translation>Предварителен преглед на събитието</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Календар</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Изтегли</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Не са намерени елементи.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

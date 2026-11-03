@@ -1256,6 +1256,18 @@ Các hình ảnh được đặt trong thư viện phương tiện để bạn c
         <source>Preview of event</source>
         <translation>Xem trước sự kiện</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Lịch</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Tải xuống</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Không tìm thấy mục nào.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

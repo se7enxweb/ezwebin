@@ -1256,6 +1256,18 @@ bibliyoteek media ngam huutinde ɗe e deftere goɗɗe.</translation>
         <source>Preview of event</source>
         <translation>Yiyde adan ñaawoore</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalaandiriye</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Telchin</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Alaa huunde yiyaaka.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

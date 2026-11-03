@@ -1334,6 +1334,18 @@ Les images sont placées dans la médiathèque, vous pouvez les réutiliser dans
         <source>Preview of event</source>
         <translation>Prévisualisation de l&apos;évènement</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Calendrier</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Télécharger</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Aucun élément trouvé.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

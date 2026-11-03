@@ -1256,6 +1256,18 @@ Pildid paigutatakse meediumiteeki, et saaksite neid teistes artiklites taaskasut
         <source>Preview of event</source>
         <translation>Sündmuse eelvaade</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalender</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Laadi alla</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Üksusi ei leitud.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

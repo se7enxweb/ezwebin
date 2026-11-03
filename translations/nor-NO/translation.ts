@@ -1256,6 +1256,18 @@ at du kan gjenbruke dem i andre artikler.</translation>
         <source>Preview of event</source>
         <translation>Forhåndsvisning av arrangement</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalender</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Last ned</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Fant ingen elementer.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

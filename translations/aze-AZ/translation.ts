@@ -1256,6 +1256,18 @@ uyğun sinfə çevrilir, idxal bitdikdən sonra bu barədə bildiriş alırsın�
         <source>Preview of event</source>
         <translation>Tədbirin önbaxışı</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Təqvim</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Endir</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Element tapılmadı.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

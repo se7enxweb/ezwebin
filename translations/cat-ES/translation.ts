@@ -1336,6 +1336,18 @@ Les imatges es col·loquen a la biblioteca multimèdia per a poder ser reutilitz
         <source>Preview of event</source>
         <translation>Vista prèvia de l&apos;esdeveniment</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Calendari</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Baixa</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>No s'ha trobat cap element.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

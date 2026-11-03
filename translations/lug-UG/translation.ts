@@ -1256,6 +1256,18 @@ Ebifaananyi biteekebwa mu ggwanika ly&apos;ebifaananyi osobole okuddamu okubikoz
         <source>Preview of event</source>
         <translation>Okusooka okulaba ekibaddewo</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalenda</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Wanula</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Tewali bintu bizuuliddwa.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

@@ -1256,6 +1256,18 @@ Assit mediat katersugaanni inissinneqartarput allaaserisani allani atoqqissinnaa
         <source>Preview of event</source>
         <translation>Pisussap siumut takunera</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Ullorsiutit</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Aaguk</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Allattugaatinik nassaartoqanngilaq.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

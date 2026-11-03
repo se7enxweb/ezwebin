@@ -1256,6 +1256,18 @@ Waiho ʻia nā kiʻi ma ka waihona pāpaho i hiki iā ʻoe ke hoʻohana hou ma n
         <source>Preview of event</source>
         <translation>Nānā mua i ka hanana</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kālena</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Hoʻoiho</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>ʻAʻohe mea i loaʻa.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

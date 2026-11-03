@@ -1256,6 +1256,18 @@ Dem put di pictures for di media library so you fit use dem again for other arti
         <source>Preview of event</source>
         <translation>See how di event go look</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Calendar</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Download</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>We no see any item.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

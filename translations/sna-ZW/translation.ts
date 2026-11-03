@@ -1256,6 +1256,18 @@ Mifananidzo inoiswa muraibhurari yemidhiya kuti muigone kushandisa zvakare mune 
         <source>Preview of event</source>
         <translation>Ongororo yekutanga yechiitiko</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Karenda</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Dhaunirodha</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Hapana zvinhu zvakawanikwa.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

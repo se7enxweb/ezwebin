@@ -1256,6 +1256,18 @@ Gambar disimpen dina perpustakaan média supados tiasa dianggo deui dina artikel
         <source>Preview of event</source>
         <translation>Pratinjau acara</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalénder</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Unduh</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Euweuh item kapanggih.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

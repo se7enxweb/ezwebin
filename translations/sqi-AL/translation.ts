@@ -1256,6 +1256,18 @@ Imazhet vendosen në bibliotekën e medias, që t&apos;i ripërdorni në artikuj
         <source>Preview of event</source>
         <translation>Pamje paraprake e ngjarjes</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalendari</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Shkarko</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Nuk u gjetën elemente.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

@@ -1256,6 +1256,18 @@ Ang mga hulagway gibutang sa media library aron magamit nimo kini pag-usab sa ub
         <source>Preview of event</source>
         <translation>Preview sa panghitabo</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalendaryo</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>I-download</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Walay nakitang mga butang.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

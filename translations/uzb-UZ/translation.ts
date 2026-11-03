@@ -1256,6 +1256,18 @@ Rasmlar media kutubxonasiga joylashtiriladi, shuning uchun ularni boshqa maqolal
         <source>Preview of event</source>
         <translation>Tadbirni oldindan koʻrish</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Taqvim</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Yuklab olish</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Elementlar topilmadi.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

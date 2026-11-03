@@ -1256,6 +1256,18 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>Preview of event</source>
         <translation>ઇવેન્ટનું પૂર્વાવલોકન</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>કૅલેન્ડર</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>ડાઉનલોડ કરો</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>કોઈ આઇટમ મળી નથી.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

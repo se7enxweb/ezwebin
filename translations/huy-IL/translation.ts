@@ -1256,6 +1256,18 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>Preview of event</source>
         <translation>חזיא קדמיא דגדשא</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>לוחא דתאריכא</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>מחתא</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>לא אשתכחו מנותא.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

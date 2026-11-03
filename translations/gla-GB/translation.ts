@@ -1256,6 +1256,18 @@ Thèid na dealbhan a chur ann an leabharlann nam meadhanan gus an ath-chleachdad
         <source>Preview of event</source>
         <translation>Ro-shealladh dhen tachartas</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Mìosachan</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Luchdaich a-nuas</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Cha deach nì a lorg.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

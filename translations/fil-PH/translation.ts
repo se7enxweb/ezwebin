@@ -1256,6 +1256,18 @@ Inilalagay ang mga larawan sa media library para magamit mo ang mga ito sa iba p
         <source>Preview of event</source>
         <translation>Preview ng event</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalendaryo</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>I-download</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Walang nakitang item.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

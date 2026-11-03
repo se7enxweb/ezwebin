@@ -1256,6 +1256,18 @@ Caiff delweddau eu gosod yn y llyfrgell gyfryngau fel y gallwch eu hailddefnyddi
         <source>Preview of event</source>
         <translation>Rhagolwg o&apos;r digwyddiad</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Calendr</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Llwytho i lawr</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Ni chanfuwyd eitemau.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

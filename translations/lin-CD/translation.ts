@@ -1256,6 +1256,18 @@ Bilili etyami na bibliothèque ya média mpo okoka kosalela yango lisusu na baka
         <source>Preview of event</source>
         <translation>Kotala liboso ya likambo</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Calendrier</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Kitisá</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Eloko moko ezwami te.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

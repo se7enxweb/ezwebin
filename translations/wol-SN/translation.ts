@@ -1256,6 +1256,18 @@ Nataal yi dañu ñu def ci bibliyotek medya bi ngir nga mën leen jëfandikoo ci
         <source>Preview of event</source>
         <translation>Xool lu jiitu ci xew-xew bi</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalaadiye</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Yebbi</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Gisuñu njureef.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

@@ -1256,6 +1256,18 @@ Obrázky sa umiestnia do knižnice médií, takže ich môžete znova použiť v
         <source>Preview of event</source>
         <translation>Ukážka udalosti</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalendár</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Stiahnuť</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Nenašli sa žiadne položky.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

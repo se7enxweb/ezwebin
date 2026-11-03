@@ -1256,6 +1256,18 @@ Billeder placeres i mediebiblioteket, så du kan genbruge dem i andre artikler.<
         <source>Preview of event</source>
         <translation>Forhåndsvisning af arrangement</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalender</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Hent</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Ingen elementer fundet.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

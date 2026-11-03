@@ -1256,6 +1256,18 @@ Wêne di pirtûkxaneya medyayê de tên danîn da ku hûn wan di gotarên din de
         <source>Preview of event</source>
         <translation>Pêşdîtina bûyerê</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Salname</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Daxistin</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Tu hêman nehatin dîtin.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

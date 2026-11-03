@@ -1256,6 +1256,18 @@ Sawirrada waxaa la dhigaa maktabadda warbaahinta si aad dib ugu isticmaasho maqa
         <source>Preview of event</source>
         <translation>Horu-eegga dhacdada</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalandar</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Soo deji</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Lama helin shayo.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

@@ -1256,6 +1256,18 @@ A na-etinye foto n&apos;ụlọ akwụkwọ mgbasa ozi ka i nwee ike iji ha ọz
         <source>Preview of event</source>
         <translation>Ọhụụ mbụ nke mmemme</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalenda</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Budata</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Ahụghị ihe edepụtara ọ bụla.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

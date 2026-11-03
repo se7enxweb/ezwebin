@@ -1256,6 +1256,18 @@ Picha huwekwa kwenye maktaba ya midia ili uweze kuzitumia tena katika makala nyi
         <source>Preview of event</source>
         <translation>Onyesho la kukagua la tukio</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalenda</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Pakua</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Hakuna vipengee vilivyopatikana.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

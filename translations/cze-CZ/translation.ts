@@ -1256,6 +1256,18 @@ Obrázky se umístí do knihovny médií, takže je můžete znovu použít v da
         <source>Preview of event</source>
         <translation>Náhled události</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalendář</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Stáhnout</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Nebyly nalezeny žádné položky.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

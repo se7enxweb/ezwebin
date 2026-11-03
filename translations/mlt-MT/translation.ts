@@ -1256,6 +1256,18 @@ L-immaġnijiet jitpoġġew fil-librerija tal-midja sabiex tkun tista&apos; terġ
         <source>Preview of event</source>
         <translation>Dehra minn qabel tal-avveniment</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalendarju</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Niżżel</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Ma nstab l-ebda element.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

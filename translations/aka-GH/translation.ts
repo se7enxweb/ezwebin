@@ -1256,6 +1256,18 @@ Wɔde mfonini no sie wɔ media sukuu mu sɛ wobɛtumi de adi dwuma wɔ nsɛm fof
         <source>Preview of event</source>
         <translation>Nsɛm a ɛsii no hwɛ kane</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Bosome nhoma</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Twe gu so</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Wɔanhunu adeɛ biara.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

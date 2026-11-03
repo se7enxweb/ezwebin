@@ -1256,6 +1256,18 @@ Mbica nĩ ciigagwo thĩinĩ wa gĩkundi kĩa mbica nĩguo ũciuge rĩngĩ nyaũ 
         <source>Preview of event</source>
         <translation>Rora ũndũ mbere</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalenda</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>Ikũrũkia</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>Gũtirĩ indo ciaboneka.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>

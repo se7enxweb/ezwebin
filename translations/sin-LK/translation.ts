@@ -1256,6 +1256,18 @@ Images are placed in the media library so you can re-use them in other articles.
         <source>Preview of event</source>
         <translation>සිදුවීමේ පෙරදසුන</translation>
     </message>
+    <message>
+        <source>Calendar</source>
+        <translation>දින දර්ශනය</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>බාගන්න</translation>
+    </message>
+    <message>
+        <source>No items found.</source>
+        <translation>අයිතම හමු නොවීය.</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/full/event_view_program</name>
