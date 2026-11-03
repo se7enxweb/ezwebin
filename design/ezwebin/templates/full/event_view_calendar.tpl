@@ -102,8 +102,6 @@
 {/foreach}
 
 <div class="border-box">
-<div class="border-tl"><div class="border-tr"><div class="border-tc"></div></div></div>
-<div class="border-ml"><div class="border-mr"><div class="border-mc float-break">
 
 <div class="content-view-full">
  <div class="class-event-calendar event-calendar-calendarview">
@@ -116,8 +114,6 @@
 <div id="ezagenda_calendar_container">
 
 <div class="border-box">
-<div class="border-tl"><div class="border-tr"><div class="border-tc"></div></div></div>
-<div class="border-ml"><div class="border-mr"><div class="border-mc float-break">
 
 <table cellspacing="0" cellpadding="0" border="0" summary="{'Event Calendar'|i18n( 'design/ezwebin/full/event_view_calendar' )}">
 <thead>
@@ -194,8 +190,6 @@
 </tbody>
 </table>
 
-</div></div></div>
-<div class="border-bl"><div class="border-br"><div class="border-bc"></div></div></div>
 </div>
 
 </div>
@@ -236,7 +230,7 @@
 {foreach $events as $event}
     {if and( ne($view_parameters.offset, 2), eq($loop_count, 8))}
         <a id="ezagenda_month_hidden_show" href={$url_reload|ezurl} data-ezwebin-show="ezagenda_month_hidden">{"Show All Events.."|i18n("design/ezwebin/full/event_view_calendar")}</a>
-        <div id="ezagenda_month_hidden" style="display:none;">
+        <div id="ezagenda_month_hidden" hidden>
     {/if}
     
     <table class="ezagenda_month_event" cellpadding="0" cellspacing="0"{if gt($curr_ts , $event.object.data_map.to_time.content.timestamp)} class="ezagenda_event_old"{/if} summary="{'Preview of event'|i18n( 'design/ezwebin/full/event_view_calendar' )}">
@@ -284,6 +278,4 @@
 </div>
 </div>
 
-</div></div></div>
-<div class="border-bl"><div class="border-br"><div class="border-bc"></div></div></div>
 </div>
